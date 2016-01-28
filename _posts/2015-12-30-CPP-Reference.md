@@ -772,13 +772,38 @@ char *name[] = {
 
 ```
 
-`char amessage[] = "now is the time; // an array"`
+`char amessage[] = "now is the time"; // an array`
 
 `char *pmessage = "now is the time"; // a pointer`
 
 ***amessage*** is an array, just big enough to hold the sequence of characters and '\0' that initializes it.  ***amessage*** will always refer to the same storage.
+
 ***pmessage*** is a pointer, initialized to point to a string constant.  The pointer may subsequently be modified to point elsewhere, but the result is undefined if you try to modify the string contents.
 
+### cpp reference
+pass-by-reference allows a function to modify the outside object, like passing a pointer.
+calling a function that takes references is cleaner, syntactically, than than calling a function that takes pointer.
+
+```
+#include <iostream>
+using namespace std;
+
+void f(int& r) {
+  cout << "r = " << r << endl;
+  cout << "&r = " << &r << endl;
+  r = 5;
+  cout << "r = " << r << endl;
+}
+
+int main() {
+  int x = 47;
+  cout << "x = " << x << endl;
+  cout << "&x = " << &x << endl;
+  f(x); // Looks like pass by value, is actually pass by reference
+  cout << "x = " << x << endl;
+  return 0;
+}
+```
 
 ### structures
 Structures may not be compared.
