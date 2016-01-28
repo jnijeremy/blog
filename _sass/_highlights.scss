@@ -15,7 +15,7 @@ code {
   font-size: 80%;
 }
 
-code:not(.language-text) {
+code:not(.language-text):not(.language-cpp) {
     background-color: #FEE9CC;
 }
 
