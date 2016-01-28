@@ -7,7 +7,7 @@ C, CPP programming language reference.
 
 ### compiler
 
-gcc -0 run_hello hello.c
+gcc -o run_hello hello.c
 
 
 ./run_hello
@@ -92,7 +92,7 @@ a set of commonly used data structures & algorithms, parameterized with types, i
 
 ***
 
-外部变量
+external variable 外部变量
 
 **External variables are defined outside of any function and are thus potentially available to many functions.  External variables are permanent.**
 
@@ -112,7 +112,7 @@ variable defined outside of any function, need to be declared in each function t
 
 ***
 
-静态变量
+static variables 静态变量
 
 The **static** declaration, applied to an external variable or function, limits the scope of that object to the rest of the source file being compiled.
 
@@ -121,9 +121,9 @@ Normally, function names are global, visible to any part of the entire program. 
 Internal **static** variables provides private, permanent storage within a single function.
 
 ***
-自动变量
+automatic variable 自动变量
 
-**Automatic variables are internal to a function; they come into existence when the function is entered, and disappear when nit is left.**
+**Automatic variables are internal to a function; they come into existence when the function is entered, and disappear when it left.**
 
 An automatic variable declared and initialized in a block is initialized each time the block is entered.  And remain in existence until the matching right brace.
 
@@ -141,7 +141,7 @@ For automatic and register variables, the initializer is not restricted to being
 
 `x = f() + g();` // f may be evaluated before g or vice versa;
 
-`a[i] = i++` // undetermined behavior
+`a[i] = i++` // undetermined behaviour
 
 
 **// conditional operator**
@@ -155,22 +155,26 @@ For automatic and register variables, the initializer is not restricted to being
 `z = (a > b) ? a : b;` // z = max(a, b)
 
 
-
-
 ### memory
+
+**stack**
+
+* C functions (including function's local variables) get allocated on the **stack**.  
+* Functions are pushed on to the stack when called.
+* Functions are posed off the stack when they return.  
+* Functions can access any memory below the current top of the stack.
+* variables are allocated and freed automatically
 
 **heap**
 
 * The **heap** is a chunk of memory for the C program to use.  
-* Access heap using `pointer`.  The whole program has access to the heap.
+* Access heap using `pointer`.  The whole program has access to the heap.  Heap variables are global.
+* not automatically managed by the CPU
 
-**stack**
+**read only segment**
 
-* C functions get allocated on the **stack**.  
-* Functions are pushed on to the stack when called.
-* Functions are posed off the stack when they return.  
-* Functions can access any memory below the current top of the stack.
-
+* string literal is stored in OS defined read-only segment
+* the storage for these objects shall last for the duration of the program
 
 ### dynamic memory
 The size of a regular array needs to be a constant expression, and thus its size has to be determined at the moment of designing the program, before it is run.
@@ -178,6 +182,8 @@ The size of a regular array needs to be a constant expression, and thus its size
 The dynamic memory allocation performed by `new` allows to assign memory during runtime using any variable value as size.
 
 **dynamic memory requested by the program is allocated by the system from the memory heap.** 
+
+CPP
 
 ```
 #include <new>
@@ -197,20 +203,19 @@ if (foo == nullptr) {
 delete pointer1; // release the memory of a single element allocated using new
 
 delete[] pointer2; // release the memory allocated for arrays of elements using new and a size in brackets
+```
+C
 
-// C
-#include <stdlib.h>
-// C++
-#include <cstdlib>
+```
+#include <stdlib.h> // C
+#include <cstdlib> // C++
 
 // returns a pointer to n bytes of uninitialized storage, or NULL is request cannot be satisfied.
-
-
 void *malloc(size_t n);
 
-calloc
-realloc
-free
+calloc()
+realloc()
+free()
 
 for (p=head; p != NULL; p=q) {
     q = p->next;
@@ -232,7 +237,7 @@ false
 "12345" // string literal, stored in read-only-data and mapped to process space as read only
 
 // symbolic constant ( no semicolon )
-#define name replacement text
+#define name replacement-text
 #define forever for (;;)
 #define max(A, B) ((A) > (B) ? (A) : (B))
 // some functions are defined as macros to avoid the run-time overhead of a function call.
@@ -294,9 +299,17 @@ cout << foo.count() << endl; // # of 1s
 
 ### IO
 ```
+main(int argc, char *argv[]) {...}
+
+// argc = argument count
+// argv = argument vector
+// By convention, argv[0] is the name by which the program was invoked, so argc is at least 1.
+```
+
+```
 INPUT
 
-int getchar();
+int c = getchar();
 
 int n;
 scanf("%d", &n); // return # success reads
@@ -310,31 +323,27 @@ scanf("%d %s %d", &day, monthname, &year);
 int day, month, year;
 scanf("%d/%d/%d", &month, &day, &year);
 
-// read line including white space; c++ <string>
+// cpp
+// read line including white space; 
 string s;
 getline(cin, s);
 
 // test EOF using cin:
-  while(!cin.eof()) {
-     cin >> l >> h;
-     cout << l << " " << h << endl;
-  }
-  // or:
-  while (cin >> l >> h) {
-    cout << l << " " << h << endl;
-  }
+while(!cin.eof()) {
+   cin >> l >> h;
+   cout << l << " " << h << endl;
+}
+// or:
+while (cin >> l >> h) {
+  cout << l << " " << h << endl;
+}
 
-main(int argc, char *argv[]) {...}
-argc = argument count
-argv = argument vector
-By convention, argv[0] is the name by which the program was invoked, so argc is at least 1.
-
+```
+```
 OUTPUT
 
-#include <iomanip>
-cout << setiosflags(ios::fixed) << setprecision(2) << 1.123; // print out 1.12
-
-#include <cstdio>
+#include <stdio.h> // c
+#include <cstdio> // cpp
 printf("You have %d item%s.\n", n, n==1 ? "" : "s");
 
 printf(%3d %6.1f\n", fahr, cels);
@@ -344,6 +353,9 @@ printf(%3d %6.1f\n", fahr, cels);
 printf((argc > 1) ? "%s " : "%s", *++argv);
 // the format argument of printf can be an expression too.
 
+// cpp
+#include <iomanip>
+cout << setiosflags(ios::fixed) << setprecision(2) << 1.123; // print out 1.12
 
 // print ***
 cout << string(3, ‘*’) << endl;
@@ -401,7 +413,6 @@ for(;;){} // infinite loop
 // initialize array
 
 int array[3] = {1,2,3};
-
 int array[] = {1,2,3};
 // When the size of the array is omitted, the compiler will compute the length by counting the initializers.
 
@@ -409,14 +420,17 @@ int array[10] = {1,2}; // 1,2,0,0,...
 int array[10] = {0}; // 0,0,0,...
 // If there are fewer initializers for an array than the number specified, the missing elements will be zero for external, static and automatic variables.
 
-int array[10] = {}; 
-// only in C++, 0,0,0,... not determined in C.
-
-static int array[10]; // 0,0,0,...
+static int array[10]; 
+// 0,0,0,... in C++ and C
 
 int array[10];
-// garbage value in C++
+// garbage value in C++ and C
 
+// character arrays
+char pattern[] = "ould";
+// array size = 5, including '\0'
+```
+```
 // two dimensional array
 daytab[i][j] // [row][col]
 
@@ -430,9 +444,21 @@ int dp[3][3] = {0};
 000
 */
 
-// character arrays
-char pattern[] = "ould";
-// array size = 5, including '\0'
+// two dimensional array using vector
+v = vector <string> (3, "aaa");
+/*
+aaa
+aaa
+aaa
+*/
+
+vector<int> row(3);
+vector<vector<int>> dp(3, row);
+/*
+000
+000
+000
+*/
 
 // g++ -std=c++11
 auto array = new int[10][10]();
@@ -442,46 +468,45 @@ delete[] array;
 
 ### \#include \<vector>
 ```
-vector<int> v1;
-try v1[0] = 1 // segmentation fault
-
-v1.push_back(val); // add element to the end
-v1.pop_back(void); // delete end element
-
 v1.front() // access first element
 v1.back() // access last element
 v1.at(index) // access element
+
+v1.push_back(val); // add element to the end
+v1.pop_back(void); // delete end element
 
 v1.insert(position, val) // insert single element
 v1.insert(position, repeat, val); // fill
 v1.insert(v1.end(), vector2.begin(), vector2.end()); // insert range elements
 
-v1.erase(v1.begin() + i) // reduce container size by 1
-
+v1.erase(v1.begin()+i) // reduce container size by 1, i = 0 ~ len-1
+```
+```
+#initialization
+vector<int> v1;
+v[0] = 1 // segmentation fault
 
 int a[] = {1,2,3,4,5};
 vector<int> v(a, a+5);
-// v == [1,2,3,,4,5]
+// v == [1,2,3,4,5]
 
-vector<int> v1(5, -1);
-// v1 = [-1, -1, -1, -1, -1]
+vector<int> v(5, -1);
+// v = [-1, -1, -1, -1, -1]
+vector<int> v(5);
+// v = [0, 0, 0, 0, 0]
 
-vector<int> v1 = {1};
+vector<int> v = {1};
 
 // assign content
 v1 = v2;
-
-// two dimensional array()
-v = vector <string> (column);
+// compare two vectors
+v1 == v2
 
 // get vector length
 v.size();
 
 // remove all elements from the vector, leaving the container with a size of 0.
 v.clear();
-
-// compare two vectors
-v1 == v2
 
 // c++11, vector<int> v
 for (auto it:v) {
@@ -573,17 +598,25 @@ fabs(x); // absolute value of x
 ```
 unordered_map<string, string> myMap = { {“key1”, “v1”}, {“key2”, “v2”} };
 
-// new element inserted
+// insert new element
 myMap["newKey"] = "newValue"; 
 myMap.insert(make_pair(“s1”, “s2”));
 
-myMap.count(“key1”) == 1
+myMap.count(“exit”) == 1
 myMap.count(“no-exist”) == 0
 
 myMap.size() == # of keys
 
 myMap.clear()
 
+mymap.erase ( mymap.begin() );      
+// erasing by iterator
+
+mymap.erase ("France");             
+// erasing by key
+
+mymap.erase ( mymap.find("China"), mymap.end() ); 
+// erasing by range
 
 for(auto x:myMap) {
     cout << x.first << x.second;
@@ -632,7 +665,8 @@ reverse(s.begin(), s.end())
 s = “4321"
 
 sort(vector.begin(), vector.end());
-
+sort(v.begin(), v.end(), std::greater<int>());
+  
 int myints[] = {1,2,3}; 
 while (next_permutation(myints, myints+3))
     // print myints
@@ -662,8 +696,10 @@ string constant / string literal:
 
 // sort string
 sort(s.begin(), s.end());
-
+```
 C
+
+```
 #include <stirng.h>
 strlen("123") = 3
 char* s = "12345";
@@ -678,7 +714,7 @@ pair <int, int> foo;
 foo = make_pair(1,2);
 ```
 
-### \#include \<cctype
+### \#include \<cctype>
 ```
 int isalpha( int c );
 isupper()
@@ -707,7 +743,7 @@ the & operator only applies to objects in memory: variables and array elements. 
 
 the unary operator * is the ***indirection*** or ***dereferencing*** operator.
 
-any pinter can be case to void * and back again without loss of information.
+any pinter can be cast to void * and back again without loss of information.
 
 ```
 int a[10];
