@@ -619,7 +619,7 @@ mymap.erase ( mymap.find("China"), mymap.end() );
 // erasing by range
 
 for(auto x:myMap) {
-    cout << x.first << x.second;
+    cout << x.first << x.second << endl;
 }
 ```
 
@@ -727,7 +727,7 @@ int toupper( int c );
 ```
 
 
-###include <stdlib.h>
+### \#include <stdlib.h>
 ```
 // computes a sequence of pseudo-random integers in the range zero to RAND_MAX, which is defined in <stdlib.h>.
 rand();
