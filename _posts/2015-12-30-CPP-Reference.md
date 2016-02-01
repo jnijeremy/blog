@@ -363,8 +363,25 @@ cout << string(3, ‘*’) << endl;
 ```
 
 ### file IO
+// C++ #include \<fstream>
+
 ```
-// c <stdio.h>
+string line;
+ifstream myfile ("path");
+if (my file.is_open()）{
+    while ( getline(myfile, line)) {
+        out << line << endl;
+    }
+    myfile.close();
+} else {
+    cout << "Unable to open file";
+
+```
+
+
+// C <stdio.h>
+
+```
 FILE *fp;
 fp = fopen(name, mode)
 // mode = "r", "w", "a" append
