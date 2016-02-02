@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CPP reference
+
 ---
 
 C, CPP programming language reference.
@@ -80,7 +81,7 @@ int main() {
   
 }
 ```
-###S tandard Template Library (STL)
+### Standard Template Library (STL)
 a set of commonly used data structures & algorithms, parameterized with types, including: 
 
 * vector

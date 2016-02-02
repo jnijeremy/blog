@@ -36,7 +36,7 @@ bool canJump(vector<int>& nums) {
 ```
 
 
-###[Jump Game 2](https://leetcode.com/problems/jump-game-ii/):
+### [Jump Game 2](https://leetcode.com/problems/jump-game-ii/):
 
 ```
 Given an array of non-negative integers, you are initially positioned at the first index of the array.
@@ -51,7 +51,7 @@ Given array A = [2,3,1,1,4]
 The minimum number of jumps to reach the last index is 2. (Jump 1 step from index 0 to 1, then 3 steps to the last index.)
 ```
 
-###Solution O(n)
+### Solution O(n)
 
 Greedy approach, using a sliding window to loop through the array.
 
@@ -63,7 +63,6 @@ Special Case:
 General Case:
 
 loop through index window [start+1, end], find maximum new_end, continue loop [end+1, new_end] until reaching last index or can not move forward.
-
 
 ```cpp
 int jump(vector<int>& nums) {
@@ -98,10 +97,10 @@ int jump(vector<int>& nums) {
 }
 ```
 
-###Extension on Jump Game 2: 
+### Extension on Jump Game 2: 
 jump pass the last index, also need to output the optimal jumps.
 
-###Solution
+### Solution
 Same as Jump Game 2, store the greedy choose of new_start in each window iteration.  Return empty vector if can't pass the last index.
 
 ```cpp

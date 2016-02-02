@@ -4,7 +4,6 @@ title: JavaScript Reference
 
 ---
 
-
 `foo ? function1() : function2();`
 
 ### type

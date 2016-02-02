@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Python Reference
+
 ---
 
-#Python 3.x
+# Python 3.x
 
 ```
 #!/usr/bin/env python3
@@ -32,7 +33,7 @@ pdb.set_trace()
 
 ```
 
-###type
+### type
 
 ```
 >>> x = 'abc'
@@ -94,7 +95,7 @@ True
 True
 ```
 
-###IO
+### IO
 ```
 >>> 'Hi, %s, you have $%d.' %('Michael', 1000000)
 'Hi, Michael, you have $1000000.'
@@ -106,7 +107,7 @@ True
 'growth rate: 7 %'
 ```
 
-###File IO
+### File IO
 ```
 # read from file
 try:
@@ -142,7 +143,7 @@ with open('/Users/michael/test.txt', 'w') as f:
 f.write('Hello, workd!')
 ```
 
-###list
+### list
 
 ```
 >>> classmates = ['A', 'B', 'C']
@@ -194,7 +195,7 @@ sorted(li)
 
 ```
 
-###tuple  
+### tuple  
 tuple can't be modified after initialization
 
 ```
@@ -222,7 +223,7 @@ tuple can't be modified after initialization
 3 9
 ```
 
-###dict
+### dict
 key is immutable 
 
 ```
@@ -239,7 +240,7 @@ d.pop(key)
 >>> for k, v in d.items():
 ```
 
-###set
+### set
 unique and unordered collection of keys
 
 ```
@@ -250,7 +251,7 @@ unique and unordered collection of keys
 >>> s.remove(4)
 ```
 
-###string
+### string
 `\` (back slash) is used to escape characters.
 
 
@@ -261,7 +262,7 @@ unique and unordered collection of keys
 
 ```
 
-###sort
+### sort
 
 ```
 >>> sorted(['bob', 'about', 'Zoo', 'Credit'], key=str.lower, reverse=True)
@@ -269,7 +270,7 @@ unique and unordered collection of keys
 
 ```
 
-###map,reduce
+### map,reduce
 
 ```
 
@@ -282,7 +283,7 @@ unique and unordered collection of keys
 ```
 
 
-###function
+### function
 
 \# function returns a tuple
 
@@ -391,7 +392,7 @@ def person(name, age, *, city='Beijing', job):
 >>> person('Jack', 24, job='Engineer')
 ```
 
-###scope
+### scope
 * public: `abc`, `x123`, `PI`...
 * special variable: `__xxx__`, `__name__`, `__author__`...
 * private: `_xxx`(can be accessed from outside, but by convention seen as private), `__xxx`...
@@ -415,11 +416,11 @@ In a class hierarchy with single inheritance, super can be used to refer to pare
 
 
 
-#Python 2.x
+# Python 2.x
 `sys.exit()`
 
 `format = 'AM' if s.find('AM') else 'PM'`
-###IO
+### IO
 ```
 #read in all lines as string
 import sys
@@ -451,7 +452,7 @@ abc
 
 ```
 
-###type
+### type
 ```
 True
 False
@@ -467,7 +468,7 @@ long|unlimited precision|No
 
 `7/4.0 = 1.75`
 
-###string
+### string
 ```
 'I\'m happy' = "I'm happy"
 
@@ -505,7 +506,7 @@ for c in reversed('1234'):
 #1234 -> 4321
 ```
 
-###loop
+### loop
 ```
 for i, x in enumerate(list):
     print i, v
@@ -516,7 +517,7 @@ for _ in xrange(int(raw_input())):
 range(0, 10 3) = [0, 3, 6, 9]
 ```
 
-###math
+### math
 ```
 from math import *
 
@@ -524,7 +525,7 @@ factorial(3) = 6
 sqrt(10) = 3.16...
 ```
 
-###list
+### list
 ```
 s = []
 s.append(1) = [1]
@@ -559,7 +560,7 @@ dp[4][2] = 1
 
 ```
 
-###dictionary
+### dictionary
 ```
 # create dictionary
 dic = dict(
@@ -586,7 +587,7 @@ tel['guido'] = 4127
 del tel[1]
 ```
 
-###set
+### set
 ```
 # empty set
 a = set()

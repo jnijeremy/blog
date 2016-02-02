@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leetcode 39 Combination Sum
+
 ---
 
 [Problem](https://leetcode.com/problems/combination-sum/):
@@ -18,11 +19,9 @@ A solution set is:
 ```
 
 ### Navie solution:
-
 use dfs to traverse all possible combinations of candidates, the time complexity is exponential.  Solution will have duplicates.
 
 ### Optimization: 
-
 sort candidates at the beginning, traversal candidates in order by passsing the index of current node. (resursion only consider candidates at and after current index i).
 
 ```cpp
