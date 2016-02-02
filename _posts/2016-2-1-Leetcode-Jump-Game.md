@@ -23,7 +23,7 @@ A = [3,2,1,0,4], return false.
 
 Greedy approach, loop through the array, update the farthest reachable index in every iteration.
 
-```
+```cpp
 bool canJump(vector<int>& nums) {
     int canReach = 0;
     int len = nums.size();
@@ -65,7 +65,7 @@ General Case:
 loop through index window [start+1, end], find maximum new_end, continue loop [end+1, new_end] until reaching last index or can not move forward.
 
 
-```
+```cpp
 int jump(vector<int>& nums) {
     int len = nums.size();
     if (len == 1)
@@ -104,7 +104,7 @@ jump pass the last index, also need to output the optimal jumps.
 ###Solution
 Same as Jump Game 2, store the greedy choose of new_start in each window iteration.  Return empty vector if can't pass the last index.
 
-```
+```cpp
 vector<int> arrayHopper(vector<int> arr) {
     int len = arr.size();
     if (len == 0)
