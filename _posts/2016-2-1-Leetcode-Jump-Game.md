@@ -4,7 +4,7 @@ title: Leetcode Jump Game
 
 ---
 
-###[Jump Game 1](https://leetcode.com/problems/jump-game/):
+### [Jump Game 1](https://leetcode.com/problems/jump-game/):
 
 ```
 Given an array of non-negative integers, you are initially positioned at the first index of the array.
@@ -19,7 +19,7 @@ A = [2,3,1,1,4], return true.
 A = [3,2,1,0,4], return false.
 ```
 
-###Solution O(n)
+### Solution O(n)
 
 Greedy approach, loop through the array, update the farthest reachable index in every iteration.
 
