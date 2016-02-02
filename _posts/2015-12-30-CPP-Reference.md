@@ -9,7 +9,6 @@ C, CPP programming language reference.
 
 gcc -o run_hello hello.c
 
-
 ./run_hello
 
 * ( gcc -I [libdir] -o [output] [file] )
@@ -36,7 +35,6 @@ clean:
     rm -f main main.o hello_fn.o
 ```
 
-
 ### preprocessor
 // quotes indicate local header files
 **\#include "filename"**
@@ -51,7 +49,7 @@ clean:
 
 ***
 
-###Namespace
+### Namespace
 
 an abstract space that contains a set of names, useful for resolving naming conflicts
 
@@ -82,7 +80,7 @@ int main() {
   
 }
 ```
-###Standard Template Library (STL)
+###S tandard Template Library (STL)
 a set of commonly used data structures & algorithms, parameterized with types, including: 
 
 * vector
@@ -532,7 +530,7 @@ for (auto it:v) {
 cout << endl;
 ```
 
-###\#include \<deque>
+### \#include \<deque>
 
 ```
 //double ended queue
@@ -561,7 +559,7 @@ first.pop_front();
 ```
 
 
-###\#include \<stack>
+### \#include \<stack>
 ```
 stack<int> first;
 
@@ -875,7 +873,7 @@ screen.pt1.x
 
 ```
 
-###Typedef
+### Typedef
 
 ```
 typedef char *String;
@@ -902,7 +900,7 @@ typedef struct node {
 
 ```
 
-###Class
+### Class
 `class declaration` (.h file): list of functions & fields
 
 `class definition` (.cc file): implementation of functions
@@ -1130,7 +1128,7 @@ int main() {
 ```
 
 
-###Inheritance example
+### Inheritance example
 
 ```
 // MITPerson.h

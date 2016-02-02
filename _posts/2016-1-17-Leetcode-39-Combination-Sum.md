@@ -17,9 +17,13 @@ A solution set is:
 [2, 2, 3] 
 ```
 
-Navie solution: use dfs to traverse all possible combinations of candidates, the time complexity is exponential.  Solution will have duplicates.
+### Navie solution:
 
-Optimization: sort candidates at the beginning, traversal candidates in order by passsing the index of current node. (resursion only consider candidates at and after current index i).
+use dfs to traverse all possible combinations of candidates, the time complexity is exponential.  Solution will have duplicates.
+
+### Optimization: 
+
+sort candidates at the beginning, traversal candidates in order by passsing the index of current node. (resursion only consider candidates at and after current index i).
 
 ```cpp
 /*
