@@ -401,7 +401,6 @@ def person(name, age, *, city='Beijing', job):
 ### OOP
 
 ```
-
 super(type[, object-or-type])
 
 Return a proxy object that delegates method calls to a parent or sibling class of type.
@@ -420,7 +419,9 @@ In a class hierarchy with single inheritance, super can be used to refer to pare
 `sys.exit()`
 
 `format = 'AM' if s.find('AM') else 'PM'`
+
 ### IO
+
 ```
 #read in all lines as string
 import sys
@@ -449,26 +450,28 @@ for line in file:
 ['a', 'b', 'c']
 >>> print ''.join(are)
 abc
-
 ```
 
 ### type
+
 ```
 True
 False
 None
 ```
-type|size|in C
-||
-int | 32 bits ( 10^9 )| long in C
-float| 10^38| double in C
-long|unlimited precision|No
+
+type | size              | in C
+-----|-------------------|-----------
+int  | 32 bits ( 10^9 )  | long in C
+float| 10^38             | double in C
+long |unlimited precision| No
 
 `7/4 = 1`
 
 `7/4.0 = 1.75`
 
 ### string
+
 ```
 'I\'m happy' = "I'm happy"
 
