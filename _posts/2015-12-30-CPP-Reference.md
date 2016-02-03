@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CPP reference
+title: CPP Reference
 
 ---
 

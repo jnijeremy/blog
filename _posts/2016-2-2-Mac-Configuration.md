@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac configuration
+title: Mac Configuration
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The official hello world post
+title: The Official Hello World Post
 
 ---
 
