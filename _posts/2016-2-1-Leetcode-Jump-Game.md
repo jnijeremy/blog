@@ -4,6 +4,7 @@ title: Leetcode Jump Game
 
 ---
 
+**Greedy**
 ### [Jump Game 1](https://leetcode.com/problems/jump-game/):
 
 ```

@@ -4,6 +4,8 @@ title: Leetcode 39 Combination Sum
 
 ---
 
+**Backtracking, DFS**
+
 [Problem](https://leetcode.com/problems/combination-sum/):
 
 ```
