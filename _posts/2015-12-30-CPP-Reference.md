@@ -91,7 +91,7 @@ a set of commonly used data structures & algorithms, parameterized with types, i
 
 ***
 
-external variable 外部变量
+**external variable 外部变量**
 
 **External variables are defined outside of any function and are thus potentially available to many functions.  External variables are permanent.**
 
@@ -111,16 +111,16 @@ variable defined outside of any function, need to be declared in each function t
 
 ***
 
-static variables 静态变量
+**static variables 静态变量**
 
 The **static** declaration, applied to an external variable or function, limits the scope of that object to the rest of the source file being compiled.
 
 Normally, function names are global, visible to any part of the entire program.  If a function is declared **static**, however, its name is invisible outside of the file in which it is declared.
 
-Internal **static** variables provides private, permanent storage within a single function.
+Internal **static** variables provides private, permanent storage within a single function.  They are not destroyed even after they go out of scope.
 
 ***
-automatic variable 自动变量
+**automatic variable 自动变量**
 
 **Automatic variables are internal to a function; they come into existence when the function is entered, and disappear when it left.**
 
@@ -367,9 +367,9 @@ cout << string(3, ‘*’) << endl;
 ```
 string line;
 ifstream myfile ("path");
-if (my file.is_open()）{
-    while ( getline(myfile, line)) {
-        out << line << endl;
+if (myfile.is_open()) {
+    while (getline(myfile, line)) {
+        cout << line << endl;
     }
     myfile.close();
 } else {
@@ -706,6 +706,14 @@ s2 = s.substr(index, length);
 stol("some long number");
 int bin = stoi("-10010110001", nullptr, 2);
 // bin = -1201
+
+// handle exception
+try {
+	x = stoi(line);
+}
+catch(...) {
+// invalid input data
+}
 
 string constant / string literal:
 "I am a string"
