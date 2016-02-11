@@ -115,9 +115,15 @@ variable defined outside of any function, need to be declared in each function t
 
 The **static** declaration, applied to an external variable or function, limits the scope of that object to the rest of the source file being compiled.
 
-Normally, function names are global, visible to any part of the entire program.  If a function is declared **static**, however, its name is invisible outside of the file in which it is declared.
+Normally, function names are global, visible to any part of the entire program.  If a function is declared **static**, however, theits name is invisible outside of the file in which it is declared.
 
 Internal **static** variables provides private, permanent storage within a single function.  They are not destroyed even after they go out of scope.
+
+**static member variables**
+
+Member variables of a class can be made static by using the static keyword.  Static member variables are shared by all objects of the class.
+
+Like global variables, static member variables are created when the program starts and destroyed when the program ends.  It exists indemendently of any objects and can be accessed using the class name and the scope operator.
 
 ***
 **automatic variable 自动变量**
