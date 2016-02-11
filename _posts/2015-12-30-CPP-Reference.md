@@ -28,7 +28,8 @@ target ... : prerequisites ...
     ...
     ...
     
-------------------------------    
+---
+
 CC=gcc
 CFLAGS=-Wall
 main: main.o hello_fn.o
@@ -48,7 +49,7 @@ clean:
 
 // If the filename is quoted, search for the file typically begins where the source program was found; if it is not found there, or if the name is enclosed in < and >, searching follows an implementation-defined rule to find the file.
 
-***
+---
 
 ### Namespace
 
@@ -81,7 +82,9 @@ int main() {
   
 }
 ```
+
 ### Standard Template Library (STL)
+
 a set of commonly used data structures & algorithms, parameterized with types, including: 
 
 * vector
@@ -89,7 +92,7 @@ a set of commonly used data structures & algorithms, parameterized with types, i
 * stack, queue, priority_queue
 * sort
 
-***
+---
 
 **external variable 外部变量**
 
@@ -109,7 +112,7 @@ variable defined outside of any function, need to be declared in each function t
 
 `extern double val[]`
 
-***
+---
 
 **static variables 静态变量**
 
@@ -125,16 +128,18 @@ Member variables of a class can be made static by using the static keyword.  Sta
 
 Like global variables, static member variables are created when the program starts and destroyed when the program ends.  It exists indemendently of any objects and can be accessed using the class name and the scope operator.
 
-***
+---
+
 **automatic variable 自动变量**
 
 **Automatic variables are internal to a function; they come into existence when the function is entered, and disappear when it left.**
 
 An automatic variable declared and initialized in a block is initialized each time the block is entered.  And remain in existence until the matching right brace.
 
-***
+---
 
 ### initialization
+
 **In the absence of explicit initialization, external and static variables are initialized to zero by default.**
 
 For external and static variables, the initializer must be a constant expression;
@@ -258,8 +263,26 @@ typedef enum BOOL { true = 0, false = 1 } bool_t;
 bool_t b = true; 
 ```
 
+**primitive built-in types:**
+
+type | Keyword
+---- | -------------
+Boolean | bool
+Character | char
+Integer | int
+Floating point | float
+Double floating point | double
+Valueless | void
+Wide-character | wchar_t
+
+**type modifiers:**
+signed, unsigned, short, long
+
 ### type
 ```
+
+
+
 short // 2 bytes
 int
 long // 4 bytes 2^32, 10^9
