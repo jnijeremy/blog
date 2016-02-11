@@ -35,6 +35,9 @@ pdb.set_trace()
 
 ### type
 
+**built-in types:**
+numerics, sequences, mappings, files, classes, instances and exceptions.
+
 ```
 >>> x = 'abc'
 >>> y = 123
