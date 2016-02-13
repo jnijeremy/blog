@@ -6,6 +6,10 @@ title: JavaScript Reference
 
 `foo ? function1() : function2();`
 
+`sort()` by default sorts the values as string in alphabetical and ascending order, thus '100' < '25'.
+
+`nums.sort(function(a,b){return a-b});`
+
 ### type
 
 `Number`
