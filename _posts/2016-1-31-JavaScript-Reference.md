@@ -57,7 +57,7 @@ Math.abs(1 / 3 - (1 - 2 / 3)) < 0.0000001; // true
 var are = [1, 2, 3.14, 'Hello', null, true];
 ```
 
-`object`
+`object`: the `name:value` pairs are called `properties`.
 
 ```
 var person = {
@@ -98,6 +98,24 @@ The `var` keyword makes variable local, restrict its scope to the function you'r
 
 `$`, `_` may be user-defined variable name for `jQuery` and `Underscore` library.
 
+### Loops
+
+```
+var i;
+for (i = 0; i < cars.length; i++) {
+	text += cars[i] + "<br>";
+}
+
+// The For/In Loop loops through the properties of an object.
+
+var person = {fname:"John", lname:"Doe", age:25};
+var text = "";
+var x;
+for (x in person) {
+	text += person[x];
+}
+```
+
 ### function
 
 ```
@@ -129,6 +147,7 @@ applyOperation(
     10
 ) // 100
 ```
+
 ### This
 `this` keyword lets you access the object on which you're currently working.
 
@@ -167,4 +186,10 @@ Template.postEdit.events({
     });
   }
 });
+```
+
+### JSON
+
+```
+JSON.stringfy(object);
 ```
