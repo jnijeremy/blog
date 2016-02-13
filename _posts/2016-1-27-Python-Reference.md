@@ -271,12 +271,21 @@ unique and unordered collection of keys
 >>> sorted(['bob', 'about', 'Zoo', 'Credit'], key=str.lower, reverse=True)
 ['Zoo', 'Credit', 'bob', 'about']
 
+>>> sorted(['a', 'aa', 'aaa'], key=len, reverse=True)
+['aaa', 'aa', 'a']
+```
+
+### rand
+
+```
+import random
+random.seed()
+random.randint(start, end) # [start, end] inclusive
 ```
 
 ### map,reduce
 
 ```
-
 >>> list(map(str, [1,2,3]))
 ['1', '2', '3']
 
@@ -309,7 +318,6 @@ print(r)
 \# default arguments must follow other variables
 
 ```
-
 def power(x, n=2):
     s = 1
     while n > 0:
@@ -376,7 +384,7 @@ def calc(*numbers):
 >>> calc()
 0
 >>> nums = [1,2,3]
->>> calc(*nums])
+>>> calc(*nums)
 14
 
 ```
