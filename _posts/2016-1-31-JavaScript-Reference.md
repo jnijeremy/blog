@@ -26,7 +26,10 @@ Infinity;
 
 ```
 
-`string`, `bool`, `null`, `undefined`
+`String`, `Boolean`, `Null`, `Undefined`
+
+`Null` is nothing, something that doesn't exist.
+`Undefined` is a variable without a value.
 
 ```
 'abd';
@@ -61,7 +64,7 @@ Math.abs(1 / 3 - (1 - 2 / 3)) < 0.0000001; // true
 var are = [1, 2, 3.14, 'Hello', null, true];
 ```
 
-`object`: the `name:value` pairs are called `properties`.
+`object`: a collection of properties, the `name:value` pairs are called `properties`.
 
 ```
 var person = {
@@ -150,6 +153,33 @@ applyOperation(
     },
     10
 ) // 100
+```
+
+### Arrows
+
+```
+var digits = [0,1,2,3,4,5,6,7,8,9,10];
+var even_digits = digits.filter( num => num % 2 === 0 );
+console.log(even_digits); // 0,2,4,6,8]
+
+
+var names = [ "Hacker", "Rank", "Website" ];
+var names_length = names.map( name => name.length );
+console.log(names_length);  // [ 6, 4, 7 ]
+
+
+var employee = {
+    _name : "Vineet",
+    _task : ["test the beta.", "debug the code.", "create challenges."],
+    _printTask() {
+        this._task.forEach( t => console.log(this._name + " has to " + t));
+    }
+};
+
+employee._printTask();
+// Vineet has to test the beta.
+// Vineet has to debug the code.
+// Vineet has to create challenges.
 ```
 
 ### This
