@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leetcode Jump Game
+title: Codility Genomix Range Query
 
 ---
 
