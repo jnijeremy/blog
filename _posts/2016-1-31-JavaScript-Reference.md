@@ -227,3 +227,67 @@ Template.postEdit.events({
 ```
 JSON.stringfy(object);
 ```
+
+### Closures
+
+Closures are functions that refer to independent (free) variables.  In other words, the function defined in the closure remembers the environment in which it was created.
+
+**Lexical scoping**:
+In JavaScript, the scope of a variable is defined by its location within the source code (it is apparent lexically) and nested functinos have access to variables declared in their outer scope.
+
+```
+function init() {
+  var name = "Mozilla"; // name is a local variable created by init
+  function displayName() { // displayName() is the inner function, a closure
+    alert(name); // use variable declared in the parent function    
+  }
+  displayName();    
+}
+init();
+```
+
+**Closure**: A closure is a special kind of object that combines two things: a function, and the environment in which that function was created.
+
+In the following example, `myFunc` has become a closure that incorporates both the `displayName` function and the `Mozilla` string that existed when the closure was created.
+
+```
+function makeFunc() {
+  var name = "Mozilla";
+  function displayName() {
+    alert(name);
+  }
+  return displayName;
+}
+
+var myFunc = makeFunc();
+myFunc();
+```
+
+**emulating private methods with closures**
+
+```
+var counter = (function() {
+	var privateCounter = 0;
+	function changeBy(val) {
+		privateCounter += val;
+	}
+	return {
+		increment: function() {
+			changeBy(1);
+		},
+		decrement: function() {
+			changeBy(-1);
+		},
+		value: function() {
+			return privateCounter;
+		}
+	};
+})();
+
+console.log(counter.value()); // 0
+counter.increment();
+counter.increment();
+console.log(counter.value()); // 2
+counter.decrement();
+console.log(counter.value()); // 1
+```
