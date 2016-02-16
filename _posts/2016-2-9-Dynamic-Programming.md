@@ -4,6 +4,8 @@ title: Dynamic Programming
 
 ---
 
+Algorithm categoty: Dynamic Programming.
+
 [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)
 
 Given an array, find the maximum possible sum of a contiguous subarray.

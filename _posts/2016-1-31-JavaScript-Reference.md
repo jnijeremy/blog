@@ -4,6 +4,8 @@ title: JavaScript Reference
 
 ---
 
+My JaveScript reference.
+
 `foo ? function1() : function2();`
 
 `sort()` by default sorts the values as string in alphabetical and ascending order, thus '100' < '25'.

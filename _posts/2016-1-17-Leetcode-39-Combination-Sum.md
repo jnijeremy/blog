@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Leetcode 39 Combination Sum
-
+update: 2016-2-15
 ---
 
-**Backtracking, DFS**
+Algorithm categoty: Backtracking, DFS.
 
 [Problem](https://leetcode.com/problems/combination-sum/):
 

@@ -4,6 +4,8 @@ title: Mac Configuration
 
 ---
 
+My Mac configurations.
+
 ### shell
 Somehow I end up having three shell configuration files: `.bashrc`, `.bash_profile`, `.zshrc`.
 

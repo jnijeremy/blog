@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Python Reference
-
+update: 2016-2-15
 ---
+
+Python 3.x, 2.x reference.
 
 # Python 3.x
 

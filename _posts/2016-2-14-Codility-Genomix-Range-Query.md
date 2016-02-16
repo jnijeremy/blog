@@ -4,6 +4,8 @@ title: Codility Genomix Range Query
 
 ---
 
+Algorithm categoty: Prefix Sum.
+
 ### [GenomicRangeQuery](https://codility.com/programmers/task/genomic_range_query/)
 
 ```
