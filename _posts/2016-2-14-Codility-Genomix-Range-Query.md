@@ -20,6 +20,7 @@ S[2:5] = "GCC", min("GCC") = 2
 S[5:6] = "T", min("T") = 4
 S[0:7] = "CAGCCTA", min(S) = 1
 ```
+
 ### Solution O(n+m) Time, O(n) Space
 
 Navie solution is to scan every range to find the minimal geno within the range.  This will end up in O(n*m) worst time (every range is the whole geno string).
