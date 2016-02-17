@@ -481,6 +481,18 @@ applyOperation(
 ) // 100
 ```
 
+### Higher Order Function
+
+Function that takes function as input variable is higher order function
+
+Higher order function can also return function.
+
+```
+function add(x, y, f) {
+    return f(x) + f(y);
+}
+```
+
 ### Arrows
 
 ```
