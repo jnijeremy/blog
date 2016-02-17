@@ -116,6 +116,33 @@ i  = 10;
 
 `$`, `_` may be user-defined variable name for `jQuery` and `Underscore` library.
 
+### String
+
+```
+var s = 'Hello, world!";
+s.length; // 13
+
+// string is inmutable
+var s = 'Test'
+s[0] = 'X'
+alert(x); // 'Test'
+
+// these methods return copy of original string
+s.toUpperCase();
+s.toLowerCase();
+var s = 'hello, world';
+s.indexOf('world'); // 7
+s.indexOf('notexist'); // -1
+s.substring(0, 5); // 'hello'
+s.substring(7); // 'world'
+```
+
+### Array
+
+```
+
+```
+
 ### Loops
 
 ```
