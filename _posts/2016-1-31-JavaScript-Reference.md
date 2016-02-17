@@ -9,9 +9,13 @@ My JaveScript reference.
 
 `foo ? function1() : function2();`
 
-### type
+### Type
 
-`Number`
+`Bool:`
+
+`null`, `undefined`, `0`, `NaA`, `''` is false, anything else is true in condition checking.
+
+`Number:`
 
 ```
 123;
@@ -73,7 +77,7 @@ var person = {
     'zip code': 12345
 }
 
-nest objects:
+// nest objects:
 
 var myProfile = {
     name: "John Smith",
@@ -199,7 +203,41 @@ arr.join('-'); // 'A-B-C-1-2-3'
 
 ```
 
-### Loops
+
+### Object
+
+```
+var xiaohong = {
+    name: 'xiaohong',
+    'middle-school': 'No.1 Middle School'
+};
+
+xiaohong['middle-school']; // 'No.1 Middle School', has to use []
+xiaohong['name']; // 'xiaohong'
+xiaohong.name; // 'xiaohong'
+
+var xiaoming = {
+    name: '小明'
+};
+xiaoming.age; // undefined
+xiaoming.age = 18; // 新增一个age属性
+xiaoming.age; // 18
+delete xiaoming.age; // 删除age属性
+xiaoming.age; // undefined
+delete xiaoming.school; // 删除一个不存在的school属性也不会报错
+'name' in xiaoming; // true
+'grade' in xiaoming; // false
+'toString' in xiaoming; // true, inherent from object
+
+var xiaoming = {
+    name: '小明'
+};
+xiaoming.hasOwnProperty('name'); // true
+xiaoming.hasOwnProperty('toString'); // false
+
+```
+
+### Loop
 
 ```
 var i;
@@ -217,7 +255,7 @@ for (x in person) {
 }
 ```
 
-### function
+### Function
 
 ```
 var myAwesomeFunction = function (myArgument) {
