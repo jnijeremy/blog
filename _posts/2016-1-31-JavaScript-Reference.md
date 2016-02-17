@@ -9,10 +9,6 @@ My JaveScript reference.
 
 `foo ? function1() : function2();`
 
-`sort()` by default sorts the values as string in alphabetical and ascending order, thus '100' < '25'.
-
-`nums.sort(function(a,b){return a-b});`
-
 ### type
 
 `Number`
@@ -140,6 +136,66 @@ s.substring(7); // 'world'
 ### Array
 
 ```
+var arr = [1, 2. 3.14, 'Hello', null, true];
+arr.length; // 6
+
+var arr = [1, 2, 3];
+arr.length; // 3
+arr.length = 6;
+arr; // [1,2,3,undefined, undefined, undefined]
+arr.length = 2;
+arr; // [1,2]
+
+var arr = [1,2,3]
+arr[5] = 'x';
+arr; // [1,2,3,undefined,undefined,'x']
+
+arr.indexOf(key) // return -1 if not found
+
+var arr = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
+arr.slice(0, 3); // ['A','B','C']
+arr.slice(3); // ['D', 'E', 'F', 'G']
+
+// copy an array:
+var a = [1,2,3]
+var b = arr.slice();
+b; // [1,2,3]
+a === b; // false, An expression comparing Objects is only true if the operands reference the same Object.
+
+var arr = [1,2];
+arr.push('A', 'B'); // return 4
+arr; // [1,2,'A','B']
+arr.pop(); // return 'B'
+arr; // [1,2,'A']
+arr.pop(); arr.pop(); arr.pop();
+arr; // []
+arr.pop(); // return undefined
+arr; // []
+
+var arr = [1,2];
+arr.unshift('A', 'B'); // 4
+arr; // ['A','B',1,2]
+arr.shift(); // 'A'
+arr; // ['B', 1, 2]
+arr.shift(); arr.shift(); arr.shift();
+arr; // []
+arr.shift(); // return undefined
+arr; // []
+
+arr.sort() // inplace
+// sort() by default sorts the values as string in alphabetical and ascending order, thus '100' < '25'.
+
+nums.sort(function(a,b){return a-b});
+
+arr.reverse()
+
+var arr = ['A', 'B', 'C'];
+var added = arr.concat([1, 2, 3]);
+added; // ['A', 'B', 'C', 1, 2, 3]
+arr; // ['A', 'B', 'C']
+
+var arr = ['A', 'B', 'C', 1, 2, 3];
+arr.join('-'); // 'A-B-C-1-2-3'
 
 ```
 
