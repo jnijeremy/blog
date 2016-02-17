@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript Reference
+update: 2016-2-16
 
 ---
 
@@ -104,6 +105,14 @@ Post.findOne({ title: 'My First Post' });
 `var`
 
 The `var` keyword makes variable local, restrict its scope to the function you're declaring it in (or the file, if you declare it outside of any function); 
+
+```
+i  = 10;
+// i will be global variable.  If i is decalared this way in multiple js file for the same page, it will be hard to debug.
+
+'use strict'; // enforce use of var
+
+```
 
 `$`, `_` may be user-defined variable name for `jQuery` and `Underscore` library.
 
