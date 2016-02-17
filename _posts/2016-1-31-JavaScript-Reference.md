@@ -237,6 +237,38 @@ xiaoming.hasOwnProperty('toString'); // false
 
 ```
 
+### Map, Set
+
+```
+// ES6 added Map and Set
+
+var m = new Map([['Michael', 95], ['Bob', 75], ['Tracy', 85]]);
+m.get('Michael'); // 95
+
+var m = new Map(); // 空Map
+m.set('Adam', 67); // 添加新的key-value
+m.set('Bob', 59);
+m.has('Adam'); // 是否存在key 'Adam': true
+m.get('Adam'); // 67
+m.delete('Adam'); // 删除key 'Adam'
+m.get('Adam'); // undefined
+
+var s1 = new Set(); // 空Set
+var s2 = new Set([1, 2, 3]); // 含1, 2, 3
+
+>>> s.add(4)
+>>> s
+{1, 2, 3, 4}
+>>> s.add(4)
+>>> s
+{1, 2, 3, 4}
+
+var s = new Set([1, 2, 3]);
+s; // Set {1, 2, 3}
+s.delete(3);
+s; // Set {1, 2}
+```
+
 ### Loop
 
 ```
@@ -245,13 +277,21 @@ for (i = 0; i < cars.length; i++) {
 	text += cars[i] + "<br>";
 }
 
-// The For/In Loop loops through the properties of an object.
+var o = {
+    name: 'Jack',
+    age: 20,
+    city: 'Beijing'
+};
+for (var key in o) {
+    if (o.hasOwnProperty(key)) {
+        alert(key); // 'name', 'age', 'city'
+    }
+}
 
-var person = {fname:"John", lname:"Doe", age:25};
-var text = "";
-var x;
-for (x in person) {
-	text += person[x];
+var a = ['A', 'B', 'C'];
+for (var i in a) {
+    alert(i); // '0', '1', '2' !!! sting, not number
+    alert(a[i]); // 'A', 'B', 'C'
 }
 ```
 
