@@ -295,12 +295,166 @@ for (var i in a) {
 }
 ```
 
+### Scope
+
+If a variable is defined inside a function, its scope is the entire function.  It can not be referenced outside the function.
+
+```
+'use strict';
+
+function foo() {
+    var x = 1;
+    x = x + 1;
+}
+
+x = x + 2; // ReferenceError! 无法在函数体外引用变量x
+```
+Variables with the same name in defined in different functions are independent.
+
+Nested function can access variables defined in parent functions.  !!! Not the other way around!!!
+
+```
+'use strict';
+
+function foo() {
+    var x = 1;
+    function bar() {
+        var y = x + 1; // bar可以访问foo的变量x!
+    }
+    var z = y + 1; // ReferenceError! foo不可以访问bar的变量y!
+}
+```
+
+Function looks for vatiables within itself first.  If inner function and outer function has the same variable name, inner variable will shield outter variable.
+
+```
+'use strict';
+
+function foo() {
+    var x = 1;
+    function bar() {
+        var x = 'A';
+        alert('x in bar() = ' + x); // 'A'
+    }
+    alert('x in foo() = ' + x); // 1
+    bar();
+}
+```
+
+Function will scan its body and raise all declaration of variables to its top scope, not all defination.
+
+```
+'use strict';
+
+function foo() {
+    var x = 'Hello, ' + y; // Hello, undefined
+    alert(x);
+    var y = 'Bob';
+}
+
+foo();
+
+// To the JavaScript engine, the above function looks like below:
+function foo() {
+    var y; // 提升变量y的申明
+    var x = 'Hello, ' + y;
+    alert(x);
+    y = 'Bob';
+}
+
+// good practice:
+function foo() {
+    var
+        x = 1, // x初始化为1
+        y = x + 1, // y初始化为2
+        z, i; // z和i为undefined
+    // 其他语句:
+    for (i=0; i<100; i++) {
+        ...
+    }
+}
+```
+
+**global scope**
+
+Any variable not defined inside a function has global scope, and is attached to the global `window` object.
+
+```
+'use strict';
+
+var course = 'Learn JavaScript';
+alert(course); // 'Learn JavaScript'
+alert(window.course); // 'Learn JavaScript'
+```
+
+Actually, outter most function is in global scope too.
+
+```
+'use strict';
+
+function foo() {
+    alert('foo');
+}
+
+foo(); // 直接调用foo()
+window.foo(); // 通过window.foo()调用
+```
+
+**namespace**
+
+JavaScript only has one global scope.  Global variables will be attached to `window` object.  It's hard to find if differen js files defined same variable name.  So in practice, we bind all our variables to a single unique global variable. 
+
+```
+// 唯一的全局变量MYAPP:
+var MYAPP = {};
+
+// 其他变量:
+MYAPP.name = 'myapp';
+MYAPP.version = 1.0;
+
+// 其他函数:
+MYAPP.foo = function () {
+    return 'foo';
+};
+```
+
+**block scope**
+
+```
+'use strict';
+
+function foo() {
+    for (var i=0; i<100; i++) {
+        //
+    }
+    i += 100; // i can still be used because it's in foo's scope
+}
+```
+
+ES6 las `let` keyword to declare variable in block scope
+
+```
+'use strict';
+
+function foo() {
+    var sum = 0;
+    for (let i=0; i<100; i++) {
+        sum += i;
+    }
+    i += 1; // SyntaxError
+}
+```
+
 ### Function
 
 ```
-var myAwesomeFunction = function (myArgument) {
+function myAwesomeFunction(myArgument) {
     // do sth
 }
+
+var myAwesomeFunction = function (myArgument) {
+    // do sth
+}; // need ';' to end assignment
 
 square = function (a) {
     return a*a;
