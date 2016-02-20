@@ -13,7 +13,7 @@ excerpt: ""
 
 	Take the element one by one and inserting in their correct position into a new sorted list.
 
-	![_config.yml]({{ site.baseurl }}/images/insertion-sort-example-300px.gif)
+	![_config.yml]({{ site.baseurl }}/images/Insertion-sort-example-300px.gif)
 
 2. Selection sort 
 
