@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Substring Problems
-update: 2016-2-15
-excerpt: A collection of problems to find some special longest substing
+update: 2016-2-20
+excerpt: <p>A collection of problems about finding some special longest substing</p>
 
 ---
 

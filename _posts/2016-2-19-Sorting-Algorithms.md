@@ -3,6 +3,7 @@ layout: post
 title: Sorting Algorithms
 update: 2016-2-19
 excerpt: ""
+
 ---
 
 #### Simple sorts
