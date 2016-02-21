@@ -135,6 +135,14 @@ s.indexOf('world'); // 7
 s.indexOf('notexist'); // -1
 s.substring(0, 5); // 'hello'
 s.substring(7); // 'world'
+
+// string to array
+s = "123";
+s.split('') // ['1', '2', '3']
+
+var str = "How are you doing today?";
+var res = str.split(" ");
+// res = [ 'How', 'are', 'you', 'doing', 'today?' ]
 ```
 
 ### Array
@@ -493,6 +501,21 @@ function add(x, y, f) {
 }
 ```
 
+### map/reduce
+
+```
+function pow(x) {
+	return x * x;
+}
+
+var arr = [1,2,3,4,5,6,7,8,9];
+arr.map(pow); // [1,4,9,16,25,36,49,64,91]
+
+var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+arr.map(String); // ['1', '2', '3', '4', '5', '6', '7', '8', '9']
+
+```
+
 ### Arrows
 
 ```
@@ -559,6 +582,91 @@ Template.postEdit.events({
   }
 });
 ```
+
+`this` variable inside a function will point to the object that calls the function.  If the function is invoked by itself, `this` will point to the gloabl `window` object.
+
+On strict mode, `this` variable inside a function points to `undefined`.
+
+```
+'use strict';
+
+var xiaoming = {
+	name: 'xiaoming',
+	birth: 1990,
+	age: function() {
+		var y = new Date().getFullYear();
+		return y - this.birth;
+	}
+};
+
+var fn = xiaoming.age;
+fn(); // Uncaught TypeError: Cannot read property 'birth' of undefined.
+```
+
+In the following example, `this` inside `age` function points to `xiaoming`, but `this` inside `getAgeFromBirth()` points to `undefined` (under `strict` mode, if not `strict`, it points to `window`)
+
+```
+'use strict';
+
+var xiaoming = {
+    name: '小明',
+    birth: 1990,
+    age: function () {
+        function getAgeFromBirth() {
+            var y = new Date().getFullYear();
+            return y - this.birth;
+        }
+        return getAgeFromBirth();
+    }
+};
+
+xiaoming.age(); // Uncaught TypeError: Cannot read property 'birth' of undefined
+```
+
+Use `that` to fix the above example
+
+```
+'use strict';
+
+var xiaoming = {
+	name: 'xiaoming',
+	birth: 1990,
+	age: function() {
+		var that = this;
+		function getAgeFromBirth() {
+			var y = new Date().getFullYear();
+			return y - that.birth();
+		}
+	}
+};
+```
+
+Use `apply()` or `call()` to fix the above example
+
+```
+function getAge() {
+	var y = new Date().getFullYear();
+	return y - this.birth;
+}
+
+var xiaoming = {
+	name: 'xiaoming',
+	birth: 1990,
+	age: getAge
+};
+
+xiaoming.age(); // valid function call by onject
+getAge.apply(xiaoming, [])// this points to xiaoming, [] is empty parameters.
+```
+
+For normal function call, we assign `null` to `this`
+
+```
+Math.max(3,5,4);
+Math.max.apply(null, [3,5,4]); // 5
+Math.max.call(null, 3,5,4); // 5
+```
+
 
 ### JSON
 
