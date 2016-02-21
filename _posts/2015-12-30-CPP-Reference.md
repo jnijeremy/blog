@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CPP Reference
+update: 2016-2-21
 
 ---
 
@@ -524,6 +525,8 @@ v1.insert(position, repeat, val); // fill
 v1.insert(v1.end(), vector2.begin(), vector2.end()); // insert range elements
 
 v1.erase(v1.begin()+i) // reduce container size by 1, i = 0 ~ len-1
+
+bool v1.empty();
 ```
 
 ```cpp
@@ -617,6 +620,56 @@ q.back();
 // modifier
 void q.push();
 void q.pop();
+```
+
+**priority_queue**
+
+```cpp
+#include <queue>
+#include <vector>
+#include <iostream>
+
+// methods:
+// empty()
+
+using namespace std;
+
+template<typename T> void print_queue(T& q) {
+	while(!q.empty()) {
+		cout << q.top() << " ";
+		q.pop();
+	}
+	cout << endl;
+}
+
+int main() {
+	priority_queue<int> q;
+	
+	for(int n: {1,8,5,6,3,4,0,9,7,2})
+		q.push(n);
+		
+	print_queue(q);
+	// 9 8 7 6 5 4 3 2 1 0 
+	
+	priority_queue<int, greater<int>> q2;
+	
+	for(int n : {1,8,5,6,3,4,0,9,7,2})
+        q2.push(n);
+ 
+    print_queue(q2);
+    // 0 1 2 3 4 5 6 7 8 9
+    
+    // Using lambda to compare elements
+    auto cmp = [](int left, int right) { return (left ^ 1) < (right ^ 1);};
+    priority_queue<int, vector<int>, decltype(cmp)> q3(cmp);
+    
+    for(int n : {1,8,5,6,3,4,0,9,7,2})
+        q3.push(n);
+ 
+    print_queue(q3);
+    // 8 9 6 7 4 5 2 3 0 1
+
+}
 ```
 
 ### \#include \<cmath>
@@ -780,7 +833,7 @@ int tolower( int c );
 int toupper( int c );
 ```
 
-### \#include <stdlib.h>
+### \#include \<stdlib.h>
 
 ```cpp
 // computes a sequence of pseudo-random integers in the range zero to RAND_MAX, which is defined in <stdlib.h>.
@@ -832,7 +885,7 @@ char *name[] = {
 
 ***pmessage*** is a pointer, initialized to point to a string constant.  The pointer may subsequently be modified to point elsewhere, but the result is undefined if you try to modify the string contents.
 
-### cpp reference
+### cpp `reference`
 pass-by-reference allows a function to modify the outside object, like passing a pointer.
 calling a function that takes references is cleaner, syntactically, than than calling a function that takes pointer.
 
