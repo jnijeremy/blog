@@ -2,10 +2,9 @@
 layout: post
 title: Stuff I Read
 update: 2016-2-18
+excerpt: <p>2016 Feburary Reading Summary</p>
 
 ---
-
-2016 Feburary
 
 ### Journalism
 
@@ -56,3 +55,13 @@ Ideas in a Bruising Workplace](http://www.nytimes.com/2015/08/16/technology/insi
 2. [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 
 	Note: :+1: :trollface:
+	
+---
+
+### Toturial
+
+1. [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+
+	By Liao Xuefeng
+	
+	Note: clean, detailed python3 toturial with practice problems and comprehensive examples.
