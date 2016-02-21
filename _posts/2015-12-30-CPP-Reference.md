@@ -55,7 +55,7 @@ clean:
 
 an abstract space that contains a set of names, useful for resolving naming conflicts
 
-```
+```cpp
 namespace ford {
   class SUV {
     ...
@@ -195,7 +195,7 @@ The dynamic memory allocation performed by `new` allows to assign memory during 
 
 CPP
 
-```
+```cpp
 #include <new>
 pointer1 = new type
 
@@ -216,7 +216,7 @@ delete[] pointer2; // release the memory allocated for arrays of elements using 
 ```
 C
 
-```
+```c
 #include <stdlib.h> // C
 #include <cstdlib> // C++
 
@@ -238,7 +238,8 @@ free(i); // nothing bad happens, freeing NULL does nothing.
 ```
 
 ### constant
-```
+
+```cpp
 NULL
 true
 false
@@ -279,10 +280,8 @@ Wide-character | wchar_t
 signed, unsigned, short, long
 
 ### type
-```
 
-
-
+```cpp
 short // 2 bytes
 int
 long // 4 bytes 2^32, 10^9
@@ -303,11 +302,11 @@ int a = b = c = 1;
 (type-name) expression
 
 int a = 19/10 = 1;
-
 ```
 
 ### bitwise operators
-```
+
+```cpp
 &     bitwise AND
 |     bitwise inclusive OR
 ^     bitwise exclusive OR
@@ -326,7 +325,8 @@ cout << foo.count() << endl; // # of 1s
 ```
 
 ### IO
-```
+
+```cpp
 main(int argc, char *argv[]) {...}
 
 // argc = argument count
@@ -334,7 +334,7 @@ main(int argc, char *argv[]) {...}
 // By convention, argv[0] is the name by which the program was invoked, so argc is at least 1.
 ```
 
-```
+```cpp
 INPUT
 
 int c = getchar();
@@ -367,7 +367,8 @@ while (cin >> l >> h) {
 }
 
 ```
-```
+
+```cpp
 OUTPUT
 
 #include <stdio.h> // c
@@ -387,13 +388,12 @@ cout << setiosflags(ios::fixed) << setprecision(2) << 1.123; // print out 1.12
 
 // print ***
 cout << string(3, ‘*’) << endl;
-
 ```
 
 ### file IO
 // C++ #include \<fstream>
 
-```
+```cpp
 string line;
 ifstream myfile ("path");
 if (myfile.is_open()) {
@@ -403,13 +403,12 @@ if (myfile.is_open()) {
     myfile.close();
 } else {
     cout << "Unable to open file";
-
 ```
 
 
 // C <stdio.h>
 
-```
+```c
 FILE *fp;
 fp = fopen(name, mode)
 // mode = "r", "w", "a" append
@@ -432,13 +431,11 @@ char *fgets(char *line, int maxine, FILE *fp);
 
 // out put one line to file, need not contain a newline
 int fputs(char *line, FILE *fp);
-
-
 ```
-
 
 ### loop
-```
+
+```cpp
 for(expr1; expr2; expr3)
     statement
     
@@ -454,7 +451,8 @@ for(;;){} // infinite loop
 ```
 
 ### array
-```
+
+```cpp
 // initialize array
 
 int array[3] = {1,2,3};
@@ -475,7 +473,8 @@ int array[10];
 char pattern[] = "ould";
 // array size = 5, including '\0'
 ```
-```
+
+```cpp
 // two dimensional array
 daytab[i][j] // [row][col]
 
@@ -508,11 +507,11 @@ vector<vector<int>> dp(3, row);
 // g++ -std=c++11
 auto array = new int[10][10]();
 delete[] array;
-
 ```
 
 ### \#include \<vector>
-```
+
+```cpp
 v1.front() // access first element
 v1.back() // access last element
 v1.at(index) // access element
@@ -526,7 +525,8 @@ v1.insert(v1.end(), vector2.begin(), vector2.end()); // insert range elements
 
 v1.erase(v1.begin()+i) // reduce container size by 1, i = 0 ~ len-1
 ```
-```
+
+```cpp
 #initialization
 vector<int> v1;
 v[0] = 1 // segmentation fault
@@ -562,7 +562,7 @@ cout << endl;
 
 ### \#include \<deque>
 
-```
+```cpp
 //double ended queue
 
 std::deque<int> first;
@@ -585,12 +585,11 @@ tmp = first.back();
 
 first.pop_back();
 first.pop_front();
-
 ```
-
 
 ### \#include \<stack>
-```
+
+```cpp
 stack<int> first;
 
 vector<int> myvecotr (2, 200);
@@ -601,12 +600,11 @@ size_type .size();
 value_type& .top();
 void .push();
 void .pop();
-
-
 ```
 
 ### \#include \<queue>
-```
+
+```cpp
 queue<int> q;
 
 q.empty();
@@ -619,12 +617,11 @@ q.back();
 // modifier
 void q.push();
 void q.pop();
-
-
 ```
 
 ### \#include \<cmath>
-```
+
+```cpp
 sqrt(10) // 3.16...
 pow(2,n) // 2^n
 floor(1.1) = 1
@@ -640,7 +637,7 @@ fabs(x); // absolute value of x
 ### \#include \<unordered_map>
 // g++ -std=c++11
 
-```
+```cpp
 unordered_map<string, string> myMap = { {“key1”, “v1”}, {“key2”, “v2”} };
 
 // insert new element
@@ -669,7 +666,8 @@ for(auto x:myMap) {
 ```
 
 ### \#include \<unordered_set>
-```
+
+```cpp
 unordered_set<int> s;
 s.insert(1);
 
@@ -686,7 +684,8 @@ for (auto x: s) {
 
 
 ### \#include \<set>
-```
+
+```cpp
 set<int> s;
 s.insert();
 
@@ -701,7 +700,8 @@ for (auto it = s.begin(); it != s.end(); it++) {
 ```
 
 ### \#include \<algorithm>
-```
+
+```cpp
 max(a,b)
 min(a,b)
 // reverse string
@@ -721,11 +721,11 @@ while (next_permutation(myints, myints+3))
 2 3 1
 3 1 2
 3 2 1
-
 ```
 
 ### \#include \<string>
-```
+
+```cpp
 string s  = to_string(1234) = “1234"
 s.length() = 4
 s.size() = 4
@@ -752,7 +752,7 @@ sort(s.begin(), s.end());
 ```
 C
 
-```
+```c
 #include <stirng.h>
 strlen("123") = 3
 char* s = "12345";
@@ -762,13 +762,14 @@ strlen(s) = 5
 ### \#include \<utility>
 // g++ -std=c++11
 
-```
+```cpp
 pair <int, int> foo;
 foo = make_pair(1,2);
 ```
 
 ### \#include \<cctype>
-```
+
+```cpp
 int isalpha( int c );
 isupper()
 islower()
@@ -779,9 +780,9 @@ int tolower( int c );
 int toupper( int c );
 ```
 
-
 ### \#include <stdlib.h>
-```
+
+```cpp
 // computes a sequence of pseudo-random integers in the range zero to RAND_MAX, which is defined in <stdlib.h>.
 rand();
 
@@ -798,7 +799,7 @@ the unary operator * is the ***indirection*** or ***dereferencing*** operator.
 
 any pinter can be cast to void * and back again without loss of information.
 
-```
+```cpp
 int a[10];
 int *pa;
 pa = a;
@@ -821,8 +822,6 @@ char *name[] = {
     "July", "August", "September",
     "October", "November", "December"
 };
-
-
 ```
 
 `char amessage[] = "now is the time"; // an array`
@@ -837,7 +836,7 @@ char *name[] = {
 pass-by-reference allows a function to modify the outside object, like passing a pointer.
 calling a function that takes references is cleaner, syntactically, than than calling a function that takes pointer.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -871,7 +870,7 @@ In C++, the only difference between `class` and `struct` is that members and bas
 
 e.g.
 
-```
+```cpp
 struct a {
     char c;
     int i;
@@ -880,7 +879,7 @@ sizeof(a) = 8 bytes, not 5 bytes.
 ```
 
 
-```
+```cpp
 struct point {
     int x;
     int y;
@@ -908,12 +907,11 @@ struct rect {
 struct rect screen;
 screen.pt1.x
 // x coordinate of the pt1 member of screen.
-
 ```
 
 ### Typedef
 
-```
+```cpp
 typedef char *String;
 
 typedef struct tnode *Treeptr;
@@ -935,7 +933,6 @@ typedef struct node {
     int val;
     struct node* next;
 } node_t;
-
 ```
 
 ### Class
@@ -985,7 +982,7 @@ We must always clean up the mess created in the subclass (otherwise, rises for m
 
 **Virus class declaration**
 
-```
+```cpp
 // Virus.h
 
 class Virus {
@@ -1005,14 +1002,11 @@ class Virus {
     bool survive(float immunity);  
     
 };
-
-
 ```
 
 **Virus class definition**
 
-
-```
+```cpp
 // Virus.cpp
 #include "Virus.h"
 
@@ -1062,13 +1056,12 @@ bool Virus::survive(float immunity) {
 }
 
 const float Virus::defaultReproductionRate;
-
 ```
 
 
 **Patient class declaration**
 
-```
+```cpp
 // Patient.h
 #include "Virus.h"
 
@@ -1091,7 +1084,7 @@ class Patient {
 
 **Patient class definition**
 
-```
+```cpp
 // Patient.cpp
 #include "Patient.h"
 #include <cassert>
@@ -1151,7 +1144,7 @@ bool Patient::checkRep() {
 
 **main function**
 
-```
+```cpp
 int main() {
 
     float initImmunity = 0.1;
@@ -1168,7 +1161,7 @@ int main() {
 
 ### Inheritance example
 
-```
+```cpp
 // MITPerson.h
 #include <string>
 
@@ -1191,7 +1184,7 @@ class MITPerson {
 };
 ```
 
-```
+```cpp
 // MITPerson.cc
 MITPerson::MITPerson(int id, std::string name, std::string address) {
   this->id = id;
@@ -1219,7 +1212,7 @@ void MITPerson::displayProfile() {
   std::cout << "--------\n";
 ```
 
-```
+```cpp
 // Student.h
 #include <iostream>
 #include <vector>
@@ -1238,7 +1231,7 @@ class Student : public MITPerson {
     void changeCourse(int newCourse);
 ```
 
-```
+```cpp
 // Student.cc
 // Student constructor call the base constructor
 Student::Student(int id, std::string name, std::string address, int course, int year) : MITPerson(id, name, address) {
@@ -1258,7 +1251,7 @@ void Student::displayProfile() {
   std::cout << "--------\n";
 ```
 
-```
+```cpp
 // main1
 
 MITPerson* john = new MITPerson(901289, "John Doe", "500 Massachusetts Av.");
@@ -1281,9 +1274,7 @@ Classes taken:
 -----------------------------
 ```
 
-
-
-```
+```cpp
 // main2
 
 // Actual type vs. declared type
@@ -1335,7 +1326,7 @@ Classes taken:
 
 **Virtual destructor example**
 
-```
+```cpp
 class Base1 {
 public:
   ~Base1() { std::cout << "~Base1()\n"; }
@@ -1363,7 +1354,7 @@ int main() {
 
 **abstract methods using pure virtual functions**
 
-```
+```cpp
 class BST {
   public:
     // You should still create a constructor to initialize its members, since they will be inherited by its subclass.
@@ -1376,12 +1367,11 @@ class BST {
     virtual void print_inorder() = 0;
     
     // = 0 says that the function is pure (no implementation)
-
 ```
 
 **inherentance example**
 
-```
+```cpp
 class A 
 {
 public:
@@ -1418,7 +1408,7 @@ class D : private A    // 'private' is default for classes
 
 **copying objects example**
 
-```
+```cpp
 void print(MITPerson p){
   // pass by value, so make a copy
   p.displayProfile();
@@ -1437,5 +1427,4 @@ int main() {
   MITPerson p2(978123, “Alice Smith”, “121 Ames St.”);
   p2 = p1;  // assigns p2 to p1, does NOT create a new object
 }
-
 ```
