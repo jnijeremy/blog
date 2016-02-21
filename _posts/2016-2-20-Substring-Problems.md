@@ -6,6 +6,8 @@ excerpt: <p>A collection of problems about finding some special longest substing
 
 ---
 
+## Problem 1
+
 [Find the longest substring with k unique characters in a given string](http://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/)
 
 [Leetcode #159 Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
@@ -49,6 +51,8 @@ class Solution(object):
 ```
 
 ---
+
+## Problem 2
 
 [Leetcode #5 Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
