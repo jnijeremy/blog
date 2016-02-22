@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Substring Problems
-update: 2016-2-20
+update: 2016-2-22
 excerpt: <p>A collection of problems about finding some special longest substing</p>
 
 ---
@@ -15,15 +15,53 @@ excerpt: <p>A collection of problems about finding some special longest substing
 > Given a string you need to print longest possible substring that has exactly M unique characters. If there are more than one substring of longest possible length, then print any one of them.
 
 
-### Brute Force Solution O(N^2)
+### Brute Force Solution
 
-Loop through each index, find the longest valid substirng starting from that index.  Takes O(N^2) time.  Can be improved by skipping some index ( e.g. 'aaa' only the first a needs to be considered )
+Algorithm:
+
+Loop through each index, find the longest valid substirng starting from that index.  Takes O(N^2) time and O(k) space.
+
+Optimize:
+
+1. Can be improved by skipping some index ( e.g. `aaa` only the first `a` needs to be considered ).  Same worst case time. 
+
+2. Can be further improved if using an iterative updating approach and store extra information for possible starting indexes.
+
+	Algorithm:
+	
+	Loop through every potential starting index, for each index, store the current valid substring length and all current letters in a hash map for that index.  For each index, also update all the previous index that needs to be updated.  For previous indexes that will exceed k unique letters, fix them and they don't need to be updated in the future.
+	
+	Analysis:
+	
+	Worst case is when all previous indexes need to be updated, giving O(N^2).  Average time is improved because we skip index once they reach their limit.  However, each index now takes at most O(k) memory, the total memory cost is O(N*k).
+	
+	e.g.
+	
+	```
+	aabacbebebe, k = 2
+	
+	step1: a // 1 {a:1}
+	
+	step2: a | a // 2 {a:2} | null
+	
+	step3: a | a | b // 3 {a:2, b:1} | null | 1 {b:1}
+	
+	step4: a | a | b | a
+	
+	4 {a:3, b:1} | null | 2 {b:1, a:1} | 1 {a:1}
+	
+	step5: a | a | b | a | c
+	
+	fixed 4 {a:3, b:1} | fixed null | fixed 2 {b:1, a:1} | 2 {a:1, c:1} | 1 {c:1}
+	```
+	
+	
 
 ### Sliding Windown Solution O(N)
 
-Maintain a window and kepp adding elements to the right side of the window.  If unique elements exceeds k, remove elements from the left side until equal k.  Finish when the window heit the end of the string.  Keep updating global max result during the loop.
+Maintain a window and keep adding elements to the right side of the window.  If unique elements exceeds k, remove elements from the left side until element count equals k.  Finish when the window reach the end of the string.  Keep updating global max result during the loop.
 
-Need some assumption about the character set when implement.  e.g. Assume only 26 characters (a-z).
+The **key observation** here is that the longest valid substing has exactly k unique elements.  So we only need to conside the substrings that has k unique elements.  If the entire input string has less than k unique elements, the window will be the entire string.
 
 ```python
 class Solution(object):
