@@ -37,7 +37,7 @@ Optimize:
 	
 	e.g.
 	
-	```
+```
 	aabacbebebe, k = 2
 	
 	step1: a // 1 {a:1}
@@ -53,9 +53,7 @@ Optimize:
 	step5: a | a | b | a | c
 	
 	fixed 4 {a:3, b:1} | fixed null | fixed 2 {b:1, a:1} | 2 {a:1, c:1} | 1 {c:1}
-	```
-	
-	
+```
 
 ### Sliding Windown Solution O(N)
 
