@@ -34,7 +34,7 @@ Infinity;
 `Null` is nothing, something that doesn't exist.
 `Undefined` is a variable without a value.
 
-```
+```js
 'abd';
 "abc";
 
@@ -51,24 +51,23 @@ false;
 `!a` // always returns boolean value
 `!!a` // convert a variable to boolean
 
-```
+```js
 NaN === NaN; // false, special case
 ifNaN(NaN); // true, use function
 
 1 / 3 === (1 - 2 / 3); // false, rounding error
 Math.abs(1 / 3 - (1 - 2 / 3)) < 0.0000001; // true
-
 ```
 
 `array`
 
-```
+```js
 var are = [1, 2, 3.14, 'Hello', null, true];
 ```
 
 `object`: a collection of properties, the `name:value` pairs are called `properties`.
 
-```
+```js
 var person = {
     name: 'Bob',
     age: 20,
@@ -98,26 +97,24 @@ var myProfile = {
 
 Post.findOne({ title: 'My First Post' });
 // {title: 'My First Post'} is an anonymous JavaScript object.
-
 ```
 
 `var`
 
 The `var` keyword makes variable local, restrict its scope to the function you're declaring it in (or the file, if you declare it outside of any function); 
 
-```
+```js
 i  = 10;
 // i will be global variable.  If i is decalared this way in multiple js file for the same page, it will be hard to debug.
 
 'use strict'; // enforce use of var
-
 ```
 
 `$`, `_` may be user-defined variable name for `jQuery` and `Underscore` library.
 
 ### String
 
-```
+```js
 var s = 'Hello, world!";
 s.length; // 13
 
@@ -146,7 +143,7 @@ var res = str.split(" ");
 
 ### Array
 
-```
+```js
 var arr = [1, 2. 3.14, 'Hello', null, true];
 arr.length; // 6
 
@@ -202,20 +199,33 @@ arr; // ['A', 'B', 'C']
 
 var arr = ['A', 'B', 'C', 1, 2, 3];
 arr.join('-'); // 'A-B-C-1-2-3'
-
 ```
+
 ### Sort
 
-```
+```js
 arr.sort() // inplace
 // sort() by default sorts the values as string in alphabetical and ascending order, thus '100' < '25'.
 
 nums.sort(function(a,b){return a-b});
+
+// for string, sort() compares ASCII, so if we need to ignore cases:
+arr.sort(function (s1, s2) {
+	x1 = s1.toUpperCase();
+	x2 = s2.toUpperCase();
+	if (x1 < x2) {
+		return -1; // ascending order
+	}
+	if (x1 > x2) {
+		return 1;
+	}
+	return 0;
+});
 ```
 
 ### Object
 
-```
+```js
 var xiaohong = {
     name: 'xiaohong',
     'middle-school': 'No.1 Middle School'
@@ -248,7 +258,7 @@ xiaoming.hasOwnProperty('toString'); // false
 
 ### Map, Set
 
-```
+```js
 // ES6 added Map and Set
 
 var m = new Map([['Michael', 95], ['Bob', 75], ['Tracy', 85]]);
@@ -280,7 +290,7 @@ s; // Set {1, 2}
 
 ### Loop
 
-```
+```js
 var i;
 for (i = 0; i < cars.length; i++) {
 	text += cars[i] + "<br>";
@@ -308,7 +318,7 @@ for (var i in a) {
 
 If a variable is defined inside a function, its scope is the entire function.  It can not be referenced outside the function.
 
-```
+```js
 'use strict';
 
 function foo() {
@@ -322,7 +332,7 @@ Variables with the same name in defined in different functions are independent.
 
 Nested function can access variables defined in parent functions.  !!! Not the other way around!!!
 
-```
+```js
 'use strict';
 
 function foo() {
@@ -336,7 +346,7 @@ function foo() {
 
 Function looks for vatiables within itself first.  If inner function and outer function has the same variable name, inner variable will shield outter variable.
 
-```
+```js
 'use strict';
 
 function foo() {
@@ -352,7 +362,7 @@ function foo() {
 
 Function will scan its body and raise all declaration of variables to its top scope, not all defination.
 
-```
+```js
 'use strict';
 
 function foo() {
@@ -388,7 +398,7 @@ function foo() {
 
 Any variable not defined inside a function has global scope, and is attached to the global `window` object.
 
-```
+```js
 'use strict';
 
 var course = 'Learn JavaScript';
@@ -398,7 +408,7 @@ alert(window.course); // 'Learn JavaScript'
 
 Actually, outter most function is in global scope too.
 
-```
+```js
 'use strict';
 
 function foo() {
@@ -413,7 +423,7 @@ window.foo(); // 通过window.foo()调用
 
 JavaScript only has one global scope.  Global variables will be attached to `window` object.  It's hard to find if differen js files defined same variable name.  So in practice, we bind all our variables to a single unique global variable. 
 
-```
+```js
 // 唯一的全局变量MYAPP:
 var MYAPP = {};
 
@@ -429,7 +439,7 @@ MYAPP.foo = function () {
 
 **block scope**
 
-```
+```js
 'use strict';
 
 function foo() {
@@ -442,7 +452,7 @@ function foo() {
 
 ES6 las `let` keyword to declare variable in block scope
 
-```
+```js
 'use strict';
 
 function foo() {
@@ -456,7 +466,7 @@ function foo() {
 
 ### Function
 
-```
+```js
 function myAwesomeFunction(myArgument) {
     // do sth
 }
@@ -472,12 +482,11 @@ applyOperation = function (f, a) {
     return f(a);
 }
 applyOperation (square, 10); // 100
-    
 ```
 
 ### Anonymous Functions
 
-```
+```js
 applyOperation = function (f, a) {
     return f(a);
 }
@@ -496,7 +505,7 @@ Function that takes function as input variable is higher order function
 
 Higher order function can also return function.
 
-```
+```js
 function add(x, y, f) {
     return f(x) + f(y);
 }
@@ -504,7 +513,7 @@ function add(x, y, f) {
 
 ### map/reduce
 
-```
+```js
 function pow(x) {
 	return x * x;
 }
@@ -514,12 +523,12 @@ arr.map(pow); // [1,4,9,16,25,36,49,64,91]
 
 var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 arr.map(String); // ['1', '2', '3', '4', '5', '6', '7', '8', '9']
-
 ```
 
 ### Arrows
+ES6
 
-```
+```js
 var digits = [0,1,2,3,4,5,6,7,8,9,10];
 var even_digits = digits.filter( num => num % 2 === 0 );
 console.log(even_digits); // 0,2,4,6,8]
@@ -547,7 +556,7 @@ employee._printTask();
 ### This
 `this` keyword lets you access the object on which you're currently working.
 
-```
+```js
 myFunction = function (a, b) {
     console.log(this);
     // do sth
@@ -560,7 +569,7 @@ myFunction = function (a, b) {
         
 ```
 
-```
+```js
 Template.postEdit.events({
   'submit form': function(event) {
     event.preventDefault();
@@ -588,7 +597,7 @@ Template.postEdit.events({
 
 On strict mode, `this` variable inside a function points to `undefined`.
 
-```
+```js
 'use strict';
 
 var xiaoming = {
@@ -606,7 +615,7 @@ fn(); // Uncaught TypeError: Cannot read property 'birth' of undefined.
 
 In the following example, `this` inside `age` function points to `xiaoming`, but `this` inside `getAgeFromBirth()` points to `undefined` (under `strict` mode, if not `strict`, it points to `window`)
 
-```
+```js
 'use strict';
 
 var xiaoming = {
@@ -626,7 +635,7 @@ xiaoming.age(); // Uncaught TypeError: Cannot read property 'birth' of undefined
 
 Use `that` to fix the above example
 
-```
+```js
 'use strict';
 
 var xiaoming = {
@@ -644,7 +653,7 @@ var xiaoming = {
 
 Use `apply()` or `call()` to fix the above example
 
-```
+```js
 function getAge() {
 	var y = new Date().getFullYear();
 	return y - this.birth;
@@ -662,7 +671,7 @@ getAge.apply(xiaoming, [])// this points to xiaoming, [] is empty parameters.
 
 For normal function call, we assign `null` to `this`
 
-```
+```js
 Math.max(3,5,4);
 Math.max.apply(null, [3,5,4]); // 5
 Math.max.call(null, 3,5,4); // 5
@@ -671,7 +680,7 @@ Math.max.call(null, 3,5,4); // 5
 
 ### JSON
 
-```
+```js
 JSON.stringfy(object);
 ```
 
@@ -679,10 +688,67 @@ JSON.stringfy(object);
 
 Closures are functions that refer to independent (free) variables.  In other words, the function defined in the closure remembers the environment in which it was created.
 
+```js
+function count() {
+	var arr = [];
+	for (var i=1; i<=3; i++) {
+		arr.push(function () {
+			return i * i;
+		});
+	}
+	return arr;
+}
+
+var results = count();
+var f1 = results[0];
+var f2 = results[1];
+var f3 = results[2];
+
+console.log(f1());
+console.log(f2());
+console.log(f3());
+// 16
+// 16
+// 16
+// When the three functions return, variable i is 4, thus prints 16.
+```
+
+What if we want to use iteration variable?  We create another function and use the parameters of the new function to record the correct value of the iteration variable.
+
+```js
+function count() {
+    var arr = [];
+    for (var i=1; i<=3; i++) {
+        arr.push((function (n) {
+            return function () {
+                return n * n;
+            }
+        })(i));
+    }
+    return arr;
+}
+
+var results = count();
+var f1 = results[0];
+var f2 = results[1];
+var f3 = results[2];
+
+f1(); // 1
+f2(); // 4
+f3(); // 9
+```
+
+```js
+(function (x) {
+    return x * x;
+})(3);
+// need parenthese to wrap anonymous function if want to execute directly
+```
+
 **Lexical scoping**:
 In JavaScript, the scope of a variable is defined by its location within the source code (it is apparent lexically) and nested functinos have access to variables declared in their outer scope.
 
-```
+```js
 function init() {
   var name = "Mozilla"; // name is a local variable created by init
   function displayName() { // displayName() is the inner function, a closure
@@ -697,7 +763,7 @@ init();
 
 In the following example, `myFunc` has become a closure that incorporates both the `displayName` function and the `Mozilla` string that existed when the closure was created.
 
-```
+```js
 function makeFunc() {
   var name = "Mozilla";
   function displayName() {
@@ -712,7 +778,7 @@ myFunc();
 
 **emulating private methods with closures**
 
-```
+```js
 var counter = (function() {
 	var privateCounter = 0;
 	function changeBy(val) {
