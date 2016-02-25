@@ -17,7 +17,7 @@ My JaveScript reference.
 
 `Number:`
 
-```
+```js
 123;
 0.456;
 1.2345e3; // 1234.5
@@ -40,7 +40,6 @@ Infinity;
 
 true;
 false;
-
 ```
 
 `==` // equal in value
@@ -194,11 +193,6 @@ arr; // []
 arr.shift(); // return undefined
 arr; // []
 
-arr.sort() // inplace
-// sort() by default sorts the values as string in alphabetical and ascending order, thus '100' < '25'.
-
-nums.sort(function(a,b){return a-b});
-
 arr.reverse()
 
 var arr = ['A', 'B', 'C'];
@@ -210,7 +204,14 @@ var arr = ['A', 'B', 'C', 1, 2, 3];
 arr.join('-'); // 'A-B-C-1-2-3'
 
 ```
+### Sort
 
+```
+arr.sort() // inplace
+// sort() by default sorts the values as string in alphabetical and ascending order, thus '100' < '25'.
+
+nums.sort(function(a,b){return a-b});
+```
 
 ### Object
 
