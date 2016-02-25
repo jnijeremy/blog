@@ -43,34 +43,34 @@ prefixArray =
 ]
 ```
 
-```python
+{% highlight python linenos %}
 def genos(S, P, Q):
-	n = len(S)
-	m = len(P)
-	prefixSum = [[0 for _ in range(4)] for _ in range(n)]
-	result = [0 for _ in range(m)]
-	d = {'A':1, 'C':2, 'G':3, 'T':4}
-	
-	# count every geno occurance
-	for i,x in enumerate(S):
-		prefixSum[i][d[x]-1] = 1
-		
-	# accumulate prefix sum
-	for i in range(1, n):
-		for j in tange(4):
-			prefixSum[i][j] += prefixSum[i-1][j]
-			
-	# handle each query
-	for i in range(m):
-		x = P[i]
-		y = Q[i]
-		for geno in range(4):
-			exist = 0
-			if x > 0:
-				exist = prefixSum[x-1][geno]
-			if prefixSum[y][geno] - exist > 0:
-				result[i] = geno + 1
-				break
-				
-	return result
-```
+    n = len(S)
+    m = len(P)
+    prefixSum = [[0 for _ in range(4)] for _ in range(n)]
+    result = [0 for _ in range(m)]
+    d = {'A':1, 'C':2, 'G':3, 'T':4}
+    
+    # count every geno occurance
+    for i,x in enumerate(S):
+        prefixSum[i][d[x]-1] = 1
+        
+    # accumulate prefix sum
+    for i in range(1, n):
+        for j in tange(4):
+            prefixSum[i][j] += prefixSum[i-1][j]
+            
+    # handle each query
+    for i in range(m):
+        x = P[i]
+        y = Q[i]
+        for geno in range(4):
+            exist = 0
+            if x > 0:
+                exist = prefixSum[x-1][geno]
+            if prefixSum[y][geno] - exist > 0:
+                result[i] = geno + 1
+                break
+                
+    return result
+{% endhighlight %}
