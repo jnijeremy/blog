@@ -46,6 +46,7 @@ Ideas in a Bruising Workplace](http://www.nytimes.com/2015/08/16/technology/insi
 	By Richard LittleMore
 	
 	Note: Nice introduction to Vancouver's tech industry.  Some interesting numbers:
+	
 	> The high-technology sector in B.C. now employs 84,000 people, more than the forestry, mining and oil and gas industries combined.
 	
 	> According to a recent KPMG report commissioned by the BC Technology Industry Association, B.C. boasts 9,000 high-tech companies that together generate more than $15 billion in direct economic impact—that’s 7.6% of provincial GDP. 
