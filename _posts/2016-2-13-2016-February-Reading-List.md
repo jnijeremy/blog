@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2016 Feburary Reading List
+title: 2016 February Reading List
 update: 2016-2-29
-excerpt: <p>My Reading List for 2016 Feburary</p>
+excerpt: <p>My Reading List for 2016 February</p>
 
 ---
 
