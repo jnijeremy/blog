@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Stuff I Read
-update: 2016-2-18
-excerpt: <p>2016 Feburary Reading Summary</p>
+title: 2016 Feburary Reading List
+update: 2016-2-29
+excerpt: <p>My Reading List for 2016 Feburary</p>
 
 ---
 
@@ -19,7 +19,7 @@ Ideas in a Bruising Workplace](http://www.nytimes.com/2015/08/16/technology/insi
 
 	by Jodi Kantor and David Streitfeld
 	
-	Note: when a system is created, it's policy is materialized by it's exisitng strectures.  When everyone around you is running, you either run together, or walk alone.
+	Note: when a system is created, it's policy is materialized by it's exisitng structures.  When everyone around you is running, you either run together, or walk alone.
 
 3. [The Rise & Fail of Silk Road, Part 1](http://www.wired.com/2015/04/silk-road-1/)
 
@@ -40,6 +40,17 @@ Ideas in a Bruising Workplace](http://www.nytimes.com/2015/08/16/technology/insi
 	By Peter Hessler
 
 	Note: vivid story about how chinese merchants selling lingerie in the most conservetive area on Egypt.  The cultural, economic and political exchange behind scene is fascinating.
+
+6. [Vancouvers High Tech Makeover](http://www.theglobeandmail.com/report-on-business/rob-magazine/vancouvers-high-tech-makeover/article23614007/)
+
+	By Richard LittleMore
+	
+	Note: Nice introduction to Vancouver's tech industry.  Some interesting numbers:
+	> The high-technology sector in B.C. now employs 84,000 people, more than the forestry, mining and oil and gas industries combined.
+	
+	> According to a recent KPMG report commissioned by the BC Technology Industry Association, B.C. boasts 9,000 high-tech companies that together generate more than $15 billion in direct economic impact—that’s 7.6% of provincial GDP. 
+	
+	> B.C.’s $15 billion in tech salaries, services, sales and exports pales next to California’s $275 billion.
 
 ---
 
