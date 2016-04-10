@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dynamic Programming
-update: 2016-2-25
+update: 2016-3-2
 excerpt: <p>A collection of dynamic programming problems</p>
 
 ---
@@ -101,3 +101,25 @@ def getMaxProfit(prices):
 		maxPrice = max(maxPrice, prices[i]
 		maxProfit += maxPrice - prices[i]
 ```
+
+---
+
+[Longest Arithmetic Progression](http://www.geeksforgeeks.org/length-of-the-longest-arithmatic-progression-in-a-sorted-array/)
+
+Given a set of numbers, find the Length of the Longest Arithmetic Progression (LLAP) in it.
+
+**Sample Input**
+
+```
+1 7 10 15 27 29
+5 10 15 20 25 30
+```
+
+**Sample Output**
+
+```
+3 // {1, 5, 29}, longest AP
+6 // {5 10 15 20 25 30}
+```
+
+**Solution**
