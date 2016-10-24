@@ -44,7 +44,7 @@ Send me an email to <j@jnijeremy.com>.
 > Invite your friends to get 50% off of their first 12 bottles of Soylent 2.0 and for each new subscription, we'll donate four meals to World Food Program USA.
 
 ### How to get promo:
-Use my [personal referral link](http://soy.lt/r/tNs3hq1H64).
+Use my [personal referral link](http://soy.lt/r/tNs3hq1H64) (Let's fight hunger together!).
 
 ---
 
@@ -54,7 +54,7 @@ Use my [personal referral link](http://soy.lt/r/tNs3hq1H64).
 > From now until January 31, 2017, for every friend you successfully refer who opens their first Tangerine Account with an initial deposit of $100 or more using your Orange Key®, you’ll earn a Bonus of $50*, and so will they.
 
 ### How to get promo:
-Use my Orange Key `47254173S1` or send me an email to <j@jnijeremy.com>.
+Use my Orange Key `47254173S1`.
 
 ---
 
