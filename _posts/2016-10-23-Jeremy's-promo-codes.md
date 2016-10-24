@@ -16,6 +16,7 @@ Use my promotion code `JOINC2GVAN_jnijeremy`.
 [Rules](https://friends.car2go.com/na)
 
 ---
+
 ### Fido
 > You receive a $25 credit for each new customer you refer to us.
 >
@@ -38,6 +39,7 @@ Send me an email to <j@jnijeremy.com>.
 [Rules](http://www.fido.ca/web/content/whyfido/referafriend?lang=en)
 
 ---
+
 ### Soylent
 > Invite your friends to get 50% off of their first 12 bottles of Soylent 2.0 and for each new subscription, we'll donate four meals to World Food Program USA.
 
@@ -47,6 +49,7 @@ Use my [personal referral link](http://soy.lt/r/tNs3hq1H64).
 [Rules](https://www.soylent.com/refer/)
 
 ---
+
 ### Tangerine
 > From now until January 31, 2017, for every friend you successfully refer who opens their first Tangerine Account with an initial deposit of $100 or more using your Orange Key®, you’ll earn a Bonus of $50*, and so will they.
 
@@ -56,6 +59,7 @@ Use my Orange Key `47254173S1` or send me an email to <j@jnijeremy.com>.
 [Rules](https://www.tangerine.ca/en/referafriend/index.html)
 
 ---
+
 ### WealthSimple
 > For every friend you invite who funds their account, you both get an additional $5,000 managed for free.
 
@@ -64,5 +68,3 @@ Use my Orange Key `47254173S1` or send me an email to <j@jnijeremy.com>.
 Use my [personal referral link](http://wsim.co/q8byc5j) (If you have other promo code, you can ask customer service to also apply it).
 
 [Rules](https://grow.wealthsimple.com/wealthsimple-refer-friend-program/)
-
----
