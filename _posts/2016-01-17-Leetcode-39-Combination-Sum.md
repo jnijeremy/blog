@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leetcode 39 Combination Sum
-update: 2016-2-15
+update: 2016-02-15
 
 ---
 

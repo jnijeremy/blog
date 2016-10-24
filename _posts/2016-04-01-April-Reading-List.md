@@ -19,6 +19,17 @@ The untold tale of Target Canada’s difficult birth, tough life and brutal deat
 
 ### Tech Blog
 
+1. [A JavaScript Primer For Meteor
+](https://www.discovermeteor.com/blog/javascript-for-meteor/)
+
+	by Sacha Greif
+	
+2. [Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)
+
+	by Nick Farina
+	
+	Note: Git is a design of Object Database and coresponding shell scripts.
+
 ---
 
 ### Toturial

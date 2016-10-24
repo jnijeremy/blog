@@ -1,11 +1,17 @@
 ---
 layout: post
 title: JavaScript Reference
-update: 2016-2-24
+update: 2016-02-24
 
 ---
 
 My JaveScript reference.
+
+### Style
+
+* use camelCase;
+* seperate each keyword with a space;
+* 
 
 `foo ? function1() : function2();`
 
@@ -110,7 +116,9 @@ i  = 10;
 'use strict'; // enforce use of var
 ```
 
-`$`, `_` may be user-defined variable name for `jQuery` and `Underscore` library.
+`$()` is commonly used as an alias for the jQuery function (from the jQuery library), while `_` is the main object of the Underscore library.
+
+
 
 ### String
 
@@ -131,6 +139,10 @@ s.indexOf('world'); // 7
 s.indexOf('notexist'); // -1
 s.substring(0, 5); // 'hello'
 s.substring(7); // 'world'
+
+s = 'abc';
+s.replace('a', 'z'); // 'zbc'
+s // 'abc'
 
 // string to array
 s = "123";

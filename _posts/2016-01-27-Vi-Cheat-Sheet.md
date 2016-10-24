@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vi Cheat Sheet
-update: 2016-2-15
+update: 2016-02-15
 
 ---
 
