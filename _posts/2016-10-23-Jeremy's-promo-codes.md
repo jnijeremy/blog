@@ -24,14 +24,16 @@ Use my promotion code `JOINC2GVAN_jnijeremy`.
 >
 > You can refer up to 5 friends per calendar month.
 
-Currently I use [$55 Fido Pulse plan](https://www.fido.ca/consumer/mobile-plans) with
+Currently I use a $40 BYOP plan with
 
-* 2 GB DATA
-* 1000 INTERNATIONAL LD MINUTES
-* Unlimited TEXT
+* 4 GB DATA
+* 1000 International Long Distance Minutes to 8 Selected Countries
+* Unlimited British Columbia-Wide Minutes
+* Unlimited Text, Picture and Video Messages from Canada to Canadian, U.S. and International Mobile Numbers
 * Call Display
 * Voicemail
-* Fido Roam
+
+The only issue with this plan is it doesn't have Fido Roaming.  Maybe need to use roammobility when in the US.
 
 ### How to get promo:
 Send me an email to <j@jnijeremy.com>.
