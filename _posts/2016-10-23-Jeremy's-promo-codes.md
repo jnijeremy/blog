@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My promo codes
-update: 2016-10-23
+update: 2016-12-06
 excerpt: <p>List of promo codes for services I use</p>
 
 ---
