@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2016-12-27
+update: 2016-12-28
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
-### West Coast Seafood
+### West Coast
 [Rodney's Oyster House](http://rohvan.com/)
 
 - Low tide menu (happy hour)
@@ -14,6 +14,14 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Coast](http://www.glowbalgroup.com/coast/)
 
 - $12 FISH & CHIP FRIDAY
+
+[Joe Fortes](http://www.joefortes.ca/)
+
+[The Keg Steakhouse + Bar](https://www.kegsteakhouse.com/)
+
+[Cactus Club Cafe](www.cactusclubcafe.com/)
+
+- BUTTERNUT SQUASH RAVIOLI WITH PRAWNS
 
 ---
 
@@ -26,7 +34,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Northern Chinese
-[顺鑫园](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
+[顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
 
 - 5:30pm-11:00pm, 周三休息
 - 香辣蟹
@@ -38,15 +46,17 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 - 黄鳝煲仔饭 (提前30分钟预订)
 
-[龙皇鲍翅酒家](http://neptune-restaurant.ca)
+[龙皇鲍翅酒家 Neptune Seafood Restaurant](http://neptune-restaurant.ca)
 
-[皇朝](http://dynasty-restaurant.ca)
+[皇朝 Dynasty Restaurant](http://dynasty-restaurant.ca)
 
 [何源記 Ho Yuen Kee Restaurant](https://www.yelp.ca/biz/ho-yuen-kee-vancouver)
 
 - 荷叶龙虾饭
 
 [釣魚台海鮮酒家 Fisherman's Terrace Seafood](https://www.yelp.ca/biz/fishermans-terrace-seafood-restaurant-richmond)
+
+[王子海鮮酒家 Prince Seafood Restaurant](https://www.yelp.ca/biz/prince-seafood-restaurant-vancouver)
 
 [鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
 
@@ -55,7 +65,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### Shanghainess
 [Jin Jiang Shanghai Restaurant 锦江上海菜](https://www.yelp.ca/biz/jin-jiang-shanghai-restaurant-burnaby)
 
-[苏杭人家](http://www.suhang.ca/)
+[苏杭人家 Suhang Restaurant](http://www.suhang.ca/)
 
 - 肚包鸡
 - 八宝鸭
@@ -66,6 +76,12 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ### Japaness
 [Minami](http://minamirestaurant.com)
+
+[Gyu King Teppanyaki](http://www.gyukingteppanyaki.com/ch/index.php)
+
+- Lunch All You Can Eat
+
+[Kobe Japanese Steak House](http://www.koberestaurant.com/)
 
 [Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
 
@@ -78,7 +94,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Korean
-[SURA Korean Royal Cuisine Restaurant Vancouver](http://www.surakoreancuisine.com/#robson)
+[SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
 
 [House of Tofu Soup](https://www.yelp.ca/biz/house-of-tofu-soup-burnaby)
 
@@ -87,6 +103,11 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### Dessert
 
 [多乐蜜 Doolami Dessert](https://www.yelp.ca/biz/doolami-dessert-vancouver)
+
+[Bubble Fruity 果间茶坊（桂花林）](https://www.yelp.ca/biz/bubble-fruity-richmond)
+
+- 芝麻糊
+- 核桃糊
 
 ---
 
