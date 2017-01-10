@@ -25,22 +25,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
-### Taiwaness
-[Maji Restaurant 麻吉台式熱炒](http://www.majirestaurant.ca/)
-
-- Braised Food 卤味 
-- San-Pei Chicken 三杯鸡
-
----
-
-### Northern Chinese
-[顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
-
-- 5:30pm-11:00pm, 周三休息
-- 香辣蟹
-
----
-
 ### Cantonese
 [McKim Wonton Mein Saga 云吞面世家](https://www.yelp.ca/biz/mckims-wonton-mein-saga-vancouver)
 
@@ -74,6 +58,24 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
+### Taiwaness
+[Maji Restaurant 麻吉台式熱炒](http://www.majirestaurant.ca/)
+
+- Braised Food 卤味 
+- San-Pei Chicken 三杯鸡
+
+---
+
+### Chinese
+[顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
+
+- 5:30pm-11:00pm, 周三休息
+- 香辣蟹
+
+[老西安 Old Xian's Food](http://www.oldxiansfood.com/)
+
+---
+
 ### Japaness
 [Minami](http://minamirestaurant.com)
 
@@ -100,6 +102,18 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
+### Thai
+[Thai Cafe](http://www.thaicafe.ca/)
+
+- PAD THAI
+
+---
+
+### Vietnamese
+[Thai Son Restaurant](http://www.thaison.ca/)
+
+---
+
 ### Dessert
 
 [多乐蜜 Doolami Dessert](https://www.yelp.ca/biz/doolami-dessert-vancouver)
@@ -121,9 +135,7 @@ Meat and Bread
 
 Tairyou ichiba 大漁市場
 
-丽都
- 
-- 菠萝包
+
 
 Oyester express 
 
