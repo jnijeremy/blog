@@ -5,6 +5,17 @@ update: 2016-12-06
 excerpt: <p>List of promo codes for services I use</p>
 
 ---
+
+### American Express Gold Rewards Card
+[Rules](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiGwtnWu5HSAhUS1mMKHSwyAmgQFggmMAA&url=http%3A%2F%2Fwww.americanexpress.com%2Fcanada%2Freferafriend&usg=AFQjCNG57vhSXkuaVwhLNmdHRpMxIcVaHQ&sig2=Y-rMmo-_EANeXoPyiuBi8A&cad=rja)
+
+> As the Basic Cardmember, refer a friend and you1 could earn a bonus of 5,000 Membership Rewards® points for each approved referral up to a maximum annual referral bonus of 75,000 Membership Rewards points2
+
+### How to get promo:
+Use my [personal referral link](http://amex.ca/share/zeyunJdWH).
+
+---
+
 ### Car2go 
 [Rules](https://friends.car2go.com/na)
 
