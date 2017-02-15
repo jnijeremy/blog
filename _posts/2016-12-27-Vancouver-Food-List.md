@@ -135,8 +135,6 @@ Meat and Bread
 
 Tairyou ichiba 大漁市場
 
-
-
 Oyester express 
 
 Nuba
@@ -149,15 +147,11 @@ Nuba
 - (604) 272-6568 
 - 11am-8pm (星期三休息)
 
-Black & Blue
-
 beta5 chocolate
 
 Bestie
 
 Deutsches Haus German Restaureant
-
-聚
 
 金边小馆
 
