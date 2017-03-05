@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My promo codes
-update: 2016-12-06
+update: 2017-03-04
 excerpt: <p>List of promo codes for services I use</p>
 
 ---
@@ -13,6 +13,19 @@ excerpt: <p>List of promo codes for services I use</p>
 
 ### How to get promo:
 Use my [personal referral link](http://amex.ca/share/zeyunJdWH).
+
+---
+
+### Evo Car Share
+
+> here's how it works:
+Have your friend sign up at evo.ca, using your unique referral promo code: C000037253
+Your friend gets free registration and 30 minutes
+You get 30 minutes! It's a win-win.
+You can refer as many friends as you like, just remember they need to register at evo.ca before April 30th to get the deal. Your credits will be applied within 30 days of your friend's registration.
+
+### How to get promo:
+Use my promotion code `C000037253`.
 
 ---
 
