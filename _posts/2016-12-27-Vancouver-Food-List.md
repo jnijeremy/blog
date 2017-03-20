@@ -141,12 +141,6 @@ Nuba
 
 金津粥品專賣店 Kongee Dinesty
 
-明家燒臘專家 HK BBQ Master
-
-- #145-4651 No. 3 Rd, Richmond 
-- (604) 272-6568 
-- 11am-8pm (星期三休息)
-
 beta5 chocolate
 
 Bestie
@@ -163,6 +157,6 @@ Deutsches Haus German Restaureant
 
 [FARMER'S APPRENTICE RESTAURANT](http://www.farmersapprentice.ca)
 
-[Hongdae Pocha Cafe Korean Market Food Restaurant](http://www.hongdaepochacafe.com/)
-
 [SURA Korean BBQ Restaurant](http://www.sura-koreanbbq.com/#richmond)
+
+[Heritage Asian Eatery](http://www.eatheritage.ca/)

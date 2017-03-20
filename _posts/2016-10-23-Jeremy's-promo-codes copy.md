@@ -77,7 +77,6 @@ Use my [personal referral link](http://soy.lt/r/tNs3hq1H64) (Let's fight hunger 
 ### Tangerine
 [Rules](https://www.tangerine.ca/en/referafriend/index.html)
 
-> From now until January 31, 2017, for every friend you successfully refer who opens their first Tangerine Account with an initial deposit of $100 or more using your Orange Key®, you’ll earn a Bonus of $50*, and so will they.
 
 ### How to get promo:
 Use my Orange Key `47254173S1`.
