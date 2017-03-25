@@ -39,6 +39,16 @@ Use my promotion code `JOINC2GVAN_jnijeremy`.
 
 ---
 
+### Zipcar
+[Rules](http://www.zipcar.com/referfriends)
+
+> You and your friend each get $25 in driving credit when they join!
+ 
+### How to get promo:
+Send me an email to <j@jnijeremy.com>.
+
+---
+
 ### Fido
 [Rules](http://www.fido.ca/web/content/whyfido/referafriend?lang=en)
 
