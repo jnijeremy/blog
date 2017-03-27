@@ -74,6 +74,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [老西安 Old Xian's Food](http://www.oldxiansfood.com/)
 
+[Heritage Asian Eatery](http://www.eatheritage.ca/)
+
 ---
 
 ### Japaness
@@ -159,4 +161,3 @@ Deutsches Haus German Restaureant
 
 [SURA Korean BBQ Restaurant](http://www.sura-koreanbbq.com/#richmond)
 
-[Heritage Asian Eatery](http://www.eatheritage.ca/)
