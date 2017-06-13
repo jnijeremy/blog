@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TV programs
-update: 2017-06-11
+update: 2017-06-12
 excerpt: <p>Watch List</p>
 
 ---
@@ -17,7 +17,7 @@ excerpt: <p>Watch List</p>
 * [Crown](http://www.imdb.com/title/tt4786824/) (s01e10)
 * [Secse8](http://www.imdb.com/title/tt2431438/) (s01e12, 2016 Chritmas Special， s02e04)
 * [鬼吹灯](http://www.imdb.com/title/tt6413278/) (s01e21)
-* [Silicon Valley](http://www.imdb.com/title/tt2575988/) (s04e03)
+* [Silicon Valley](http://www.imdb.com/title/tt2575988/) (s04e08)
 * [Veep](http://www.imdb.com/title/tt1759761) (s06e3)
 * [House of Cards](http://www.imdb.com/title/tt1856010/) (s05e13)
 * [欢乐颂](https://movie.douban.com/subject/26743573/) (s02e55)
