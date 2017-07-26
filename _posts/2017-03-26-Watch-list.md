@@ -9,10 +9,8 @@ excerpt: <p>Watch List</p>
 # Shows updating
 
 * [Modern Family](http://www.imdb.com/title/tt1442437/) (s08e18)
-* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s03e22)
 * [Saturday Night Live](http://www.imdb.com/title/tt0072562/) (s42e13, e14, e15, e16, e18)
 * [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e08)
-
 * [Game of Thrones](http://www.imdb.com/title/tt0944947/) (s06e10)
 
 ---
@@ -28,6 +26,7 @@ excerpt: <p>Watch List</p>
 * [Crown](http://www.imdb.com/title/tt4786824/) (s01e10)
 * [Secse8](http://www.imdb.com/title/tt2431438/) (s01e12, 2016 Chritmas Special， s02e04)
 * [The Expanse](http://www.imdb.com/title/tt3230854/) (s02e13)
+* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s03e23)
 
 # Shows ended
 

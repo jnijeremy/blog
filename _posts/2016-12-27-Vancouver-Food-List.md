@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2017-07-03
+update: 2017-07-21
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -93,6 +93,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Kobe Japanese Steak House](http://www.koberestaurant.com/)
 
 [Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
+
+[Guu Garden](https://guu-izakaya.com/menu/#Garden)
 
 [Japadog](http://www.japadog.com/)
 
