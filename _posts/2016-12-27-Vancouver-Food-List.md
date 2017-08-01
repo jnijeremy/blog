@@ -17,11 +17,15 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Joe Fortes](http://www.joefortes.ca/)
 
+- Atlantic lobster Benedict
+
 [The Keg Steakhouse + Bar](https://www.kegsteakhouse.com/)
 
 [Cactus Club Cafe](www.cactusclubcafe.com/)
 
 - BUTTERNUT SQUASH RAVIOLI WITH PRAWNS
+- DOUBLE-BRAISED PINEAPPLE HOISIN SHORT RIB
+- ROB’S CRISPY CHICKEN SANDWICH
 
 ---
 
@@ -86,6 +90,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### Japaness
 [Minami](http://minamirestaurant.com)
 
+[Miku](https://mikurestaurant.com/)
+
 [Gyu King Teppanyaki](http://www.gyukingteppanyaki.com/ch/index.php)
 
 - Lunch All You Can Eat
@@ -95,6 +101,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
 
 [Guu Garden](https://guu-izakaya.com/menu/#Garden)
+
+[Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
 
 [Japadog](http://www.japadog.com/)
 
@@ -106,6 +114,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ### Korean
 [SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
+
+[Zabu Chicken](http://www.zabuchicken.com/index_01.html)
 
 [House of Tofu Soup](https://www.yelp.ca/biz/house-of-tofu-soup-burnaby)
 
@@ -121,10 +131,23 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### Vietnamese
 [Thai Son Restaurant](http://www.thaison.ca/)
 
+[Little Saigon](http://www.littlesaigon.ca/)
+
 ---
 
 ### Persian
 [Cazba Restaurant](http://www.cazbarestaurant.com/)
+
+---
+
+### Brunch
+[Twisted Fork Bistro](http://twistedforkbistro.ca/)
+
+[The Distillery Bar](http://www.mjg.ca/distillery-bar-and-kitchen/)
+
+- Distillery breakfast with Canadian thick cut bacon
+
+[Medina Cafe](http://www.medinacafe.com/)
 
 ---
 
@@ -139,7 +162,38 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
+### Casual Eats
+
+[Tacofino](https://www.tacofino.com/)
+
+- Lemon Grass Chicken Burrito
+
+
 ## Wish List
+
+Passion 8 Dessert cafe
+
+Chambar
+
+Italian Kitchen
+
+the boat house
+
+Hawksworth
+
+Bistro sakana
+
+Bacchus Restaurant ( afternoon tea )
+
+Lotus cake boutique
+
+Ajisai sushi bar
+
+Snackshot 糖百府
+
+Bauhaus Restaurant
+
+Mott32
 
 Mr Red Cafe
 
