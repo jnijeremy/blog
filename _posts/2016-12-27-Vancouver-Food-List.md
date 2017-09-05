@@ -149,6 +149,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Medina Cafe](http://www.medinacafe.com/)
 
+[cora](http://www.chezcora.com/en)
+
 ---
 
 ### Dessert
@@ -170,6 +172,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 
 ## Wish List
+
+南轩 金沙蟹
 
 Passion 8 Dessert cafe
 
