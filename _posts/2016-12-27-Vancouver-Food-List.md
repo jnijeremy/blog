@@ -1,8 +1,35 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2017-07-21
+update: 2017-10-10
 excerpt: <p>Where to eat in Vancouver</p>
+
+---
+
+### Casual Eats & Lunch Special
+
+[Tacofino](https://www.tacofino.com/)
+
+- LEMON GRASS CHICKEN BURRITO
+- BLUE CORN CRISPY CHICKEN WRAP
+
+[Grouds for appeal](https://www.yelp.ca/biz/grounds-for-appeal-vancouver)
+
+- Butter Chicken
+
+[Cazba Restaurant](http://www.cazbarestaurant.com/)
+
+- Daily Special
+
+[The Distillery Bar](http://www.mjg.ca/distillery-bar-and-kitchen/)
+
+- Only Friday, Saturday and Sunday
+
+[Little Saigon](http://www.littlesaigon.ca/)
+
+[Simply Thai](http://simplythaivancouver.com/)
+
+[Guu Garden](https://guu-izakaya.com/menu/#Garden)
 
 ---
 
@@ -100,8 +127,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
 
-[Guu Garden](https://guu-izakaya.com/menu/#Garden)
-
 [Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
 
 [Japadog](http://www.japadog.com/)
@@ -164,13 +189,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
-### Casual Eats
-
-[Tacofino](https://www.tacofino.com/)
-
-- Lemon Grass Chicken Burrito
-
-
 ## Wish List
 
 南轩 金沙蟹
@@ -214,8 +232,6 @@ beta5 chocolate
 Bestie
 
 Deutsches Haus German Restaureant
-
-金边小馆
 
 海棠海鲜酒家
 
