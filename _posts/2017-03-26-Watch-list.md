@@ -1,16 +1,16 @@
 ---
 layout: post
 title: TV shows
-update: 2017-10-10
+update: 2017-10-20
 excerpt: <p>TV shows I watch</p>
 
 ---
 
 # Shows updating
 
-* [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e03)
-* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e02)
-* [While You Were Sleeping](http://www.imdb.com/title/tt6256484/)(s01e12)
+* [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e04)
+* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e03)
+* [While You Were Sleeping](http://www.imdb.com/title/tt6256484/)(s01e18)
 * [Saturday Night Live](http://www.imdb.com/title/tt0072562/) (s42e13, e14, e15, e16, e18)
 * [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e08)
 
