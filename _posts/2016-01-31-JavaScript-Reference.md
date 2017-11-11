@@ -7,13 +7,24 @@ update: 2016-02-24
 
 My JaveScript reference.
 
-### Style
+### fun examples
+```js
+1. arrow function example
+const numbers = [1,2,3];
+const result = numbers.map(n => { value: n });
+// [undefined, undefined, undefined]
+const result2 = numbers.map(n => ({ value: n }));
+// [ { value: 1 }, { value: 2 }, { value: 3 } ]
 
-* use camelCase;
-* seperate each keyword with a space;
-* 
+2. closure example
 
-`foo ? function1() : function2();`
+3. spreading operator
+const result = {
+	name: "results",
+	...!!data ? data : { default: true }
+}
+// order of execution: !! -> : -> ...
+```
 
 ### Type
 
@@ -52,14 +63,12 @@ false;
 
 `===` // equal in both value and type, better
 
-`!==`
-
 `!a` // always returns boolean value
 `!!a` // convert a variable to boolean
 
 ```js
 NaN === NaN; // false, special case
-ifNaN(NaN); // true, use function
+isNaN(NaN); // true, use function
 
 1 / 3 === (1 - 2 / 3); // false, rounding error
 Math.abs(1 / 3 - (1 - 2 / 3)) < 0.0000001; // true
