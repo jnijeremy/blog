@@ -1,42 +1,27 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2017-10-10
+update: 2017-11-11
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
-### Casual Eats & Lunch Special
-
-[Tacofino](https://www.tacofino.com/)
-
-- LEMON GRASS CHICKEN BURRITO
-- BLUE CORN CRISPY CHICKEN WRAP
-
-[Grouds for appeal](https://www.yelp.ca/biz/grounds-for-appeal-vancouver)
-
-- Butter Chicken
-
-[Cazba Restaurant](http://www.cazbarestaurant.com/)
-
-- Daily Special
-
-[The Distillery Bar](http://www.mjg.ca/distillery-bar-and-kitchen/)
-
-- Only Friday, Saturday and Sunday
-
-[Little Saigon](http://www.littlesaigon.ca/)
-
-[Simply Thai](http://simplythaivancouver.com/)
-
-[Guu Garden](https://guu-izakaya.com/menu/#Garden)
+note: ranked roughly by price in each category.
 
 ---
 
 ### West Coast
+[Cactus Club Cafe](www.cactusclubcafe.com/)
+
+- BUTTERNUT SQUASH RAVIOLI WITH PRAWNS
+- DOUBLE-BRAISED PINEAPPLE HOISIN SHORT RIB
+- ROB’S CRISPY CHICKEN SANDWICH
+
 [Rodney's Oyster House](http://rohvan.com/)
 
 - Low tide menu (happy hour)
+
+[The Keg Steakhouse + Bar](https://www.kegsteakhouse.com/)
 
 [Coast](http://www.glowbalgroup.com/coast/)
 
@@ -46,39 +31,49 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 - Atlantic lobster Benedict
 
-[The Keg Steakhouse + Bar](https://www.kegsteakhouse.com/)
+---
 
-[Cactus Club Cafe](www.cactusclubcafe.com/)
+### Western Brunch
+[The Distillery Bar](http://www.mjg.ca/distillery-bar-and-kitchen/)
 
-- BUTTERNUT SQUASH RAVIOLI WITH PRAWNS
-- DOUBLE-BRAISED PINEAPPLE HOISIN SHORT RIB
-- ROB’S CRISPY CHICKEN SANDWICH
+- Distillery breakfast with Canadian thick cut bacon
+- Only Friday, Saturday and Sunday
+
+[Twisted Fork Bistro](http://twistedforkbistro.ca/)
+
+[cora](http://www.chezcora.com/en)
+
+[Medina Cafe](http://www.medinacafe.com/)
+
+---
+
+### Dimsum
+[颐东大酒楼 Chef Tony](http://cheftonycanada.com/)
+
+- 黑松露烧麦
+- 金箔金沙包 
+- also available at metro food court
+
+[釣魚台海鮮酒家 Fisherman's Terrace Seafood](https://www.yelp.ca/biz/fishermans-terrace-seafood-restaurant-richmond)
+
+[皇朝 Dynasty Restaurant](http://dynasty-restaurant.ca)
 
 ---
 
 ### Cantonese
+[鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
+
 [McKim Wonton Mein Saga 云吞面世家](https://www.yelp.ca/biz/mckims-wonton-mein-saga-vancouver)
 
 - 黄鳝煲仔饭 (提前30分钟预订)
-
-[龙皇鲍翅酒家 Neptune Seafood Restaurant](http://neptune-restaurant.ca)
-
-[皇朝 Dynasty Restaurant](http://dynasty-restaurant.ca)
 
 [何源記 Ho Yuen Kee Restaurant](https://www.yelp.ca/biz/ho-yuen-kee-vancouver)
 
 - 荷叶龙虾饭
 
-[釣魚台海鮮酒家 Fisherman's Terrace Seafood](https://www.yelp.ca/biz/fishermans-terrace-seafood-restaurant-richmond)
-
 [王子海鮮酒家 Prince Seafood Restaurant](https://www.yelp.ca/biz/prince-seafood-restaurant-vancouver)
 
-[鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
-
-[颐东大酒楼 Chef Tony](http://cheftonycanada.com/)
-
-- 黑松露烧麦
-- 金箔金沙包 
+[龙皇鲍翅酒家 Neptune Seafood Restaurant](http://neptune-restaurant.ca)
 
 ---
 
@@ -103,21 +98,27 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Chinese
+[老西安 Old Xian's Food](http://www.oldxiansfood.com/)
+
 [顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
 
 - 5:30pm-11:00pm, 周三休息
 - 香辣蟹
 
-[老西安 Old Xian's Food](http://www.oldxiansfood.com/)
-
-[Heritage Asian Eatery](http://www.eatheritage.ca/)
-
 ---
 
 ### Japaness
-[Minami](http://minamirestaurant.com)
+[Japadog](http://www.japadog.com/)
 
-[Miku](https://mikurestaurant.com/)
+[Ramen Danbo](http://ramendanbo.com/)
+
+[JINYA Ramen Bar](http://jinya-ramenbar.com/)
+
+[Guu Garden](https://guu-izakaya.com/menu/#Garden)
+
+[Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
+
+[Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
 
 [Gyu King Teppanyaki](http://www.gyukingteppanyaki.com/ch/index.php)
 
@@ -125,24 +126,20 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Kobe Japanese Steak House](http://www.koberestaurant.com/)
 
-[Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
+[Bistro Sakana](http://www.bistrosakana.com/)
 
-[Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
+[Minami](http://minamirestaurant.com)
 
-[Japadog](http://www.japadog.com/)
-
-[Ramen Danbo](http://ramendanbo.com/)
-
-[JINYA Ramen Bar](http://jinya-ramenbar.com/)
+[Miku](https://mikurestaurant.com/)
 
 ---
 
 ### Korean
-[SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
+[House of Tofu Soup](https://www.yelp.ca/biz/house-of-tofu-soup-burnaby)
 
 [Zabu Chicken](http://www.zabuchicken.com/index_01.html)
 
-[House of Tofu Soup](https://www.yelp.ca/biz/house-of-tofu-soup-burnaby)
+[SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
 
 ---
 
@@ -150,6 +147,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Thai Cafe](http://www.thaicafe.ca/)
 
 - PAD THAI
+
+[Simply Thai](http://simplythaivancouver.com/)
 
 ---
 
@@ -163,18 +162,23 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### Persian
 [Cazba Restaurant](http://www.cazbarestaurant.com/)
 
+- Daily Special
+
 ---
 
-### Brunch
-[Twisted Fork Bistro](http://twistedforkbistro.ca/)
+### Indian
+[Grouds for appeal](https://www.yelp.ca/biz/grounds-for-appeal-vancouver)
 
-[The Distillery Bar](http://www.mjg.ca/distillery-bar-and-kitchen/)
+- Butter Chicken
 
-- Distillery breakfast with Canadian thick cut bacon
+---
 
-[Medina Cafe](http://www.medinacafe.com/)
+### Mexican
 
-[cora](http://www.chezcora.com/en)
+[Tacofino](https://www.tacofino.com/)
+
+- LEMON GRASS CHICKEN BURRITO
+- BLUE CORN CRISPY CHICKEN WRAP
 
 ---
 
@@ -203,15 +207,11 @@ the boat house
 
 Hawksworth
 
-Bistro sakana
-
 Bacchus Restaurant ( afternoon tea )
 
 Lotus cake boutique
 
 Ajisai sushi bar
-
-Snackshot 糖百府
 
 Bauhaus Restaurant
 
