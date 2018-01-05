@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2017-11-11
+update: 2017-12-31
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -139,6 +139,8 @@ note: ranked roughly by price in each category.
 
 [Zabu Chicken](http://www.zabuchicken.com/index_01.html)
 
+[Damso Restaurant](https://www.zomato.com/vancouver/damso-modern-korean-cuisine-west-end-vancouver)
+
 [SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
 
 ---
@@ -197,6 +199,8 @@ note: ranked roughly by price in each category.
 
 南轩 金沙蟹
 
+Meet at Gastown
+
 Passion 8 Dessert cafe
 
 Chambar
@@ -240,6 +244,4 @@ Deutsches Haus German Restaureant
 西湖海鲜酒家
 
 [FARMER'S APPRENTICE RESTAURANT](http://www.farmersapprentice.ca)
-
-[SURA Korean BBQ Restaurant](http://www.sura-koreanbbq.com/#richmond)
 
