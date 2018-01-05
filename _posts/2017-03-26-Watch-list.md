@@ -1,18 +1,20 @@
 ---
 layout: post
 title: TV shows
-update: 2017-10-20
+update: 2018-01-05
 excerpt: <p>TV shows I watch</p>
 
 ---
 
 # Shows updating
 
-* [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e04)
-* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e05)
+* [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e10)
+* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e10)
 * [While You Were Sleeping](http://www.imdb.com/title/tt6256484/)(s01e20)
 * [Saturday Night Live](http://www.imdb.com/title/tt0072562/) (s42e13, e14, e15, e16, e18)
 * [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e08)
+* [端脑](https://movie.douban.com/subject/27006122/) (s01e19)
+* [九州海上牧云记](https://movie.douban.com/subject/26322999/)(s01e72)
 
 ---
 
