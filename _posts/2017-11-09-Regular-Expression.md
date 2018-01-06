@@ -2,6 +2,7 @@
 layout: post
 title: Regular Expression
 update: 2017-11-09
+excerpt: <p>Regular expression reference</p>
 
 ---
 
