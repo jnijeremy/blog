@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Reference
-update: 2016-02-24
+update: 2017-11-12
 
 ---
 
@@ -24,6 +24,9 @@ const result = {
 	...!!data ? data : { default: true }
 }
 // order of execution: !! -> : -> ...
+
+4.1 always end bit wise ops with >>> 0 so the result gets interpreted as unsigned.  
+4.2 don't use >>. If the left-most bit is 1 it will try to preseve the sign and thus will introduce 1's to the left. Always use >>>.
 ```
 
 ### Type
