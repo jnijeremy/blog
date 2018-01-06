@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visier Tech Workshop
+update: 2016-02-11
 
 ---
 
