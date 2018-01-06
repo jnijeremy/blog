@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2017-12-31
+update: 2018-01-06
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -116,6 +116,8 @@ note: ranked roughly by price in each category.
 
 [Guu Garden](https://guu-izakaya.com/menu/#Garden)
 
+[Raisu](http://www.raisu.ca/)
+
 [Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
 
 [Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
@@ -197,13 +199,13 @@ note: ranked roughly by price in each category.
 
 ## Wish List
 
+blue water cafe
+
 南轩 金沙蟹
 
 Meet at Gastown
 
 Passion 8 Dessert cafe
-
-Chambar
 
 Italian Kitchen
 
