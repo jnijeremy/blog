@@ -1,8 +1,8 @@
 ---
 layout: post
-title: TV shows
+title: Watch List
 update: 2018-01-06
-excerpt: <p>TV shows I watch</p>
+excerpt: <p>Things I watch</p>
 
 ---
 
