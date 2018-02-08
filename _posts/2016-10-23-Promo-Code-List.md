@@ -1,8 +1,43 @@
 ---
 layout: post
 title: My promo codes
-update: 2018-01-06
+update: 2018-02-07
 excerpt: <p>List of promo codes for services I use</p>
+
+---
+
+### Tangerine
+[Rules](https://www.tangerine.ca/en/referafriend/index.html)
+
+- Earn up to $150 CAD
+- There is no banking fee.
+- Highest saving interest rate (2.5%) in Canada.
+
+### How to get promo:
+Use my Orange Key `47254173S1`.
+
+---
+
+### American Express Cobalt Card
+
+- Earn up to 30,000 Bonus Points.
+- 5X the points on eligible eats & drinks.
+- 2X the points on eligible travel & transit.
+- Really good travel insurance.
+
+### How to get promo:
+Use my personal link to apply: http://amex.ca/share/zeyunxfVz
+
+---
+
+### American Express Gold Rewards Card
+
+- Earn up to 25,000 Membership Rewards Points.
+- Earn 2 points for every $1 in Card purchases at eligible gas stations, grocery stores and drugstores in Canada
+- Really good travel insurance.
+
+### How to get promo:
+Use my personal link to apply: http://amex.ca/share/zeyunJdWH
 
 ---
 
@@ -71,14 +106,6 @@ Send me an email to <j@jnijeremy.com>.
 
 ### How to get promo:
 Use my [personal referral link](http://soy.lt/r/tNs3hq1H64) (Let's fight hunger together!).
-
----
-
-### Tangerine
-[Rules](https://www.tangerine.ca/en/referafriend/index.html)
-
-### How to get promo:
-Use my Orange Key `47254173S1`.
 
 ---
 
