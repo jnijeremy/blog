@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watch List
-update: 2018-01-06
+update: 2018-02-13
 excerpt: <p>Things I watch</p>
 
 ---
@@ -16,7 +16,7 @@ excerpt: <p>Things I watch</p>
 * [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e10)
 * [Saturday Night Live](http://www.imdb.com/title/tt0072562/) (s42e13, e14, e15, e16, e18)
 * [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e08)
-* [Crown](http://www.imdb.com/title/tt4786824/) (s02e03)
+* [Crown](http://www.imdb.com/title/tt4786824/) (s02e04)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s03e03)
 
 # TV Shows ended
