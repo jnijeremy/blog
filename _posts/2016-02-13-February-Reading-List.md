@@ -6,6 +6,17 @@ excerpt: <p>My Reading List</p>
 
 ---
 
+## 2018 February
+
+### Journalism
+
+1. [Sriracha Is for Closers](https://www.esquire.com/lifestyle/money/a14443776/wework-sriracha-is-for-closers/)
+
+	by Eric Konigsberg
+	
+	Great story about wework and it's members.
+
+
 ## 2016 September
 
 ### Tech Blog
