@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-update: 2017-01-06
+update: 2018-02-21
 excerpt: <p>My Reading List</p>
 
 ---
