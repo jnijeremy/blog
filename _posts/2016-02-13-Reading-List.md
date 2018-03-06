@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Reading List
-update: 2018-02-21
+update: 2018-03-04
 excerpt: <p>My Reading List</p>
 
 ---
 
-## 2018 February
+## 2018 Q1
 
 ### Journalism
 
@@ -16,6 +16,11 @@ excerpt: <p>My Reading List</p>
 	
 	Great story about wework and it's members.
 
+### Learning
+
+2. [6 Ways to Look More Confident During a Presentation](https://hbr.org/2017/04/6-ways-to-look-more-confident-during-a-presentation)
+
+   by Kasia Wezowski
 
 ## 2016 September
 
