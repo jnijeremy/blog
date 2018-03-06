@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-update: 2018-03-04
+update: 2018-03-05
 excerpt: <p>My Reading List</p>
 
 ---
@@ -14,13 +14,19 @@ excerpt: <p>My Reading List</p>
 
 	by Eric Konigsberg
 	
-	Great story about wework and it's members.
+	Note: Great story about wework and it's members, enjoyable read.
 
 ### Learning
 
 2. [6 Ways to Look More Confident During a Presentation](https://hbr.org/2017/04/6-ways-to-look-more-confident-during-a-presentation)
 
    by Kasia Wezowski
+   
+3. [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+
+	by Mikito Takada
+	
+	Note: Finished chapter 1 to understand high level requirement and vocabulary.  Can come back when touching real distributed system topics.
 
 ## 2016 September
 
