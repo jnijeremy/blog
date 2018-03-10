@@ -13,7 +13,7 @@ excerpt: <p>Things I watch</p>
 # TV Shows
 
 * [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e13)
-* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e14)
+* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e17)
 * [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e08)
 * [Crown](http://www.imdb.com/title/tt4786824/) (s02e04)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s03e03)
