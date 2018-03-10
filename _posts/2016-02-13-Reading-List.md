@@ -27,6 +27,14 @@ excerpt: <p>My Reading List</p>
 	by Mikito Takada
 	
 	Note: Finished chapter 1 to understand high level requirement and vocabulary.  Can come back when touching real distributed system topics.
+	
+### Video
+
+1. [Telling Stories with Data](http://www.sfu.ca/dean-gradstudies/events/dreamcolloquium/DreamColloquium-EngagingBigData/ChadSkelton.html)
+
+	by Chad Skelton
+	
+	Note: Data Journalism is a tool and can be super fun.
 
 ## 2016 September
 
