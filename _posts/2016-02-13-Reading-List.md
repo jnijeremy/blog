@@ -28,6 +28,19 @@ excerpt: <p>My Reading List</p>
 	
 	Note: Finished chapter 1 to understand high level requirement and vocabulary.  Can come back when touching real distributed system topics.
 	
+4. [Getting Git Right](https://www.atlassian.com/git)
+
+5. [Demystifying JavaScript Variable Scope and Hoisting](https://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting/)
+
+	by Ivaylo Gerchev
+	
+	TLDR:
+	
+		* There is global scope and local scope ( function scope ). 
+		* All declarations, both functions and variables, are hoisted to the top of the containing scope, before any part of your code is executed.
+		* Functions are hoisted first, and then variables.
+		* Function declarations have priority over variable declarations, but not over variable assignments.
+	
 ### Video
 
 1. [Telling Stories with Data](http://www.sfu.ca/dean-gradstudies/events/dreamcolloquium/DreamColloquium-EngagingBigData/ChadSkelton.html)
