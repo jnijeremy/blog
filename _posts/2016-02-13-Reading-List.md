@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-update: 2018-03-05
+update: 2018-03-17
 excerpt: <p>My Reading List</p>
 
 ---
@@ -41,6 +41,21 @@ excerpt: <p>My Reading List</p>
 		* Functions are hoisted first, and then variables.
 		* Function declarations have priority over variable declarations, but not over variable assignments.
 	
+6. [Everything you wanted to know about JavaScript scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+
+	by Todd Motto 
+	
+7. [Chrome Devtools Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+
+	by Andi Smith, Meggin Kearney
+
+8. [Removing User Interface Complexity, or Why React is Awesome](https://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+	
+	by James Long
+	
+	read 2018-03-18
+
+
 ### Video
 
 1. [Telling Stories with Data](http://www.sfu.ca/dean-gradstudies/events/dreamcolloquium/DreamColloquium-EngagingBigData/ChadSkelton.html)
