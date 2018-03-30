@@ -30,17 +30,6 @@ Use my personal link to apply: http://amex.ca/share/zeyunxfVz
 
 ---
 
-### American Express Gold Rewards Card
-
-- Earn up to 25,000 Membership Rewards Points.
-- Earn 2 points for every $1 in Card purchases at eligible gas stations, grocery stores and drugstores in Canada
-- Really good travel insurance.
-
-### How to get promo:
-Use my personal link to apply: http://amex.ca/share/zeyunJdWH
-
----
-
 ### Evo Car Share
 
 > here's how it works:
@@ -83,7 +72,7 @@ Send me an email to <j@jnijeremy.com>.
 >
 > You can refer up to 5 friends per calendar month.
 
-Currently I use a $40 BYOP plan with
+Currently I use a $45 BYOP plan with
 
 * 4 GB DATA
 * 1000 International Long Distance Minutes to 8 Selected Countries
@@ -117,5 +106,14 @@ Use my [personal referral link](http://soy.lt/r/tNs3hq1H64) (Let's fight hunger 
 
 ### How to get promo:
 Use my [personal referral link](http://wsim.co/q8byc5j) (If you have other promo code, you can ask customer service to also apply it).
+
+---
+
+### Gyu-Kaku
+
+> Earn 50 Points by inviting your friends! Send them your invite code (found in the slide-out menu at the top left). They will earn 50 points for simply entering your invite code and you will earn 50 points as soon as they earn points on their first purchase!
+
+### promo code:
+Jeremy7781
 
 ---
