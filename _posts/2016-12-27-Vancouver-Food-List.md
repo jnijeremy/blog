@@ -47,7 +47,7 @@ note: ranked roughly by price in each category.
 
 ---
 
-### Dimsum
+### Dimsum  & Cantonese
 [颐东大酒楼 Chef Tony](http://cheftonycanada.com/)
 
 - 黑松露烧麦
@@ -58,9 +58,6 @@ note: ranked roughly by price in each category.
 
 [皇朝 Dynasty Restaurant](http://dynasty-restaurant.ca)
 
----
-
-### Cantonese
 [鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
 
 [McKim Wonton Mein Saga 云吞面世家](https://www.yelp.ca/biz/mckims-wonton-mein-saga-vancouver)
@@ -74,6 +71,8 @@ note: ranked roughly by price in each category.
 [王子海鮮酒家 Prince Seafood Restaurant](https://www.yelp.ca/biz/prince-seafood-restaurant-vancouver)
 
 [龙皇鲍翅酒家 Neptune Seafood Restaurant](http://neptune-restaurant.ca)
+
+[华埠烧腊 Chinatown BBQ](https://www.yelp.ca/biz/chinatown-bbq-vancouver-2)
 
 ---
 
@@ -94,6 +93,8 @@ note: ranked roughly by price in each category.
 
 - Braised Food 卤味 
 - San-Pei Chicken 三杯鸡
+
+[Myst 觅食](http://www.myst6400.com/)
 
 ---
 
@@ -125,8 +126,6 @@ note: ranked roughly by price in each category.
 [Gyu King Teppanyaki](http://www.gyukingteppanyaki.com/ch/index.php)
 
 - Lunch All You Can Eat
-
-[Kobe Japanese Steak House](http://www.koberestaurant.com/)
 
 [Bistro Sakana](http://www.bistrosakana.com/)
 
@@ -183,6 +182,8 @@ note: ranked roughly by price in each category.
 
 - LEMON GRASS CHICKEN BURRITO
 - BLUE CORN CRISPY CHICKEN WRAP
+
+[La Taqueria Pinche Taco Shop](http://www.lataqueria.com/)
 
 ---
 
