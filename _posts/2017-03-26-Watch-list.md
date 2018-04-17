@@ -12,11 +12,14 @@ excerpt: <p>Things I watch</p>
 
 # TV Shows
 
-* [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e17)
-* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e17)
+* [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e19)
+* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e19)
 * [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e08)
-* [Crown](http://www.imdb.com/title/tt4786824/) (s02e04)
+* [Crown](http://www.imdb.com/title/tt4786824/) (s02e06)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s03e03)
+* [Silicon Valley](http://www.imdb.com/title/tt2575988/) (s05e03)
+* [The Expanse](http://www.imdb.com/title/tt3230854/) (s03e01)
+* [北京女子图鉴](https://movie.douban.com/subject/27176635/) (s01e07)
 
 # TV Shows ended
 
@@ -34,7 +37,5 @@ excerpt: <p>Things I watch</p>
 * [Game of Thrones](http://www.imdb.com/title/tt0944947/)
 * [House of Cards](http://www.imdb.com/title/tt1856010/)
 * [欢乐颂](https://movie.douban.com/subject/26743573/)
-* [The Expanse](http://www.imdb.com/title/tt3230854/)
-* [Silicon Valley](http://www.imdb.com/title/tt2575988/)
 * [Veep](http://www.imdb.com/title/tt1759761)
 * [端脑](https://movie.douban.com/subject/27006122/)
