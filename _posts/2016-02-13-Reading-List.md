@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Reading List
-update: 2018-03-17
+update: 2018-04-16
 excerpt: <p>My Reading List</p>
 
 ---
 
-## 2018 Q1
+## 2018
 
 ### Journalism
 
@@ -18,19 +18,19 @@ excerpt: <p>My Reading List</p>
 
 ### Learning
 
-2. [6 Ways to Look More Confident During a Presentation](https://hbr.org/2017/04/6-ways-to-look-more-confident-during-a-presentation)
+1. [6 Ways to Look More Confident During a Presentation](https://hbr.org/2017/04/6-ways-to-look-more-confident-during-a-presentation)
 
    by Kasia Wezowski
    
-3. [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+2. [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 
 	by Mikito Takada
 	
 	Note: Finished chapter 1 to understand high level requirement and vocabulary.  Can come back when touching real distributed system topics.
 	
-4. [Getting Git Right](https://www.atlassian.com/git)
+3. [Getting Git Right](https://www.atlassian.com/git)
 
-5. [Demystifying JavaScript Variable Scope and Hoisting](https://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting/)
+4. [Demystifying JavaScript Variable Scope and Hoisting](https://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting/)
 
 	by Ivaylo Gerchev
 	
@@ -41,20 +41,31 @@ excerpt: <p>My Reading List</p>
 		* Functions are hoisted first, and then variables.
 		* Function declarations have priority over variable declarations, but not over variable assignments.
 	
-6. [Everything you wanted to know about JavaScript scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+5. [Everything you wanted to know about JavaScript scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 
 	by Todd Motto 
 	
-7. [Chrome Devtools Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+6. [Chrome Devtools Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 
 	by Andi Smith, Meggin Kearney
 
-8. [Removing User Interface Complexity, or Why React is Awesome](https://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+7. [Removing User Interface Complexity, or Why React is Awesome](https://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 	
 	by James Long
 	
 	read 2018-03-18
+	
+8. [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/)
 
+	by Dmitri Pavlutin
+	
+	read 2018-04-08
+
+9. [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/primers/async-functions)
+
+	by Jake Archibald
+	
+	read 2018-04-10
 
 ### Video
 
@@ -63,6 +74,16 @@ excerpt: <p>My Reading List</p>
 	by Chad Skelton
 	
 	Note: Data Journalism is a tool and can be super fun.
+	
+### Random
+
+1. [REVIEW: SUPERSONIC CONCORDE THE ULTIMATE FLIGHT EXPERIENCE](http://samchui.wpengine.com/2003/04/18/concorde-my-ultimate-flight-experience-new-york-to-london-in-3-hours/#.Ws2cb9PwaL4)
+
+	by Sam Chui
+	
+	read 2018-04-12
+	
+	Note: unique story about supersonic flight, history worthy.
 
 ## 2016 September
 
