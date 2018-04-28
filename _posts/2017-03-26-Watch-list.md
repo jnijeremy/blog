@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watch List
-update: 2018-04-16
+update: 2018-04-18
 excerpt: <p>Things I watch</p>
 
 ---
@@ -14,12 +14,12 @@ excerpt: <p>Things I watch</p>
 
 * [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e19)
 * [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e19)
-* [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e08)
-* [Crown](http://www.imdb.com/title/tt4786824/) (s02e06)
+* [The Good Fight](http://www.imdb.com/title/tt5853176/) (s01e10)
+* [Crown](http://www.imdb.com/title/tt4786824/) (s02e08)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s03e03)
-* [Silicon Valley](http://www.imdb.com/title/tt2575988/) (s05e03)
-* [The Expanse](http://www.imdb.com/title/tt3230854/) (s03e01)
-* [北京女子图鉴](https://movie.douban.com/subject/27176635/) (s01e07)
+* [Silicon Valley](http://www.imdb.com/title/tt2575988/) (s05e05)
+* [The Expanse](http://www.imdb.com/title/tt3230854/) (s03e03)
+* [北京女子图鉴](https://movie.douban.com/subject/27176635/) (s01e15)
 
 # TV Shows ended
 
