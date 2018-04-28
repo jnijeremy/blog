@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-update: 2018-04-16
+update: 2018-04-28
 excerpt: <p>My Reading List</p>
 
 ---
@@ -15,6 +15,14 @@ excerpt: <p>My Reading List</p>
 	by Eric Konigsberg
 	
 	Note: Great story about wework and it's members, enjoyable read.
+	
+2. [The Mystery of the Baklava Man](https://thetyee.ca/News/2018/04/05/Mystery-Baklava-Man-Syria-Vancouver/)
+
+	by Christopher Cheung
+	
+	Note: It's a beautiful story, even if it's unbalanced.
+	
+	read: 2018-04-25
 
 ### Learning
 
@@ -66,6 +74,20 @@ excerpt: <p>My Reading List</p>
 	by Jake Archibald
 	
 	read 2018-04-10
+	
+10. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+	read 2018-04-25
+	
+11. [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)
+
+	read 2018-04-26
+
+12. [Javascript Debugging With Black Box](https://raygun.com/blog/javascript-debugging-with-black-box/)
+
+	by Rickard Dahlstrom
+	
+	read 2018-04-26
 
 ### Video
 
@@ -84,6 +106,12 @@ excerpt: <p>My Reading List</p>
 	read 2018-04-12
 	
 	Note: unique story about supersonic flight, history worthy.
+	
+2. [2018 LETTER TO SHAREHOLDERS](https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm)
+
+	by Jeff Bezos
+	
+	read 2018-04-23
 
 ## 2016 September
 
