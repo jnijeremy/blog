@@ -18,6 +18,16 @@ Use my Orange Key `47254173S1`.
 
 ---
 
+### American Express Platinum Card
+
+- Earn 60,000 Membership Rewards Points.
+- Many many amazing benefits.
+
+### How to get promo:
+Use link to apply: http://amex.ca/share/zeyunsqof?XLINK=MYCP
+
+---
+
 ### American Express Cobalt Card
 
 - Earn up to 30,000 Bonus Points.
@@ -26,7 +36,7 @@ Use my Orange Key `47254173S1`.
 - Really good travel insurance.
 
 ### How to get promo:
-Use my personal link to apply: http://amex.ca/share/zeyunxfVz
+Use link to apply: http://amex.ca/share/zeyunxfVz
 
 ---
 
