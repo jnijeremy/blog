@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My promo codes
-update: 2018-02-07
+update: 2018-05-06
 excerpt: <p>List of promo codes for services I use</p>
 
 ---
@@ -60,16 +60,6 @@ Use my promotion code `C000037253`.
 
 ### How to get promo:
 Use my promotion code `JOINC2GVAN_jnijeremy`.
-
----
-
-### Zipcar
-[Rules](http://www.zipcar.com/referfriends)
-
-> You and your friend each get $25 in driving credit when they join!
- 
-### How to get promo:
-Send me an email to <j@jnijeremy.com>.
 
 ---
 
