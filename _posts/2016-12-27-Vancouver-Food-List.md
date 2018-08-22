@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2018-01-06
+update: 2018-08-22
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -11,11 +11,13 @@ note: ranked roughly by price in each category.
 ---
 
 ### West Coast
-[Cactus Club Cafe](www.cactusclubcafe.com/)
+[Joe Fortes](http://www.joefortes.ca/)
 
-- BUTTERNUT SQUASH RAVIOLI WITH PRAWNS
-- DOUBLE-BRAISED PINEAPPLE HOISIN SHORT RIB
-- ROB’S CRISPY CHICKEN SANDWICH
+- Atlantic lobster Benedict
+
+[Coast](http://www.glowbalgroup.com/coast/)
+
+- $12 FISH & CHIP FRIDAY
 
 [Rodney's Oyster House](http://rohvan.com/)
 
@@ -23,27 +25,25 @@ note: ranked roughly by price in each category.
 
 [The Keg Steakhouse + Bar](https://www.kegsteakhouse.com/)
 
-[Coast](http://www.glowbalgroup.com/coast/)
+[Cactus Club Cafe](www.cactusclubcafe.com/)
 
-- $12 FISH & CHIP FRIDAY
-
-[Joe Fortes](http://www.joefortes.ca/)
-
-- Atlantic lobster Benedict
+- BUTTERNUT SQUASH RAVIOLI WITH PRAWNS
+- DOUBLE-BRAISED PINEAPPLE HOISIN SHORT RIB
+- ROB’S CRISPY CHICKEN SANDWICH
 
 ---
 
 ### Western Brunch
-[The Distillery Bar](http://www.mjg.ca/distillery-bar-and-kitchen/)
-
-- Distillery breakfast with Canadian thick cut bacon
-- Only Friday, Saturday and Sunday
+[Medina Cafe](http://www.medinacafe.com/)
 
 [Twisted Fork Bistro](http://twistedforkbistro.ca/)
 
 [cora](http://www.chezcora.com/en)
 
-[Medina Cafe](http://www.medinacafe.com/)
+[The Distillery Bar](http://www.mjg.ca/distillery-bar-and-kitchen/)
+
+- Distillery breakfast with Canadian thick cut bacon
+- Only Friday, Saturday and Sunday
 
 ---
 
@@ -58,8 +58,6 @@ note: ranked roughly by price in each category.
 
 [皇朝 Dynasty Restaurant](http://dynasty-restaurant.ca)
 
-[鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
-
 [McKim Wonton Mein Saga 云吞面世家](https://www.yelp.ca/biz/mckims-wonton-mein-saga-vancouver)
 
 - 黄鳝煲仔饭 (提前30分钟预订)
@@ -73,6 +71,8 @@ note: ranked roughly by price in each category.
 [龙皇鲍翅酒家 Neptune Seafood Restaurant](http://neptune-restaurant.ca)
 
 [华埠烧腊 Chinatown BBQ](https://www.yelp.ca/biz/chinatown-bbq-vancouver-2)
+
+[鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
 
 ---
 
@@ -89,7 +89,7 @@ note: ranked roughly by price in each category.
 ---
 
 ### Taiwaness
-[Maji Restaurant 麻吉台式熱炒](http://www.majirestaurant.ca/)
+~~[CLOSED Maji Restaurant 麻吉台式熱炒](http://www.majirestaurant.ca/)~~
 
 - Braised Food 卤味 
 - San-Pei Chicken 三杯鸡
@@ -99,29 +99,19 @@ note: ranked roughly by price in each category.
 ---
 
 ### Chinese
-[老西安 Old Xian's Food](http://www.oldxiansfood.com/)
-
 [顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
 
 - 5:30pm-11:00pm, 周三休息
 - 香辣蟹
 
+[老西安 Old Xian's Food](http://www.oldxiansfood.com/)
+
 ---
 
 ### Japaness
-[Japadog](http://www.japadog.com/)
+[Miku](https://mikurestaurant.com/)
 
-[Ramen Danbo](http://ramendanbo.com/)
-
-[JINYA Ramen Bar](http://jinya-ramenbar.com/)
-
-[Guu Garden](https://guu-izakaya.com/menu/#Garden)
-
-[Raisu](http://www.raisu.ca/)
-
-[Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
-
-[Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
+[Minami](http://minamirestaurant.com)
 
 [Gyu King Teppanyaki](http://www.gyukingteppanyaki.com/ch/index.php)
 
@@ -129,20 +119,30 @@ note: ranked roughly by price in each category.
 
 [Bistro Sakana](http://www.bistrosakana.com/)
 
-[Minami](http://minamirestaurant.com)
+[Gyu Kaku Japanese BBQ](http://www.gyu-kaku.com)
 
-[Miku](https://mikurestaurant.com/)
+[Raisu](http://www.raisu.ca/)
+
+[Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
+
+[Guu Garden](https://guu-izakaya.com/menu/#Garden)
+
+[Ramen Danbo](http://ramendanbo.com/)
+
+[JINYA Ramen Bar](http://jinya-ramenbar.com/)
+
+[Japadog](http://www.japadog.com/)
 
 ---
 
 ### Korean
+[SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
+
 [House of Tofu Soup](https://www.yelp.ca/biz/house-of-tofu-soup-burnaby)
 
 [Zabu Chicken](http://www.zabuchicken.com/index_01.html)
 
 [Damso Restaurant](https://www.zomato.com/vancouver/damso-modern-korean-cuisine-west-end-vancouver)
-
-[SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
 
 ---
 
@@ -165,8 +165,6 @@ note: ranked roughly by price in each category.
 ### Persian
 [Cazba Restaurant](http://www.cazbarestaurant.com/)
 
-- Daily Special
-
 ---
 
 ### Indian
@@ -177,7 +175,6 @@ note: ranked roughly by price in each category.
 ---
 
 ### Mexican
-
 [Tacofino](https://www.tacofino.com/)
 
 - LEMON GRASS CHICKEN BURRITO
@@ -188,7 +185,6 @@ note: ranked roughly by price in each category.
 ---
 
 ### Dessert
-
 [多乐蜜 Doolami Dessert](https://www.yelp.ca/biz/doolami-dessert-vancouver)
 
 [Bubble Fruity 果间茶坊（桂花林）](https://www.yelp.ca/biz/bubble-fruity-richmond)
