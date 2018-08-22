@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watch List
-update: 2018-05-15
+update: 2018-08-22
 excerpt: <p>Things I watch</p>
 
 ---
@@ -11,18 +11,8 @@ excerpt: <p>Things I watch</p>
 [Watched movie list](https://movie.douban.com/people/58048467/)
 
 # TV Shows
-* [Modern Family](http://www.imdb.com/title/tt1442437/) (s09e22)
-* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s04e19)
-* [The Good Fight](http://www.imdb.com/title/tt5853176/) (s02e11)
 * [Crown](http://www.imdb.com/title/tt4786824/) (s02e08)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s03e03)
-* [Silicon Valley](http://www.imdb.com/title/tt2575988/) (s05e08)
-* [The Expanse](http://www.imdb.com/title/tt3230854/) (s03e06)
-* [上海女子图鉴](https://movie.douban.com/subject/27185556/) (s01e03)
-
-
-# TV Shows ended
-
 * [How I Met Your Mother](http://www.imdb.com/title/tt0460649/)
 * [Fullmetal Alchemist 2003](http://www.imdb.com/title/tt0421357/)
 * [Fullmetal Alchemist: Brotherhood 2009](http://www.imdb.com/title/tt1355642/)
@@ -40,3 +30,9 @@ excerpt: <p>Things I watch</p>
 * [Veep](http://www.imdb.com/title/tt1759761)
 * [端脑](https://movie.douban.com/subject/27006122/)
 * [北京女子图鉴](https://movie.douban.com/subject/27176635/)
+* [The Good Fight](http://www.imdb.com/title/tt5853176/)
+* [上海女子图鉴](https://movie.douban.com/subject/27185556/)
+* [The Expanse](http://www.imdb.com/title/tt3230854/)
+* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/)
+* [Modern Family](http://www.imdb.com/title/tt1442437/)
+* [Silicon Valley](http://www.imdb.com/title/tt2575988/)
