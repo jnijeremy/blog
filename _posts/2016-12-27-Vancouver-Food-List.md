@@ -11,6 +11,8 @@ note: ranked roughly by price in each category.
 ---
 
 ### West Coast
+[blue water cafe](https://www.bluewatercafe.net/)
+
 [Joe Fortes](http://www.joefortes.ca/)
 
 - Atlantic lobster Benedict
@@ -194,13 +196,33 @@ note: ranked roughly by price in each category.
 
 ---
 
+[Vancouver lunch list](https://www.yelp.ca/collection/mvwkiRoZhsyHdzzJsyhC3w)
+
+---
+
 ## Wish List
 
-blue water cafe
+[Kyuzo Japanese Restaurant](https://www.yelp.ca/biz/kyuzo-japanese-restaurant-vancouver)
+
+[Simba’s Grill](https://www.yelp.ca/biz/simbas-grill-vancouver)
+
+[Torafuku](https://www.yelp.ca/biz/torafuku-vancouver)
+
+[Zakkushi Dining On Main](https://www.yelp.ca/biz/zakkushi-dining-on-main-vancouver-2)
+
+[Los Amigos Taqueria](https://www.yelp.ca/biz/los-amigos-taqueria-vancouver)
+
+[Zefferelli’s](https://www.yelp.ca/biz/zefferellis-vancouver)
+
+[Seasons In the Park](https://www.yelp.ca/biz/seasons-in-the-park-vancouver)
+
+[Jam Cafe on Beatty](https://www.yelp.ca/biz/jam-cafe-on-beatty-vancouver)
+
+[Shizen Ya](https://www.yelp.ca/biz/shizen-ya-vancouver)
+
+[Bacchus Restaurant & Lounge](https://www.yelp.ca/biz/bacchus-restaurant-and-lounge-vancouver)
 
 南轩 金沙蟹
-
-Meet at Gastown
 
 Passion 8 Dessert cafe
 
@@ -210,13 +232,9 @@ the boat house
 
 Hawksworth
 
-Bacchus Restaurant ( afternoon tea )
-
 Lotus cake boutique
 
 Ajisai sushi bar
-
-Bauhaus Restaurant
 
 Mott32
 
@@ -238,9 +256,5 @@ Deutsches Haus German Restaureant
 
 海棠海鲜酒家
 
-- #160-8191 Westminster Highway, richmond
-
 西湖海鲜酒家
-
-[FARMER'S APPRENTICE RESTAURANT](http://www.farmersapprentice.ca)
 
