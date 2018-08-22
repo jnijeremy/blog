@@ -10,11 +10,29 @@ excerpt: <p>List of promo codes for services I use</p>
 [Rules](https://www.tangerine.ca/en/referafriend/index.html)
 
 - Earn up to $150 CAD
-- There is no banking fee.
-- Highest saving interest rate (2.5%) in Canada.
+- No banking fee.
+- Highest saving interest rate (2.5%+) in Canada.
 
 ### How to get promo:
 Use my Orange Key `47254173S1`.
+
+---
+
+### WealthSimple (Canadian Betterment)
+[Rules](https://grow.wealthsimple.com/wealthsimple-refer-friend-program/)
+
+> For every friend you invite who funds their account, you both get an additional $5,000 managed for free.
+
+
+### How to get promo:
+[Apply](http://wsim.co/q8byc5j) (If you have other promo code, you can ask customer service to also apply it)
+
+---
+
+### WealthSimple Trade (Canadian Robinhood)
+Use my link to get on the waitlist for 0 commision stocks and ETFs trade.
+
+[Apply](https://wealthsimple.com/trade?r=uxD9w)
 
 ---
 
@@ -24,7 +42,7 @@ Use my Orange Key `47254173S1`.
 - Many many amazing benefits.
 
 ### How to get promo:
-Use link to apply: http://amex.ca/share/zeyunsqof?XLINK=MYCP
+[Apply](http://amex.ca/share/zeyunsqof?XLINK=MYCP)
 
 ---
 
@@ -36,7 +54,7 @@ Use link to apply: http://amex.ca/share/zeyunsqof?XLINK=MYCP
 - Really good travel insurance.
 
 ### How to get promo:
-Use link to apply: http://amex.ca/share/zeyunxfVz
+[Apply](http://amex.ca/share/zeyunxfVz)
 
 ---
 
@@ -49,7 +67,7 @@ You get 30 minutes! It's a win-win.
 You can refer as many friends as you like, just remember they need to register at evo.ca before April 30th to get the deal. Your credits will be applied within 30 days of your friend's registration.
 
 ### How to get promo:
-Use my promotion code `C000037253`.
+Promotion code `C000037253`.
 
 ---
 
@@ -59,7 +77,7 @@ Use my promotion code `C000037253`.
 > Whenever you refer your friends, coworkers and family members to join car2go, you will get a $10 drive time credit*, per referral. Friends and family sign up for free and receive a $5 drive time credit with your new personal promo code. 
 
 ### How to get promo:
-Use my promotion code `JOINC2GVAN_jnijeremy`.
+Promotion code `JOINC2GVAN_jnijeremy`.
 
 ---
 
@@ -94,18 +112,7 @@ Send me an email to <j@jnijeremy.com>.
 > Invite your friends to get 50% off of their first 12 bottles of Soylent 2.0 and for each new subscription, we'll donate four meals to World Food Program USA.
 
 ### How to get promo:
-Use my [personal referral link](http://soy.lt/r/tNs3hq1H64) (Let's fight hunger together!).
-
----
-
-### WealthSimple
-[Rules](https://grow.wealthsimple.com/wealthsimple-refer-friend-program/)
-
-> For every friend you invite who funds their account, you both get an additional $5,000 managed for free.
-
-
-### How to get promo:
-Use my [personal referral link](http://wsim.co/q8byc5j) (If you have other promo code, you can ask customer service to also apply it).
+[Apply](http://soy.lt/r/tNs3hq1H64) (Let's fight hunger together!).
 
 ---
 
@@ -114,6 +121,14 @@ Use my [personal referral link](http://wsim.co/q8byc5j) (If you have other promo
 > Earn 50 Points by inviting your friends! Send them your invite code (found in the slide-out menu at the top left). They will earn 50 points for simply entering your invite code and you will earn 50 points as soon as they earn points on their first purchase!
 
 ### promo code:
-Jeremy7781
+`Jeremy7781`
+
+---
+
+### Tesla
+
+In case you want to buy a Tesla Model S, Model X or Model 3 Performance.
+
+[Get Unlimited Supercharging](https://ts.la/zeyu85840)
 
 ---
