@@ -58,6 +58,31 @@ Use my link to get on the waitlist for 0 commision stocks and ETFs trade.
 
 ---
 
+### Gyu-Kaku
+
+> Earn 50 Points by inviting your friends! Send them your invite code (found in the slide-out menu at the top left). They will earn 50 points for simply entering your invite code and you will earn 50 points as soon as they earn points on their first purchase!
+
+### promo code:
+`Jeremy7781`
+
+---
+
+### Carrot Rewards
+
+Earn your favourite points. Make healthy lifestyle choices.
+
+Connect with me using my user code `jeremyn8808` in the [app](https://www.carrotrewards.ca/home/).
+
+---
+
+### Tesla
+
+In case you want to buy a Tesla Model S, Model X or Model 3 Performance.
+
+[Get Unlimited Supercharging](https://ts.la/zeyu85840)
+
+---
+
 ### Evo Car Share
 
 > here's how it works:
@@ -113,22 +138,5 @@ Send me an email to <j@jnijeremy.com>.
 
 ### How to get promo:
 [Apply](http://soy.lt/r/tNs3hq1H64) (Let's fight hunger together!).
-
----
-
-### Gyu-Kaku
-
-> Earn 50 Points by inviting your friends! Send them your invite code (found in the slide-out menu at the top left). They will earn 50 points for simply entering your invite code and you will earn 50 points as soon as they earn points on their first purchase!
-
-### promo code:
-`Jeremy7781`
-
----
-
-### Tesla
-
-In case you want to buy a Tesla Model S, Model X or Model 3 Performance.
-
-[Get Unlimited Supercharging](https://ts.la/zeyu85840)
 
 ---
