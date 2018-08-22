@@ -6,7 +6,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
-note: ranked roughly by price in each category.
+note: ranked roughly by price in each category in descending order.
 
 ---
 
@@ -56,6 +56,12 @@ note: ranked roughly by price in each category.
 - 金箔金沙包 
 - also available at metro food court
 
+[海港大酒楼 Sea Harbour Seafood Restaurant](http://www.seaharbour.com/)
+
+[凱悦酒家 The Deluxe Chinese Restaurant](https://www.yelp.ca/biz/the-deluxe-chinese-restaurant-richmond-2)
+
+[福满楼海鲜酒家 Fortune Terrace Chinese Cuisine](http://fortuneterrace.com/)
+
 [釣魚台海鮮酒家 Fisherman's Terrace Seafood](https://www.yelp.ca/biz/fishermans-terrace-seafood-restaurant-richmond)
 
 [皇朝 Dynasty Restaurant](http://dynasty-restaurant.ca)
@@ -64,17 +70,13 @@ note: ranked roughly by price in each category.
 
 - 黄鳝煲仔饭 (提前30分钟预订)
 
-[何源記 Ho Yuen Kee Restaurant](https://www.yelp.ca/biz/ho-yuen-kee-vancouver)
-
-- 荷叶龙虾饭
-
 [王子海鮮酒家 Prince Seafood Restaurant](https://www.yelp.ca/biz/prince-seafood-restaurant-vancouver)
 
 [龙皇鲍翅酒家 Neptune Seafood Restaurant](http://neptune-restaurant.ca)
 
-[华埠烧腊 Chinatown BBQ](https://www.yelp.ca/biz/chinatown-bbq-vancouver-2)
-
 [鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
+
+[华埠烧腊 Chinatown BBQ](https://www.yelp.ca/biz/chinatown-bbq-vancouver-2)
 
 ---
 
@@ -101,6 +103,12 @@ note: ranked roughly by price in each category.
 ---
 
 ### Chinese
+[太二酸菜鱼](https://www.yelp.ca/biz/chinese-sauerkraut-fish-richmond)
+
+[那家小馆 Najia Restaurant](https://www.yelp.ca/biz/najia-restaurant-vancouver)
+
+[重庆刘一手火锅](https://www.liuyishouna.com/)
+
 [顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
 
 - 5:30pm-11:00pm, 周三休息
@@ -170,6 +178,12 @@ note: ranked roughly by price in each category.
 ---
 
 ### Indian
+[Salam Bombay](https://www.yelp.com/biz/salam-bombay-vancouver?osq=Tandoori+Indian+Cuisine)
+
+[Tandoori Fusion](https://www.yelp.com/biz/tandoori-fusion-vancouver?osq=Tandoori+Indian+Cuisine)
+
+[Crave India](https://www.yelp.ca/biz/crave-india-vancouver)
+
 [Grouds for appeal](https://www.yelp.ca/biz/grounds-for-appeal-vancouver)
 
 - Butter Chicken
@@ -189,6 +203,10 @@ note: ranked roughly by price in each category.
 ### Dessert
 [多乐蜜 Doolami Dessert](https://www.yelp.ca/biz/doolami-dessert-vancouver)
 
+[杏记甜品 Sweet Honey Dessert](https://www.yelp.com/biz/sweethoney-dessert-richmond-3?osq=SweetHoney+Dessert)
+
+[Mister Ice Cream](http://madebymister.com/)
+
 [Bubble Fruity 果间茶坊（桂花林）](https://www.yelp.ca/biz/bubble-fruity-richmond)
 
 - 芝麻糊
@@ -201,6 +219,10 @@ note: ranked roughly by price in each category.
 ---
 
 ## Wish List
+
+[江湖](http://jianghu-cuisine.com/)
+
+mama lee hainan chicken
 
 [Kyuzo Japanese Restaurant](https://www.yelp.ca/biz/kyuzo-japanese-restaurant-vancouver)
 
