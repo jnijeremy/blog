@@ -58,6 +58,15 @@ Use my link to get on the waitlist for 0 commision stocks and ETFs trade.
 
 ---
 
+### Uber Eats
+
+> Get CA$5 off your order.
+
+### How to get promo:
+Use my code `eats-uberjni`.
+
+---
+
 ### Gyu-Kaku
 
 > Earn 50 Points by inviting your friends! Send them your invite code (found in the slide-out menu at the top left). They will earn 50 points for simply entering your invite code and you will earn 50 points as soon as they earn points on their first purchase!
