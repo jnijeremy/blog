@@ -90,6 +90,8 @@ note: ranked roughly by price in each category in descending order.
 
 [滬江海派料理 Shanghai River Restaurant](https://www.yelp.ca/biz/shanghai-river-richmond)
 
+[Yuan’s Shanghai Serendipity Cuisine 源-周易上海料理](https://www.yelp.ca/biz/yuans-shanghai-serendipity-cuisine-richmond)
+
 ---
 
 ### Taiwaness
