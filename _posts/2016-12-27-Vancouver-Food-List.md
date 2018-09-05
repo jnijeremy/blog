@@ -109,6 +109,8 @@ note: ranked roughly by price in each category in descending order.
 
 [那家小馆 Najia Restaurant](https://www.yelp.ca/biz/najia-restaurant-vancouver)
 
+[郝记全羊馆](https://www.yelp.ca/biz/haos-lamb-restaurant-richmond)
+
 [重庆刘一手火锅](https://www.liuyishouna.com/)
 
 [顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
@@ -222,7 +224,13 @@ note: ranked roughly by price in each category in descending order.
 
 ## Wish List
 
+胡同烤鸭
+
+叹茶
+
 [江湖](http://jianghu-cuisine.com/)
+
+[囋·经典美食](http://www.nuchinesebistro.com/index.html)
 
 mama lee hainan chicken
 
