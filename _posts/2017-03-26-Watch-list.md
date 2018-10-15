@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watch List
-update: 2018-08-22
+update: 2018-10-14
 excerpt: <p>Things I watch</p>
 
 ---
@@ -11,10 +11,11 @@ excerpt: <p>Things I watch</p>
 [Watched movie list](https://movie.douban.com/people/58048467/)
 
 # TV Shows
-* [This Is Us](https://www.imdb.com/title/tt5555260/) (s01e11)
+* [This Is Us](https://www.imdb.com/title/tt5555260/) (s02e07)
 * [Crown](http://www.imdb.com/title/tt4786824/) (s02e08)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s03e03)
-* [Modern Family](http://www.imdb.com/title/tt1442437/) (s10e01)
+* [Modern Family](http://www.imdb.com/title/tt1442437/) (s10e02)
+* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s05e01)
 * [How I Met Your Mother](http://www.imdb.com/title/tt0460649/)
 * [Fullmetal Alchemist 2003](http://www.imdb.com/title/tt0421357/)
 * [Fullmetal Alchemist: Brotherhood 2009](http://www.imdb.com/title/tt1355642/)
@@ -35,5 +36,4 @@ excerpt: <p>Things I watch</p>
 * [The Good Fight](http://www.imdb.com/title/tt5853176/)
 * [上海女子图鉴](https://movie.douban.com/subject/27185556/)
 * [The Expanse](http://www.imdb.com/title/tt3230854/)
-* [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/)
 * [Silicon Valley](http://www.imdb.com/title/tt2575988/)
