@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-update: 2018-04-28
+update: 2018-10-31
 excerpt: <p>My Reading List</p>
 
 ---
@@ -88,6 +88,25 @@ excerpt: <p>My Reading List</p>
 	by Rickard Dahlstrom
 	
 	read 2018-04-26
+	
+13. [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=mar29-2018) 
+
+	by Lin Clark
+	
+	read 2018-10-28
+	
+14. [Web technology for developers JavaScript Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+	
+	read 2018-10-29
+
+15. [Web technology for developers JavaScript JavaScript reference Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+
+	read 2018-10-30
+
+16. [IDEA nonverbal algorithm assembly instructions](https://idea-instructions.com/)
+
+	read 2018-10-31
+
 
 ### Video
 
