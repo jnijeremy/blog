@@ -228,8 +228,6 @@ note: ranked roughly by price in each category in descending order.
 
 叹茶
 
-[江湖](http://jianghu-cuisine.com/)
-
 [囋·经典美食](http://www.nuchinesebistro.com/index.html)
 
 mama lee hainan chicken
@@ -261,8 +259,6 @@ Passion 8 Dessert cafe
 Italian Kitchen
 
 the boat house
-
-Hawksworth
 
 Lotus cake boutique
 
