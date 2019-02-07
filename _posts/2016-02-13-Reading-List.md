@@ -1,10 +1,21 @@
 ---
 layout: post
 title: Reading List
-update: 2018-10-31
+update: 2019-02-06
 excerpt: <p>My Reading List</p>
 
 ---
+
+## 2019
+
+### Money
+1. [F Your 90 Day Exercise Window](https://zachholman.com/posts/fuck-your-90-day-exercise-window/)
+
+	by Zach Holman
+	
+2. [Illiquid Till Exit: Is the golden era of secondary share sales over for startups?](http://fortune.com/2014/07/21/illiquid-till-exit-golden-era-secondary-share-sales-over-startups/)
+
+	by ERIN GRIFFITH
 
 ## 2018
 
