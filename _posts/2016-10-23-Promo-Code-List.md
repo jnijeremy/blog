@@ -46,18 +46,6 @@ Use my link to get on the waitlist for 0 commision stocks and ETFs trade.
 
 ---
 
-### American Express Cobalt Card
-
-- Earn up to 30,000 Bonus Points.
-- 5X the points on eligible eats & drinks.
-- 2X the points on eligible travel & transit.
-- Really good travel insurance.
-
-### How to get promo:
-[Apply](http://amex.ca/share/zeyunxfVz)
-
----
-
 ### Uber Eats
 
 > Get CA$5 off your order.
