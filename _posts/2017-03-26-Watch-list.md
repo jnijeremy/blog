@@ -15,7 +15,7 @@ excerpt: <p>Things I watch</p>
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s03e03)
 * [Modern Family](http://www.imdb.com/title/tt1442437/) (s10e11)
 * [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s05e01)
-* [This Is Us](https://www.imdb.com/title/tt5555260/)
+* [This Is Us](https://www.imdb.com/title/tt5555260/) (s03e13)
 * [How I Met Your Mother](http://www.imdb.com/title/tt0460649/)
 * [Fullmetal Alchemist 2003](http://www.imdb.com/title/tt0421357/)
 * [Fullmetal Alchemist: Brotherhood 2009](http://www.imdb.com/title/tt1355642/)
