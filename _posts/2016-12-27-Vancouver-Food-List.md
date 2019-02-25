@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2018-08-22
+update: 2019-02-24
 excerpt: <p>Where to eat in Vancouver</p>
-
----
-
-note: ranked roughly by price in each category in descending order.
 
 ---
 
@@ -72,7 +68,7 @@ note: ranked roughly by price in each category in descending order.
 
 [王子海鮮酒家 Prince Seafood Restaurant](https://www.yelp.ca/biz/prince-seafood-restaurant-vancouver)
 
-[龙皇鲍翅酒家 Neptune Seafood Restaurant](http://neptune-restaurant.ca)
+[西湖海鲜酒家 Western Lake Chinese Seafood Restaurant](http://westernlake.ca/english/)
 
 [鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
 
@@ -95,12 +91,9 @@ note: ranked roughly by price in each category in descending order.
 ---
 
 ### Taiwaness
-~~[CLOSED Maji Restaurant 麻吉台式熱炒](http://www.majirestaurant.ca/)~~
-
-- Braised Food 卤味 
-- San-Pei Chicken 三杯鸡
-
 [Myst 觅食](http://www.myst6400.com/)
+
+[JY Noodle](http://jynoodle.com/en/homepage/)
 
 ---
 
@@ -176,6 +169,11 @@ note: ranked roughly by price in each category in descending order.
 
 ---
 
+### Malaysian
+[Mamalee](http://mamalee.ca/)
+
+---
+
 ### Persian
 [Cazba Restaurant](http://www.cazbarestaurant.com/)
 
@@ -216,6 +214,8 @@ note: ranked roughly by price in each category in descending order.
 - 芝麻糊
 - 核桃糊
 
+[nana's green tea](http://www.nanasgreentea.com/en/)
+
 ---
 
 [Vancouver lunch list](https://www.yelp.ca/collection/mvwkiRoZhsyHdzzJsyhC3w)
@@ -229,8 +229,6 @@ note: ranked roughly by price in each category in descending order.
 叹茶
 
 [囋·经典美食](http://www.nuchinesebistro.com/index.html)
-
-mama lee hainan chicken
 
 [Kyuzo Japanese Restaurant](https://www.yelp.ca/biz/kyuzo-japanese-restaurant-vancouver)
 
@@ -284,5 +282,7 @@ Deutsches Haus German Restaureant
 
 海棠海鲜酒家
 
-西湖海鲜酒家
+Old Beijing Roast Duck
+
+
 
