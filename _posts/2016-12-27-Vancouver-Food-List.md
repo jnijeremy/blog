@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2019-02-24
+update: 2019-03-28
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -98,18 +98,30 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Chinese
+[小龙坎](https://www.yelp.ca/biz/xiaolongkan-chinese-fondue-richmond)
+
+[春秋火锅](http://landmarkhotpot.com/zh/)
+
+[海底捞](https://www.yelp.ca/biz/haidilao-hot-pot-richmond)
+
+[豆捞坊](https://www.yelp.ca/biz/the-dolar-shop-flushing-3)
+
 [太二酸菜鱼](https://www.yelp.ca/biz/chinese-sauerkraut-fish-richmond)
 
 [那家小馆 Najia Restaurant](https://www.yelp.ca/biz/najia-restaurant-vancouver)
 
 [郝记全羊馆](https://www.yelp.ca/biz/haos-lamb-restaurant-richmond)
 
-[重庆刘一手火锅](https://www.liuyishouna.com/)
+胡师傅花椒鸡
+
+[品一品麻辣香锅](https://www.yelp.ca/biz/chef-pin-vancouver)
 
 [顺鑫园 Shun Xin Restaurant](https://www.yelp.ca/biz/shun-xin-restaurant-richmond)
 
 - 5:30pm-11:00pm, 周三休息
 - 香辣蟹
+
+[重庆刘一手火锅](https://www.liuyishouna.com/)
 
 [老西安 Old Xian's Food](http://www.oldxiansfood.com/)
 
@@ -121,8 +133,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Minami](http://minamirestaurant.com)
 
 [Gyu King Teppanyaki](http://www.gyukingteppanyaki.com/ch/index.php)
-
-- Lunch All You Can Eat
 
 [Bistro Sakana](http://www.bistrosakana.com/)
 
@@ -167,6 +177,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Little Saigon](http://www.littlesaigon.ca/)
 
+[DD Mau](https://www.ddmau.ca/)
+
 ---
 
 ### Malaysian
@@ -185,10 +197,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Tandoori Fusion](https://www.yelp.com/biz/tandoori-fusion-vancouver?osq=Tandoori+Indian+Cuisine)
 
 [Crave India](https://www.yelp.ca/biz/crave-india-vancouver)
-
-[Grouds for appeal](https://www.yelp.ca/biz/grounds-for-appeal-vancouver)
-
-- Butter Chicken
 
 ---
 
@@ -223,6 +231,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ## Wish List
+
+云庄
 
 胡同烤鸭
 
