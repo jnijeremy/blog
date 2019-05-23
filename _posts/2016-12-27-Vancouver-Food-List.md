@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2019-03-28
+update: 2019-05-22
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -25,9 +25,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Cactus Club Cafe](www.cactusclubcafe.com/)
 
-- BUTTERNUT SQUASH RAVIOLI WITH PRAWNS
-- DOUBLE-BRAISED PINEAPPLE HOISIN SHORT RIB
-- ROB’S CRISPY CHICKEN SANDWICH
+[Chambar](https://www.chambar.com/)
 
 ---
 
@@ -48,8 +46,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### Dimsum  & Cantonese
 [颐东大酒楼 Chef Tony](http://cheftonycanada.com/)
 
-- 黑松露烧麦
-- 金箔金沙包 
 - also available at metro food court
 
 [海港大酒楼 Sea Harbour Seafood Restaurant](http://www.seaharbour.com/)
@@ -70,6 +66,10 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [西湖海鲜酒家 Western Lake Chinese Seafood Restaurant](http://westernlake.ca/english/)
 
+[名阁海鲜酒家](https://www.yelp.ca/biz/happy-valley-seafood-restaurant-vancouver)
+
+[顺峰海鲜酒家](http://www.shunfeng.ca/cn/index.php)
+
 [鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
 
 [华埠烧腊 Chinatown BBQ](https://www.yelp.ca/biz/chinatown-bbq-vancouver-2)
@@ -78,6 +78,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ### Shanghainess
 [Jin Jiang Shanghai Restaurant 锦江上海菜](https://www.yelp.ca/biz/jin-jiang-shanghai-restaurant-burnaby)
+
+[囋·经典美食](http://www.nuchinesebistro.com/index.html)
 
 [苏杭人家 Suhang Restaurant](http://www.suhang.ca/)
 
@@ -153,6 +155,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Korean
+[Kook Korean BBQ](https://www.kookbbq.ca/)
+
 [SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
 
 [House of Tofu Soup](https://www.yelp.ca/biz/house-of-tofu-soup-burnaby)
@@ -165,8 +169,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ### Thai
 [Thai Cafe](http://www.thaicafe.ca/)
-
-- PAD THAI
 
 [Simply Thai](http://simplythaivancouver.com/)
 
@@ -232,13 +234,12 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ## Wish List
 
-云庄
+jam cafe
 
 胡同烤鸭
 
 叹茶
 
-[囋·经典美食](http://www.nuchinesebistro.com/index.html)
 
 [Kyuzo Japanese Restaurant](https://www.yelp.ca/biz/kyuzo-japanese-restaurant-vancouver)
 
