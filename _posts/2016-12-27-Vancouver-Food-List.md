@@ -234,11 +234,12 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ## Wish List
 
-jam cafe
 
 胡同烤鸭
 
 叹茶
+
+arisu bbq
 
 
 [Kyuzo Japanese Restaurant](https://www.yelp.ca/biz/kyuzo-japanese-restaurant-vancouver)
@@ -256,8 +257,6 @@ jam cafe
 [Seasons In the Park](https://www.yelp.ca/biz/seasons-in-the-park-vancouver)
 
 [Jam Cafe on Beatty](https://www.yelp.ca/biz/jam-cafe-on-beatty-vancouver)
-
-[Shizen Ya](https://www.yelp.ca/biz/shizen-ya-vancouver)
 
 [Bacchus Restaurant & Lounge](https://www.yelp.ca/biz/bacchus-restaurant-and-lounge-vancouver)
 
@@ -291,8 +290,6 @@ Bestie
 
 Deutsches Haus German Restaureant
 
-海棠海鲜酒家
-
 Old Beijing Roast Duck
 
 provamce yaletown
@@ -301,7 +298,4 @@ top fun j&C
 
 味蜀吾沸腾三国火锅
 
-海底捞
-
-小龙坎
 
