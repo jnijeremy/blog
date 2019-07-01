@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-update: 2019-02-06
+update: 2019-06-30
 excerpt: <p>My Reading List</p>
 
 ---
@@ -9,13 +9,54 @@ excerpt: <p>My Reading List</p>
 ## 2019
 
 ### Money
-1. [F Your 90 Day Exercise Window](https://zachholman.com/posts/fuck-your-90-day-exercise-window/)
-
-	by Zach Holman
+1. [F Your 90 Day Exercise Window](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) by Zach Holman
 	
-2. [Illiquid Till Exit: Is the golden era of secondary share sales over for startups?](http://fortune.com/2014/07/21/illiquid-till-exit-golden-era-secondary-share-sales-over-startups/)
+2. [Illiquid Till Exit: Is the golden era of secondary share sales over for startups?](http://fortune.com/2014/07/21/illiquid-till-exit-golden-era-secondary-share-sales-over-startups/) by ERIN GRIFFITH
 
-	by ERIN GRIFFITH
+### Random	
+1. 2019-06-28 [The Downsides of Being Very Emotionally Intelligent](https://getpocket.com/explore/item/the-downsides-of-being-very-emotionally-intelligent)
+中文版：[情商高，未必是好事](https://www.hbrchina.org/2018-01-02/5763.html) by Tomas Chamorro-Premuzic and Adam Yearsley
+	
+	Note: Being high EQ bring certain benefits in the workforce, as well as potential restrictions and pitfalls.
+
+
+### Learning
+
+1. 2019-06-28 [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/) by Rachel Andrew
+	
+	Note: Structural learning of CSS, helps building mental framework.
+
+2. 2019-06-28 [Classes vs Interfaces in TypeScript](https://ultimatecourses.com/blog/classes-vs-interfaces-in-typescript) by Todd Motto
+	
+	Note: factory or singleton by using static methods in classes.
+
+3. 2019-06-28 [The CSS mental model](https://www.quirksmode.org/blog/archives/2019/02/css_for_javascr_1.html) by Peter-Paul Koch
+	
+	Note: CSS vs JS for UI state change.
+	
+4. 2019-06-25 [Design Patterns: The Builder Pattern](https://dzone.com/articles/design-patterns-the-builder-pattern) by Riaan Nel
+	
+5. 2019-06-25 [A simplified approach to calling APIs with redux](https://www.sohamkamani.com/blog/2016/06/05/redux-apis/) by Soham Kamani
+	
+	Note: Helps understand redux sage as well.
+	
+6. 2019-06-25 [Callback Hell](http://callbackhell.com/) by Max Ogden
+	
+	Note: Finally human speaking about callback.
+	
+7. 2019-06-24 [Intro to React Hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/) by Kathryn Middleton
+	
+	Note: Great intro to react hooks with demo and comparison.
+	
+8. 2019-05-29 [React From Zero](https://github.com/kay-is/react-from-zero) by Kay Plößer
+	
+	Note: Progress react tutorial with real code example.
+	
+9. 2019-05-09 [Build a JavaScript Single Page App Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/) by Michael Wanyoike
+
+10. 2019-03-25 [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=may31-2018) by Lin Clark
+
+11. [What is ViewModel in MVC?](https://www.codeproject.com/Articles/1225526/What-is-ViewModel-in-MVC-2)
 
 ## 2018
 
