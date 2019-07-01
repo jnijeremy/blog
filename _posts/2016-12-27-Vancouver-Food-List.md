@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2019-05-22
+update: 2019-06-30
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -12,20 +12,23 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Joe Fortes](http://www.joefortes.ca/)
 
 - Atlantic lobster Benedict
+- Great happy hour
 
 [Coast](http://www.glowbalgroup.com/coast/)
 
-- $12 FISH & CHIP FRIDAY
-
 [Rodney's Oyster House](http://rohvan.com/)
 
-- Low tide menu (happy hour)
+- Great happy hour
 
 [The Keg Steakhouse + Bar](https://www.kegsteakhouse.com/)
 
 [Cactus Club Cafe](www.cactusclubcafe.com/)
 
+- English bay and Coal harbor location has ocren view
+
 [Chambar](https://www.chambar.com/)
+
+- Must try mussel
 
 ---
 
@@ -70,6 +73,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [顺峰海鲜酒家](http://www.shunfeng.ca/cn/index.php)
 
+[金津粥品專賣店 Kongee Dinesty](http://kongeedinesty.com/)
+
 [鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
 
 [华埠烧腊 Chinatown BBQ](https://www.yelp.ca/biz/chinatown-bbq-vancouver-2)
@@ -82,9 +87,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 [囋·经典美食](http://www.nuchinesebistro.com/index.html)
 
 [苏杭人家 Suhang Restaurant](http://www.suhang.ca/)
-
-- 肚包鸡
-- 八宝鸭
 
 [滬江海派料理 Shanghai River Restaurant](https://www.yelp.ca/biz/shanghai-river-richmond)
 
@@ -108,13 +110,15 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [豆捞坊](https://www.yelp.ca/biz/the-dolar-shop-flushing-3)
 
+[御上火锅](https://dianpu.vanpeople.com/item-21674.html)
+
 [太二酸菜鱼](https://www.yelp.ca/biz/chinese-sauerkraut-fish-richmond)
 
 [那家小馆 Najia Restaurant](https://www.yelp.ca/biz/najia-restaurant-vancouver)
 
 [郝记全羊馆](https://www.yelp.ca/biz/haos-lamb-restaurant-richmond)
 
-胡师傅花椒鸡
+[元气海鲜蒸锅料理](http://www.vitalitysteamseafood.com/zh/home2/)
 
 [品一品麻辣香锅](https://www.yelp.ca/biz/chef-pin-vancouver)
 
@@ -126,6 +130,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 [重庆刘一手火锅](https://www.liuyishouna.com/)
 
 [老西安 Old Xian's Food](http://www.oldxiansfood.com/)
+
+[胡同烤鸭](https://dianpu.vanpeople.com/item-4457.html)
 
 ---
 
@@ -145,6 +151,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 [Kingyo Izakaya](http://www.kingyo-izakaya.ca/)
 
 [Guu Garden](https://guu-izakaya.com/menu/#Garden)
+
+[Kimu Japanese Cuisine](https://kimusushi.ca/)
 
 [Ramen Danbo](http://ramendanbo.com/)
 
@@ -179,6 +187,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Little Saigon](http://www.littlesaigon.ca/)
 
+[White Lotus Cafe](http://www.whitelotuscafe.ca/)
+
 [DD Mau](https://www.ddmau.ca/)
 
 ---
@@ -204,9 +214,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ### Mexican
 [Tacofino](https://www.tacofino.com/)
-
-- LEMON GRASS CHICKEN BURRITO
-- BLUE CORN CRISPY CHICKEN WRAP
 
 [La Taqueria Pinche Taco Shop](http://www.lataqueria.com/)
 
@@ -235,11 +242,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 ## Wish List
 
 
-胡同烤鸭
 
-叹茶
-
-arisu bbq
 
 
 [Kyuzo Japanese Restaurant](https://www.yelp.ca/biz/kyuzo-japanese-restaurant-vancouver)
@@ -282,15 +285,11 @@ Oyester express
 
 Nuba
 
-金津粥品專賣店 Kongee Dinesty
-
 beta5 chocolate
 
 Bestie
 
 Deutsches Haus German Restaureant
-
-Old Beijing Roast Duck
 
 provamce yaletown
 
