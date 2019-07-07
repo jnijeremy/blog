@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2019-06-30
+update: 2019-07-06
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -102,6 +102,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Chinese
+[歪串串](https://dianpu.vanpeople.com/item-21600.html)
+
 [小龙坎](https://www.yelp.ca/biz/xiaolongkan-chinese-fondue-richmond)
 
 [春秋火锅](http://landmarkhotpot.com/zh/)
