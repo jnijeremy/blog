@@ -11,6 +11,7 @@ excerpt: <p>Things I watch</p>
 [Watched movie list](https://movie.douban.com/people/58048467/)
 
 # TV Shows
+* [Yes, Minister](https://www.imdb.com/title/tt0080306/) (s01e07)
 * [Yes, Prime Minister](https://www.imdb.com/title/tt0086831/) (s01e01)
 * [Big Little Lies](https://www.imdb.com/title/tt3920596/) (s02e05)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s04)
