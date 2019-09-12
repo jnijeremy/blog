@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2019-07-06
+update: 2019-09-11
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -99,6 +99,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [JY Noodle](http://jynoodle.com/en/homepage/)
 
+[台湾台北原创花雕鸡](https://www.vandiary.com/2015/04/17/taiwan-taipei-original-pot-alexandra-road/)
+
 ---
 
 ### Chinese
@@ -132,8 +134,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 [重庆刘一手火锅](https://www.liuyishouna.com/)
 
 [老西安 Old Xian's Food](http://www.oldxiansfood.com/)
-
-[胡同烤鸭](https://dianpu.vanpeople.com/item-4457.html)
 
 ---
 
@@ -235,6 +235,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [nana's green tea](http://www.nanasgreentea.com/en/)
 
+[Lotus cake boutique](https://www.yelp.ca/biz/l-otus-cake-boutique-richmond)
+
 ---
 
 [Vancouver lunch list](https://www.yelp.ca/collection/mvwkiRoZhsyHdzzJsyhC3w)
@@ -242,14 +244,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ## Wish List
-
-
-
-
-
-[Kyuzo Japanese Restaurant](https://www.yelp.ca/biz/kyuzo-japanese-restaurant-vancouver)
-
-[Simba’s Grill](https://www.yelp.ca/biz/simbas-grill-vancouver)
 
 [Torafuku](https://www.yelp.ca/biz/torafuku-vancouver)
 
@@ -271,9 +265,7 @@ Passion 8 Dessert cafe
 
 Italian Kitchen
 
-the boat house
-
-Lotus cake boutique
+The boat house
 
 Ajisai sushi bar
 
@@ -285,18 +277,24 @@ Tairyou ichiba 大漁市場
 
 Oyester express 
 
-Nuba
-
 beta5 chocolate
 
 Bestie
 
-Deutsches Haus German Restaureant
-
-provamce yaletown
-
-top fun j&C
+top gun j&C
 
 味蜀吾沸腾三国火锅
+
+taka sushi
+
+pidgin
+
+wara thai eatery
+
+once upon @ thai
+
+jules thai
+
+成都菜馆
 
 
