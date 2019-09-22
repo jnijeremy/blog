@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2019-09-11
+update: 2019-09-21
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -47,6 +47,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Dimsum  & Cantonese
+[百珍海鲜酒家 Bamboo Grove](https://www.vandiary.com/2013/04/19/bamboo-grove-number-3-road/)
+
 [颐东大酒楼 Chef Tony](http://cheftonycanada.com/)
 
 - also available at metro food court
