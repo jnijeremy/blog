@@ -19,7 +19,20 @@ excerpt: <p>My Reading List</p>
 	
 	Note: Being high EQ bring certain benefits in the workforce, as well as potential restrictions and pitfalls.
 
+2. 2019-07-03 [Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/) by Dave Merrill and Lauren Leatherby
 
+	Note: data journalism in action
+
+### Art
+1. 2019-07-18 [Running the Numbers II: Portraits of global mass culture](http://www.chrisjordan.com/gallery/rtn2/#t-rex) By Chris Jordan
+
+	Note: the devil is in the details, amazing art work of detail and numbers.
+
+2. 2019-07-19
+[Face of a Nation](http://www.guneysoykan.com/faceofanation) by Guney Soykan
+
+	Note: powerful combination of art and politics shown in a blatant way
+	
 ### Learning
 
 1. 2019-06-28 [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/) by Rachel Andrew
@@ -57,6 +70,33 @@ excerpt: <p>My Reading List</p>
 10. 2019-03-25 [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=may31-2018) by Lin Clark
 
 11. [What is ViewModel in MVC?](https://www.codeproject.com/Articles/1225526/What-is-ViewModel-in-MVC-2)
+
+12. 2019-09-24
+[GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b) by Sashko Stubailo
+
+	Note: graphql allows single request to retrieve multiple types of resources, rest usually requires multiple requests to each resource endpoint.
+	
+13. 2019-09-23
+[Overload control for scaling WeChat microservices](https://blog.acolyer.org/2018/11/16/overload-control-for-scaling-wechat-microservices/)
+
+	Note: This is a great read! The most important idea of DAGOR seems to be 1. multiple level of admission control 2. decentralized at service instance level. Some impressive number: "The platform sees between 10^{10} - 10^{11} external requests per day", "WeChat's microservice system accommodates more than 3000 services running on over 20,000 machines", "almost a thousand changes per day on average".
+
+14. 2019-08-06
+[The 3 Types of Design Patterns All Developers Should Know (with code examples of each)](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/) by Sameeha Rahman
+
+	Note: The 3 Types of Design Patterns All Developers Should Know (with code examples of each)
+By Sameeha Rahman
+Note: Java thread safe code is ugly.  Decorator is the natural way to do subclass.  The Command Design Pattern doesn't seem very useful in the example given.
+
+15. 2019-08-06
+[The 3 Types of Design Patterns All Developers Should Know (with code examples of each)](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/) by Sameeha Rahman
+	
+	Note: Java thread safe code is ugly.  Decorator is the natural way to do subclass.  The Command Design Pattern doesn't seem very useful in the example given.
+
+16. 2019-07-03
+[The AI-first startup playbook](https://venturebeat.com/2018/08/18/the-ai-first-startup-playbook/) by IVY NGUYEN, MARK GORENBERG
+
+	Note: AI business from venture and pm perspective
 
 ## 2018
 
