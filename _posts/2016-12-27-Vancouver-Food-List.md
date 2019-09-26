@@ -275,9 +275,7 @@ Mott32
 
 Mr Red Cafe
 
-Tairyou ichiba 大漁市場
-
-Oyester express 
+Oyester express
 
 beta5 chocolate
 
