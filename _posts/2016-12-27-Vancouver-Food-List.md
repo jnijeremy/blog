@@ -67,17 +67,11 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 - 黄鳝煲仔饭 (提前30分钟预订)
 
-[王子海鮮酒家 Prince Seafood Restaurant](https://www.yelp.ca/biz/prince-seafood-restaurant-vancouver)
-
 [西湖海鲜酒家 Western Lake Chinese Seafood Restaurant](http://westernlake.ca/english/)
 
-[名阁海鲜酒家](https://www.yelp.ca/biz/happy-valley-seafood-restaurant-vancouver)
-
-[顺峰海鲜酒家](http://www.shunfeng.ca/cn/index.php)
-
-[金津粥品專賣店 Kongee Dinesty](http://kongeedinesty.com/)
-
 [鹿園魚湯米線 Deer Garden Signatures](http://deergarden.ca/)
+
+[多田鱼珍米线](http://zhinan.lahoo.ca/listing/2800-e-1st-avenue-suite-212-vancouver-bc-v5m-4n9-5-%E5%A4%9A%E7%94%B0%E9%B1%BC%E7%8F%8D%E7%B1%B3%E7%BA%BF%E9%A4%90%E9%A5%AE/)
 
 [华埠烧腊 Chinatown BBQ](https://www.yelp.ca/biz/chinatown-bbq-vancouver-2)
 
@@ -180,6 +174,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Thai
+[Chad Thai](http://chadthai.ca/)
+
 [Thai Cafe](http://www.thaicafe.ca/)
 
 [Simply Thai](http://simplythaivancouver.com/)
@@ -239,6 +235,11 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Lotus cake boutique](https://www.yelp.ca/biz/l-otus-cake-boutique-richmond)
 
+有米酸奶
+
+- 2070 W 41st Ave, Vancouver, BC V6M 1Y8
+- 1500 - 4380 No 3 Rd #140, Richmond 百家店 Parker place foodcourt
+
 ---
 
 [Vancouver lunch list](https://www.yelp.ca/collection/mvwkiRoZhsyHdzzJsyhC3w)
@@ -246,6 +247,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ## Wish List
+
+OEB Breakfast Yaletown
 
 [Torafuku](https://www.yelp.ca/biz/torafuku-vancouver)
 
@@ -291,10 +294,6 @@ pidgin
 
 wara thai eatery
 
-once upon @ thai
-
-jules thai
-
 成都菜馆
 
-
+Shiok sigapore cuisine: 1716 Kingsway St Vancouver BC V5N 2S4
