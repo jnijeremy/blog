@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My promo codes
-update: 2018-05-06
+update: 2019-10-23
 excerpt: <p>List of promo codes for services I use</p>
 
 ---
@@ -36,16 +36,6 @@ Use my link to get on the waitlist for 0 commision stocks and ETFs trade.
 
 ---
 
-### American Express Platinum Card
-
-- Earn 60,000 Membership Rewards Points.
-- Many many amazing benefits.
-
-### How to get promo:
-[Apply](http://amex.ca/share/zeyunsqof?XLINK=MYCP)
-
----
-
 ### Uber Eats
 
 > Get CA$5 off your order.
@@ -64,42 +54,11 @@ Use my code `eats-uberjni`.
 
 ---
 
-### Carrot Rewards
-
-Earn your favourite points. Make healthy lifestyle choices.
-
-Connect with me using my user code `jeremyn8808` in the [app](https://www.carrotrewards.ca/home/).
-
----
-
 ### Tesla
 
 In case you want to buy a Tesla Model S, Model X or Model 3 Performance.
 
 [Get Unlimited Supercharging](https://ts.la/zeyu85840)
-
----
-
-### Evo Car Share
-
-> here's how it works:
-Have your friend sign up at evo.ca, using your unique referral promo code: C000037253
-Your friend gets free registration and 30 minutes
-You get 30 minutes! It's a win-win.
-You can refer as many friends as you like, just remember they need to register at evo.ca before April 30th to get the deal. Your credits will be applied within 30 days of your friend's registration.
-
-### How to get promo:
-Promotion code `C000037253`.
-
----
-
-### Car2go 
-[Rules](https://friends.car2go.com/na)
-
-> Whenever you refer your friends, coworkers and family members to join car2go, you will get a $10 drive time credit*, per referral. Friends and family sign up for free and receive a $5 drive time credit with your new personal promo code. 
-
-### How to get promo:
-Promotion code `JOINC2GVAN_jnijeremy`.
 
 ---
 
@@ -121,7 +80,6 @@ Currently I use a $45 BYOP plan with
 * Call Display
 * Voicemail
 
-The only issue with this plan is it doesn't have Fido Roaming.  Maybe need to use roammobility when in the US.
 
 ### How to get promo:
 Send me an email to <j@jnijeremy.com>.
