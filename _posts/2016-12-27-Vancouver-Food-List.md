@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2019-09-21
+update: 2020-01-07
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -51,8 +51,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [颐东大酒楼 Chef Tony](http://cheftonycanada.com/)
 
-- also available at metro food court
-
 [海港大酒楼 Sea Harbour Seafood Restaurant](http://www.seaharbour.com/)
 
 [凱悦酒家 The Deluxe Chinese Restaurant](https://www.yelp.ca/biz/the-deluxe-chinese-restaurant-richmond-2)
@@ -93,9 +91,13 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### Taiwaness
 [Myst 觅食](http://www.myst6400.com/)
 
+[台湾台北原创花雕鸡](https://www.vandiary.com/2015/04/17/taiwan-taipei-original-pot-alexandra-road/)
+
 [JY Noodle](http://jynoodle.com/en/homepage/)
 
-[台湾台北原创花雕鸡](https://www.vandiary.com/2015/04/17/taiwan-taipei-original-pot-alexandra-road/)
+*New* [Red Beef Noddle](http://www.redbeef.ca/)
+
+
 
 ---
 
@@ -130,6 +132,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 [重庆刘一手火锅](https://www.liuyishouna.com/)
 
 [老西安 Old Xian's Food](http://www.oldxiansfood.com/)
+
+[御膳房](https://www.bcbay.com/biz/viewinfo.php?id=5586)
 
 ---
 
@@ -235,6 +239,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [Lotus cake boutique](https://www.yelp.ca/biz/l-otus-cake-boutique-richmond)
 
+[仙芋传奇](https://www.facebook.com/pages/Fresh-Legend-%E4%BB%99%E8%8A%8B%E5%82%B3%E5%A5%87/472971829469391)
+
 有米酸奶
 
 - 2070 W 41st Ave, Vancouver, BC V6M 1Y8
@@ -297,3 +303,7 @@ wara thai eatery
 成都菜馆
 
 Shiok sigapore cuisine: 1716 Kingsway St Vancouver BC V5N 2S4
+
+Z&W Shanghai Kitchen
+
+白玉兰
