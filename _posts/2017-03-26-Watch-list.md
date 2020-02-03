@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watch List
-update: 2019-10-23
+update: 2020-02-02
 excerpt: <p>Things I watch</p>
 
 ---
@@ -12,13 +12,15 @@ excerpt: <p>Things I watch</p>
 
 # TV Shows
 
-* [Why women kill](https://www.imdb.com/title/tt9054904/) (s01e07)
+* [Queer Eye](https://www.imdb.com/title/tt7259746/) (s03e03)
+* [The Morning Show](https://www.imdb.com/title/tt7203552/)
+* [Why women kill](https://www.imdb.com/title/tt9054904/)
 * [胜者即是正义 リーガル・ハイ](https://www.imdb.com/title/tt2276587/?ref_=nv_sr_1?ref_=nv_sr_1) (s01e01)
 * [Yes, Minister](https://www.imdb.com/title/tt0080306/)
-* [Yes, Prime Minister](https://www.imdb.com/title/tt0086831/) (s01e01)
+* [Yes, Prime Minister](https://www.imdb.com/title/tt0086831/) (s01e04)
 * [Big Little Lies](https://www.imdb.com/title/tt3920596/)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s04)
-* [Modern Family](http://www.imdb.com/title/tt1442437/) (s11e04)
+* [Modern Family](http://www.imdb.com/title/tt1442437/) (s11e11)
 * [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s05e21）
 * [This Is Us](https://www.imdb.com/title/tt5555260/) (s03e17)
 * [Crown](http://www.imdb.com/title/tt4786824/)
@@ -44,5 +46,4 @@ excerpt: <p>Things I watch</p>
 * [The Expanse](http://www.imdb.com/title/tt3230854/)
 * [Silicon Valley](http://www.imdb.com/title/tt2575988/)
 * [The Family Law](https://www.imdb.com/title/tt4683342/)
-* [Killing Eve](https://www.imdb.com/title/tt7016936/)(s02e02)
-* [Sex Education](https://www.imdb.com/title/tt7767422/)
+* [Sex Education](https://www.imdb.com/title/tt7767422/) (s02e02)
