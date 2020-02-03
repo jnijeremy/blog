@@ -1,24 +1,23 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2020-01-07
+update: 2020-02-02
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
 
 ### West Coast
+[Provence Marinaside](https://www.provencemarinaside.ca/)
+
 [blue water cafe](https://www.bluewatercafe.net/)
 
 [Joe Fortes](http://www.joefortes.ca/)
 
-- Atlantic lobster Benedict
-- Great happy hour
+[Tea House in Stanly Park](https://www.vancouverdine.com/teahouse/)
 
 [Coast](http://www.glowbalgroup.com/coast/)
 
 [Rodney's Oyster House](http://rohvan.com/)
-
-- Great happy hour
 
 [The Keg Steakhouse + Bar](https://www.kegsteakhouse.com/)
 
@@ -33,6 +32,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Western Brunch
+[OEB Breakfast](http://eatoeb.com/)
+
 [Medina Cafe](http://www.medinacafe.com/)
 
 [Twisted Fork Bistro](http://twistedforkbistro.ca/)
@@ -93,16 +94,16 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [台湾台北原创花雕鸡](https://www.vandiary.com/2015/04/17/taiwan-taipei-original-pot-alexandra-road/)
 
+[Red Beef Noddle](http://www.redbeef.ca/)
+
 [JY Noodle](http://jynoodle.com/en/homepage/)
-
-*New* [Red Beef Noddle](http://www.redbeef.ca/)
-
-
 
 ---
 
 ### Chinese
 [歪串串](https://dianpu.vanpeople.com/item-21600.html)
+
+[付小姐在成都](http://www.fuxiaojie.cn/)
 
 [小龙坎](https://www.yelp.ca/biz/xiaolongkan-chinese-fondue-richmond)
 
@@ -128,8 +129,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 - 5:30pm-11:00pm, 周三休息
 - 香辣蟹
-
-[重庆刘一手火锅](https://www.liuyishouna.com/)
 
 [老西安 Old Xian's Food](http://www.oldxiansfood.com/)
 
@@ -254,8 +253,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 ## Wish List
 
-OEB Breakfast Yaletown
-
 [Torafuku](https://www.yelp.ca/biz/torafuku-vancouver)
 
 [Zakkushi Dining On Main](https://www.yelp.ca/biz/zakkushi-dining-on-main-vancouver-2)
@@ -279,8 +276,6 @@ Italian Kitchen
 The boat house
 
 Ajisai sushi bar
-
-Mott32
 
 Mr Red Cafe
 
