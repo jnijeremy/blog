@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Food List
-update: 2020-02-02
+update: 2020-10-12
 excerpt: <p>Where to eat in Vancouver</p>
 
 ---
@@ -9,13 +9,15 @@ excerpt: <p>Where to eat in Vancouver</p>
 ### West Coast
 [Provence Marinaside](https://www.provencemarinaside.ca/)
 
-[blue water cafe](https://www.bluewatercafe.net/)
+[Blue Water Cafe](https://www.bluewatercafe.net/)
 
 [Joe Fortes](http://www.joefortes.ca/)
 
 [Tea House in Stanly Park](https://www.vancouverdine.com/teahouse/)
 
 [Coast](http://www.glowbalgroup.com/coast/)
+
+[Publish on Main](https://publishedonmain.com/)
 
 [Rodney's Oyster House](http://rohvan.com/)
 
@@ -58,6 +60,8 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [福满楼海鲜酒家 Fortune Terrace Chinese Cuisine](http://fortuneterrace.com/)
 
+[王子海鲜酒家](https://www.princeseafoodrestaurant.ca/)
+
 [釣魚台海鮮酒家 Fisherman's Terrace Seafood](https://www.yelp.ca/biz/fishermans-terrace-seafood-restaurant-richmond)
 
 [皇朝 Dynasty Restaurant](http://dynasty-restaurant.ca)
@@ -85,7 +89,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [滬江海派料理 Shanghai River Restaurant](https://www.yelp.ca/biz/shanghai-river-richmond)
 
-[Yuan’s Shanghai Serendipity Cuisine 源-周易上海料理](https://www.yelp.ca/biz/yuans-shanghai-serendipity-cuisine-richmond)
+[上海点心店](https://www.yelp.ca/biz/wangs-shanghai-cuisine-vancouver)
 
 ---
 
@@ -94,9 +98,9 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [台湾台北原创花雕鸡](https://www.vandiary.com/2015/04/17/taiwan-taipei-original-pot-alexandra-road/)
 
-[Red Beef Noddle](http://www.redbeef.ca/)
+[Red Beef Noddle 红牛牛肉面](http://www.redbeef.ca/)
 
-[JY Noodle](http://jynoodle.com/en/homepage/)
+[JY Noodle 京园牛肉面](http://jynoodle.com/en/homepage/)
 
 ---
 
@@ -121,7 +125,7 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 [郝记全羊馆](https://www.yelp.ca/biz/haos-lamb-restaurant-richmond)
 
-[元气海鲜蒸锅料理](http://www.vitalitysteamseafood.com/zh/home2/)
+[木屋炭烤](https://happytreehousebbq.com/location/Kingsway/)
 
 [品一品麻辣香锅](https://www.yelp.ca/biz/chef-pin-vancouver)
 
@@ -129,8 +133,6 @@ excerpt: <p>Where to eat in Vancouver</p>
 
 - 5:30pm-11:00pm, 周三休息
 - 香辣蟹
-
-[老西安 Old Xian's Food](http://www.oldxiansfood.com/)
 
 [御膳房](https://www.bcbay.com/biz/viewinfo.php?id=5586)
 
@@ -164,9 +166,13 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Korean
+[SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
+
 [Kook Korean BBQ](https://www.kookbbq.ca/)
 
-[SURA Korean Royal Cuisine Restaurant](http://www.surakoreancuisine.com/#robson)
+[Arisu Korean BBQ](https://www.yelp.ca/biz/arisu-authentic-korean-bbq-burnaby)
+
+[Sooda Kerean BBQ](https://www.hellosooda.com/)
 
 [House of Tofu Soup](https://www.yelp.ca/biz/house-of-tofu-soup-burnaby)
 
@@ -223,82 +229,32 @@ excerpt: <p>Where to eat in Vancouver</p>
 ---
 
 ### Dessert
-[多乐蜜 Doolami Dessert](https://www.yelp.ca/biz/doolami-dessert-vancouver)
-
 [杏记甜品 Sweet Honey Dessert](https://www.yelp.com/biz/sweethoney-dessert-richmond-3?osq=SweetHoney+Dessert)
-
-[Mister Ice Cream](http://madebymister.com/)
 
 [Bubble Fruity 果间茶坊（桂花林）](https://www.yelp.ca/biz/bubble-fruity-richmond)
 
-- 芝麻糊
-- 核桃糊
-
-[nana's green tea](http://www.nanasgreentea.com/en/)
+[阿一糖水](https://www.yelp.ca/biz/the-first-dessert-vancouver)
 
 [Lotus cake boutique](https://www.yelp.ca/biz/l-otus-cake-boutique-richmond)
 
 [仙芋传奇](https://www.facebook.com/pages/Fresh-Legend-%E4%BB%99%E8%8A%8B%E5%82%B3%E5%A5%87/472971829469391)
 
-有米酸奶
+有米酸奶 (various locations)
 
-- 2070 W 41st Ave, Vancouver, BC V6M 1Y8
-- 1500 - 4380 No 3 Rd #140, Richmond 百家店 Parker place foodcourt
+[Mister Ice Cream](http://madebymister.com/)
+
+[Earnest Ice Cream](https://earnesticecream.com/)
+
+[The Praguery](https://praguery.com/)
+
+[nana's green tea](http://www.nanasgreentea.com/en/)
+
+[Cheese Cake etc](https://www.cheesecakeetc.com/)
+
+[Beta 5](https://shop.beta5chocolates.com/)
 
 ---
 
 [Vancouver lunch list](https://www.yelp.ca/collection/mvwkiRoZhsyHdzzJsyhC3w)
 
 ---
-
-## Wish List
-
-[Torafuku](https://www.yelp.ca/biz/torafuku-vancouver)
-
-[Zakkushi Dining On Main](https://www.yelp.ca/biz/zakkushi-dining-on-main-vancouver-2)
-
-[Los Amigos Taqueria](https://www.yelp.ca/biz/los-amigos-taqueria-vancouver)
-
-[Zefferelli’s](https://www.yelp.ca/biz/zefferellis-vancouver)
-
-[Seasons In the Park](https://www.yelp.ca/biz/seasons-in-the-park-vancouver)
-
-[Jam Cafe on Beatty](https://www.yelp.ca/biz/jam-cafe-on-beatty-vancouver)
-
-[Bacchus Restaurant & Lounge](https://www.yelp.ca/biz/bacchus-restaurant-and-lounge-vancouver)
-
-南轩 金沙蟹
-
-Passion 8 Dessert cafe
-
-Italian Kitchen
-
-The boat house
-
-Ajisai sushi bar
-
-Mr Red Cafe
-
-Oyester express
-
-beta5 chocolate
-
-Bestie
-
-top gun j&C
-
-味蜀吾沸腾三国火锅
-
-taka sushi
-
-pidgin
-
-wara thai eatery
-
-成都菜馆
-
-Shiok sigapore cuisine: 1716 Kingsway St Vancouver BC V5N 2S4
-
-Z&W Shanghai Kitchen
-
-白玉兰

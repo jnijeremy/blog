@@ -1,26 +1,32 @@
 ---
 layout: post
 title: Watch List
-update: 2020-02-02
+update: 2020-10-12
 excerpt: <p>Things I watch</p>
 
 ---
 
 # Movies
 
-[Watched movie list](https://movie.douban.com/people/58048467/)
+* [The Laundromat](https://www.imdb.com/title/tt5865326/)
+* [Douban watched movie list](https://movie.douban.com/people/58048467/)
 
 # TV Shows
 
+* [Into the night](https://www.imdb.com/title/tt10919486/)
+* [Emily in Paris](https://www.imdb.com/title/tt8962124/)
+* [隐秘的角落](https://movie.douban.com/subject/33404425/)
+* [Raised by wolves](https://www.imdb.com/title/tt9170108/)
+* [Years and Years](https://www.imdb.com/title/tt8694364/)
 * [Queer Eye](https://www.imdb.com/title/tt7259746/) (s03e03)
 * [The Morning Show](https://www.imdb.com/title/tt7203552/)
 * [Why women kill](https://www.imdb.com/title/tt9054904/)
 * [胜者即是正义 リーガル・ハイ](https://www.imdb.com/title/tt2276587/?ref_=nv_sr_1?ref_=nv_sr_1) (s01e01)
 * [Yes, Minister](https://www.imdb.com/title/tt0080306/)
-* [Yes, Prime Minister](https://www.imdb.com/title/tt0086831/) (s01e04)
+* [Yes, Prime Minister](https://www.imdb.com/title/tt0086831/) (s01e05)
 * [Big Little Lies](https://www.imdb.com/title/tt3920596/)
 * [Black Mirror](http://www.imdb.com/title/tt2085059/) (s04)
-* [Modern Family](http://www.imdb.com/title/tt1442437/) (s11e11)
+* [Modern Family](http://www.imdb.com/title/tt1442437/) (s11e14)
 * [Fresh Off The Boat](http://www.imdb.com/title/tt3551096/) (s05e21）
 * [This Is Us](https://www.imdb.com/title/tt5555260/) (s03e17)
 * [Crown](http://www.imdb.com/title/tt4786824/)
